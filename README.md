@@ -1,74 +1,114 @@
 # Revenue Leakage Detection & E-commerce Operations Analytics
 
-Business Problem
+An end-to-end data analytics project that identifies revenue leakage, analyzes failed orders and fulfillment performance, and evaluates return/refund behavior using Python, MySQL, and Power BI.
 
-E-commerce businesses can lose significant revenue through failed orders, returns, delivery failures, refunds, and operational inefficiencies. This project analyzes transaction, shipment, product, and customer data to identify major sources of revenue leakage and operational risk.
+The project focuses on answering a practical business question:
 
-Objective
+> **Where is the business losing revenue, and which operational factors are contributing to that loss?**
 
-Identify where revenue is being lost, quantify the financial impact, and uncover operational and customer segments that require attention.
+---
 
-Dataset
+## 📊 Dashboard Preview
 
-Six interconnected tables:
+The final Power BI dashboard contains four analytical pages:
 
-Orders
-Customers
-Products
-Order Items
-Shipments
-Returns & Refunds
+1. **Executive Overview**
+2. **Shipment & Courier Performance**
+3. **Returns & Refunds**
+4. **Product & Customer Leakage**
 
-Dataset size:
+---
 
-10,000 orders | 17,000 order items | 10,000 shipments | 5,493 return/refund cases
+## 🎯 Business Problem
 
-17. Tools
-Python
-Pandas
-NumPy
-MySQL
-SQL
-Power BI
-DAX
-Python
+E-commerce businesses can lose revenue through failed orders, returns, refunds, delivery issues, and operational inefficiencies.
 
-Used for:
+Simply looking at total sales does not reveal where these losses occur.
 
-Data inspection
-Missing-value analysis
-Duplicate checks
-Data-type conversion
-Date cleaning
-Invalid-value handling
-Exporting cleaned datasets
-SQL
+This project analyzes transactional, customer, product, shipment, and return/refund data to:
 
-Used for:
+- Quantify total revenue leakage
+- Identify the major sources of revenue loss
+- Analyze failed orders and their financial impact
+- Compare courier and shipment performance
+- Understand return and refund patterns
+- Identify high-loss product categories and products
+- Analyze customer segments and churn risk associated with leakage
+- Provide actionable insights for reducing revenue leakage
 
-Revenue analysis
-Leakage analysis
-Failure analysis
-Shipment analysis
-Returns/refunds analysis
-Product analysis
-Customer-risk analysis
-Analytical views
-Power BI
+---
 
-Used for:
+## 🗂️ Dataset
 
-KPI development
-Interactive dashboarding
-Operational analysis
-Product/customer segmentation
-Courier performance analysis
+The project uses a multi-table e-commerce dataset containing:
 
-Key Findings
-₹53.4M in revenue leakage was identified, representing a 9.59% leakage rate against total order value.
-Failed orders represented 9.84% of orders but contributed 99.53% of total revenue leakage.
-Customer Refused and Late Delivery accounted for approximately 77% of return cases.
-Late deliveries affected more than half of shipments across all courier partners, indicating a broad logistics-performance issue.
-QuickShip India recorded the lowest delivery success rate among the analyzed courier partners at 59.65%.
-Product leakage was concentrated in high-value technology categories, particularly laptops and mobiles.
-High-value customers represented the largest absolute leakage exposure, highlighting the importance of protecting high-value customer relationships.
+| Table | Records |
+|---|---:|
+| Customers | 10,500 |
+| Products | 1,600 |
+| Orders | 10,000 |
+| Order Items | 17,000 |
+| Shipments | 10,000 |
+| Returns & Refunds | 5,493 |
+
+The data was cleaned and transformed before being loaded into MySQL for analysis.
+
+---
+
+# 🛠️ Tools & Technologies
+
+### Python
+- Pandas
+- NumPy
+- Jupyter Notebook
+
+### SQL
+- MySQL
+- CTEs
+- Aggregations
+- CASE statements
+- Window functions
+- Joins
+- Views
+- Data validation
+
+### Data Visualization
+- Microsoft Power BI
+- DAX
+- Interactive slicers
+- KPI cards
+- Bar charts
+- Donut charts
+- Treemaps
+- Matrix visualizations
+
+### Version Control
+- Git
+- GitHub
+
+---
+
+# 🔄 Project Workflow
+
+```text
+Raw Dataset
+     ↓
+Python Data Cleaning
+     ↓
+Data Validation
+     ↓
+Clean CSV Files
+     ↓
+MySQL Database
+     ↓
+SQL Analysis & Validation
+     ↓
+Analytical SQL Views
+     ↓
+Power BI Data Model
+     ↓
+DAX Measures
+     ↓
+Interactive Dashboard
+     ↓
+Business Insights & Recommendations
