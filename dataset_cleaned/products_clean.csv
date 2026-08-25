@@ -1,0 +1,1601 @@
+product_id,product_name,category,subcategory,brand,selling_price,product_cost,product_rating,launch_date
+1,Noise ColorFit Pro 4 128GB,Electronics,Wearables,Noise,3822.34,2453.73,3.34,2023-12-11
+2,Philips Induction Cooktop 128GB,Home Appliances,Kitchen,Philips,6733.54,5552.56,3.78,2022-04-03
+3,Metal Bookshelf Pro,Furniture,Office,LG,11616.64,9089.66,3.34,2024-04-06
+4,Apple iPhone 12 Black,Mobiles,Smartphones,Apple,121078.87,75780.57,3.93,2023-07-18
+5,Nivea Roll-On Deodorant,Beauty,Skincare,Nivea,331.76,221.05,4.17,2023-04-23
+6,Prestige Sandwich Maker,Home Appliances,Kitchen,Prestige,3858.92,2378.16,4.63,2023-11-04
+7,Noise Ultra 2 Black,Electronics,Wearables,Noise,2327.69,1956.06,4.17,2023-04-13
+8,Tata Salt 1kg Blue,Grocery,Staples,Prestige,822.97,571.13,3.45,2024-03-12
+9,HP Chromebook 14 Edition,Laptops,Budget Laptops,HP,36017.37,28412.55,4.46,2024-03-28
+10,Aashirvaad Atta 10kg Blue,Grocery,Staples,Prestige,661.22,443.5,4.43,2023-10-08
+11,LG Direct Cool Refrigerator Pro,Home Appliances,Cooling,LG,23533.14,16994.41,4.59,2022-03-03
+12,Metal Bookshelf,Furniture,Office,LG,13993.18,10954.46,3.87,2024-04-09
+13,Noise Pulse 2 Max Silver,Electronics,Wearables,Noise,3885.29,3145.18,3.01,2022-06-24
+14,Puma Track Pants Pack of 2,Fashion,Apparel,Puma,2125.0,1355.86,3.88,2022-04-02
+15,Puma Track Pants,Fashion,Apparel,Puma,1095.25,929.75,4.23,2023-04-21
+16,Apple MacBook Pro M3 Silver,Laptops,Thin & Light,Apple,85267.12,70183.9,2.87,2022-07-05
+17,Fortune Sunflower Oil 5L V2,Grocery,Staples,Prestige,526.33,388.13,4.87,2022-05-04
+18,Nivea Roll-On Deodorant Blue,Beauty,Skincare,Nivea,219.13,156.56,4.67,2023-01-24
+19,boAt Rockerz 255 Pro,Electronics,Audio,boAt,2902.38,2334.56,3.63,2024-03-17
+20,Samsung Galaxy M34 Pack of 2,Mobiles,Smartphones,Samsung,21536.92,18338.03,3.26,2023-04-19
+21,Aashirvaad Atta 10kg Pro,Grocery,Staples,Prestige,417.88,303.23,3.79,2024-02-14
+22,Puma Running Shoes Pro,Fashion,Men Footwear,Puma,4507.04,2967.27,2.72,2022-11-23
+23,Puma Sports Jacket Silver,Fashion,Apparel,Puma,2254.98,1517.06,4.93,2022-11-29
+24,Apple MacBook Air M2 Blue,Laptops,Thin & Light,Apple,143987.71,115839.58,2.79,2023-10-30
+25,Philips Air Fryer HD9200 Black,Home Appliances,Kitchen,Philips,6849.54,5304.37,3.86,2023-11-06
+26,Prestige Pressure Cooker 5L V2,Home Appliances,Kitchen,Prestige,4152.23,2759.94,3.38,2022-03-07
+27,Fortune Sunflower Oil 5L Edition,Grocery,Staples,Prestige,594.98,375.39,4.36,2022-04-08
+28,Apple MacBook Air M2 Blue,Laptops,Thin & Light,Apple,101663.1,63053.05,3.51,2023-01-08
+29,HP Chromebook 14 V2,Laptops,Budget Laptops,HP,42286.57,30473.77,4.1,2023-04-05
+30,Prestige Pressure Cooker 5L,Home Appliances,Kitchen,Prestige,2584.77,2009.89,2.99,2022-04-02
+31,Nivea Soft Cream 300ml,Beauty,Skincare,Nivea,419.17,272.85,3.95,2024-03-10
+32,Samsung Galaxy M14 5G Pack of 2,Mobiles,Smartphones,Samsung,37169.45,23419.27,3.3,2023-01-16
+33,Puma Sports Jacket Edition,Fashion,Apparel,Puma,2675.61,1664.41,3.56,2023-02-12
+34,Noise Ultra 2 XL,Electronics,Wearables,Noise,3014.06,2468.99,2.86,2023-04-22
+35,Puma Women Leggings Edition,Fashion,Women Apparel,Puma,1495.14,1189.42,3.73,2022-12-20
+36,boAt Car Charger Blue,Mobiles,Accessories,boAt,627.76,496.0,3.3,2023-03-21
+37,Prestige Induction Cooktop 256GB,Home Appliances,Kitchen,Prestige,1893.59,1532.77,3.41,2024-04-20
+38,Apple MacBook Air M1 128GB,Laptops,Thin & Light,Apple,175329.35,153535.45,2.74,2023-10-15
+39,Samsung Galaxy A54 V2,Mobiles,Smartphones,Samsung,15502.07,11456.84,4.9,2022-03-25
+40,HP Chromebook 14 V2,Laptops,Budget Laptops,HP,29011.05,20473.69,2.77,2023-09-14
+41,Aashirvaad Atta 10kg,Grocery,Staples,Prestige,990.24,627.64,4.1,2023-09-07
+42,Philips Air Fryer HD9200 128GB,Home Appliances,Kitchen,Philips,7358.23,5179.95,4.84,2022-08-22
+43,Metal Bookshelf Blue,Furniture,Office,LG,6086.88,4831.99,4.99,2023-10-29
+44,LG 1.5 Ton 5 Star AI Dual Inverter Split AC,Home Appliances,Cooling,LG,35028.51,29705.22,4.99,2022-06-27
+45,Puma Softride Rift Black,Fashion,Men Footwear,Puma,5292.4,3482.33,3.01,2022-10-11
+46,Noise Ultra 2 Pro,Electronics,Wearables,Noise,4876.53,3024.76,2.79,2023-02-02
+47,Philips Induction Cooktop Blue,Home Appliances,Kitchen,Philips,4499.83,3092.71,2.56,2023-12-18
+48,HP Chromebook 14 Black,Laptops,Budget Laptops,HP,29841.27,18951.81,4.85,2023-04-25
+49,Noise Ultra 2 Silver,Electronics,Wearables,Noise,4516.01,3837.83,4.18,2024-04-04
+50,Philips Induction Cooktop Black,Home Appliances,Kitchen,Philips,7178.02,5034.04,4.0,2022-11-26
+51,Nivea Roll-On Deodorant Silver,Beauty,Skincare,Nivea,467.19,359.97,3.46,2023-02-08
+52,Samsung Galaxy S23 FE 128GB,Mobiles,Smartphones,Samsung,23600.44,16626.61,2.61,2024-01-04
+53,Philips Hair Straightener Pack of 2,Beauty,Personal Care,Philips,2531.12,1624.27,3.23,2023-06-26
+54,Apple MacBook Pro M3 V2,Laptops,Thin & Light,Apple,86418.7,52856.79,3.36,2022-10-26
+55,LG 1.5 Ton 5 Star AI Dual Inverter Split AC 256GB,Home Appliances,Cooling,LG,38559.98,30709.46,3.08,2022-03-16
+56,Apple MacBook Air M1 Blue,Laptops,Thin & Light,Apple,174294.31,106910.95,4.36,2023-03-01
+57,HP Omen 16 Black,Laptops,Gaming Laptops,HP,77663.62,58611.14,3.51,2022-07-17
+58,Puma Women Sports Bra Silver,Fashion,Women Apparel,Puma,2642.32,1926.8,2.97,2022-07-08
+59,Noise ColorFit Pulse 256GB,Electronics,Audio,Noise,3388.26,2234.1,4.18,2022-09-24
+60,boAt Rockerz 255 Blue,Electronics,Audio,boAt,1296.99,1093.02,3.89,2024-04-06
+61,Nivea Roll-On Deodorant Pro,Beauty,Skincare,Nivea,765.87,593.54,3.27,2023-12-20
+62,boAt Power Bank 10000mAh,Mobiles,Accessories,boAt,1751.48,1190.09,3.97,2023-03-06
+63,HP Omen 16,Laptops,Gaming Laptops,HP,58822.41,43825.32,3.76,2023-03-16
+64,LG Direct Cool Refrigerator 128GB,Home Appliances,Cooling,LG,27489.86,19311.56,2.65,2022-09-25
+65,Prestige Pressure Cooker 5L Silver,Home Appliances,Kitchen,Prestige,1669.44,1048.65,4.13,2023-02-01
+66,boAt Rockerz 255 Silver,Electronics,Audio,boAt,2441.02,1692.58,2.6,2023-09-11
+67,Ergonomic Executive Office Chair Blue,Furniture,Office,LG,5611.24,4085.61,4.87,2023-11-17
+68,LG Direct Cool Refrigerator V2,Home Appliances,Cooling,LG,41483.94,35361.71,4.11,2023-11-06
+69,Puma Women Leggings Pack of 2,Fashion,Women Apparel,Puma,2387.51,2023.01,2.51,2022-07-14
+70,Philips Beard Trimmer Series 3000 Black,Beauty,Personal Care,Philips,2559.4,1902.58,3.54,2022-04-05
+71,HP Victus 15 Pack of 2,Laptops,Gaming Laptops,HP,75515.31,65465.13,3.44,2023-07-09
+72,Nivea Soft Cream 300ml 256GB,Beauty,Skincare,Nivea,743.74,545.64,2.68,2022-11-21
+73,Prestige Sandwich Maker Black,Home Appliances,Kitchen,Prestige,3258.39,2421.79,4.58,2023-03-07
+74,Puma Smash v2 Sneakers XL,Fashion,Men Footwear,Puma,2354.49,1698.76,2.84,2023-04-12
+75,Metal Bookshelf XL,Furniture,Office,LG,8157.48,6028.94,2.81,2023-11-04
+76,Wooden Study Table V2,Furniture,Office,LG,14993.91,9051.09,3.93,2022-04-12
+77,Nivea Roll-On Deodorant V2,Beauty,Skincare,Nivea,375.9,264.58,3.27,2023-01-12
+78,Samsung Galaxy A54,Mobiles,Smartphones,Samsung,24058.57,18181.22,2.62,2024-03-20
+79,HP Chromebook 14 128GB,Laptops,Budget Laptops,HP,37609.6,27108.84,3.63,2023-01-29
+80,Metal Bookshelf Pack of 2,Furniture,Office,LG,5102.56,4320.49,3.96,2023-08-03
+81,boAt Rockerz 255 Blue,Electronics,Audio,boAt,1588.45,1155.25,4.62,2022-04-25
+82,Philips Beard Trimmer Series 3000 Edition,Beauty,Personal Care,Philips,2097.58,1446.03,4.58,2022-11-14
+83,HP Omen 16 Pack of 2,Laptops,Gaming Laptops,HP,67349.49,45491.92,2.98,2022-11-01
+84,Noise Pulse 2 Max Pro,Electronics,Wearables,Noise,2164.95,1672.58,2.74,2022-04-23
+85,Nivea Soft Cream 300ml 128GB,Beauty,Skincare,Nivea,422.79,295.48,2.98,2023-08-18
+86,Noise Pure Pods Edition,Electronics,Audio,Noise,3175.74,2117.31,3.89,2022-07-16
+87,Puma Running Shoes Black,Fashion,Men Footwear,Puma,3322.65,2741.94,4.09,2023-01-12
+88,Prestige Pressure Cooker 5L V2,Home Appliances,Kitchen,Prestige,1758.72,1063.51,3.7,2023-09-20
+89,Puma Women Leggings Black,Fashion,Women Apparel,Puma,700.33,447.1,3.27,2023-07-27
+90,Nivea Roll-On Deodorant Black,Beauty,Skincare,Nivea,664.2,525.53,3.11,2023-12-21
+91,boAt Car Charger Black,Mobiles,Accessories,boAt,1351.15,982.02,3.34,2023-09-04
+92,Apple iPhone 14 Blue,Mobiles,Smartphones,Apple,55734.91,42938.71,3.04,2023-08-04
+93,HP 250 G8 Silver,Laptops,Budget Laptops,HP,26807.56,17758.1,4.48,2022-08-28
+94,LG 1.5 Ton 5 Star AI Dual Inverter Split AC Silver,Home Appliances,Cooling,LG,43997.06,28323.19,3.07,2024-03-14
+95,Samsung Galaxy M34,Mobiles,Smartphones,Samsung,24006.46,19028.78,4.13,2022-03-20
+96,Prestige Pressure Cooker 5L Silver,Home Appliances,Kitchen,Prestige,2121.52,1808.38,3.8,2022-03-31
+97,Nivea Body Lotion 400ml 256GB,Beauty,Skincare,Nivea,286.42,192.03,3.91,2022-11-02
+98,Noise ColorFit Pulse Edition,Electronics,Audio,Noise,2400.3,1468.59,4.35,2022-02-28
+99,Puma Sports Jacket Edition,Fashion,Apparel,Puma,2052.78,1429.4,4.8,2023-02-08
+100,boAt Stone 352 Speaker Pack of 2,Electronics,Audio,boAt,2961.16,2451.26,4.85,2022-12-07
+101,HP Victus 15 Edition,Laptops,Gaming Laptops,HP,68775.54,49681.62,4.94,2022-11-30
+102,Samsung Galaxy M14 5G,Mobiles,Smartphones,Samsung,47452.25,37411.16,3.59,2023-03-05
+103,Puma Running Shoes XL,Fashion,Men Footwear,Puma,3868.11,2421.74,3.11,2023-04-03
+104,Philips Hair Straightener 256GB,Beauty,Personal Care,Philips,1053.46,834.68,4.37,2022-05-13
+105,Apple MacBook Pro M3 Pro,Laptops,Thin & Light,Apple,172880.36,151137.6,4.91,2023-06-04
+106,Samsung Galaxy M14 5G Pack of 2,Mobiles,Smartphones,Samsung,23476.97,17961.09,3.4,2022-10-25
+107,Nivea Soft Cream 300ml Edition,Beauty,Skincare,Nivea,284.52,240.09,4.98,2023-05-13
+108,Apple MacBook Air M1 Edition,Laptops,Thin & Light,Apple,108060.7,67421.24,4.92,2023-03-09
+109,Noise ColorFit Pulse Blue,Electronics,Audio,Noise,1838.39,1150.67,3.65,2023-11-07
+110,Apple iPhone 15 Pro Black,Mobiles,Smartphones,Apple,118575.77,76758.96,3.24,2022-08-06
+111,Samsung Galaxy M14 5G Edition,Mobiles,Smartphones,Samsung,38654.56,27337.38,4.42,2022-09-29
+112,HP Omen 16 V2,Laptops,Gaming Laptops,HP,86793.43,73645.3,2.82,2024-03-22
+113,boAt Car Charger 256GB,Mobiles,Accessories,boAt,870.54,745.07,2.9,2023-08-26
+114,Samsung Galaxy A54 256GB,Mobiles,Smartphones,Samsung,46974.46,39116.74,3.38,2023-05-04
+115,Aashirvaad Atta 10kg V2,Grocery,Staples,Prestige,362.06,241.73,3.47,2024-02-25
+116,Philips Hair Dryer Edition,Beauty,Personal Care,Philips,2413.81,1509.68,4.05,2024-01-27
+117,LG Direct Cool Refrigerator V2,Home Appliances,Cooling,LG,19742.72,14294.73,2.82,2022-04-15
+118,HP Laptop 15s Blue,Laptops,Budget Laptops,HP,29857.44,20908.71,4.59,2022-11-09
+119,HP Omen 16,Laptops,Gaming Laptops,HP,77500.66,57252.93,4.21,2023-09-18
+120,Apple MacBook Air M1 Pack of 2,Laptops,Thin & Light,Apple,127274.2,89521.66,3.36,2023-09-11
+121,Tata Salt 1kg V2,Grocery,Staples,Prestige,250.81,157.38,3.57,2023-05-29
+122,Puma Smash v2 Sneakers XL,Fashion,Men Footwear,Puma,2414.47,1637.5,4.69,2023-08-18
+123,Nivea Body Lotion 400ml Blue,Beauty,Skincare,Nivea,246.09,197.67,3.42,2022-02-15
+124,Puma Running Shoes Blue,Fashion,Men Footwear,Puma,1916.25,1545.64,4.95,2022-10-27
+125,Philips 750W Mixer Grinder Blue,Home Appliances,Kitchen,Philips,7109.25,5548.49,4.07,2023-04-25
+126,Prestige Pressure Cooker 5L Pack of 2,Home Appliances,Kitchen,Prestige,1983.21,1366.18,4.32,2022-04-30
+127,Puma Women Sports Bra Black,Fashion,Women Apparel,Puma,2230.56,1920.66,4.69,2023-12-11
+128,Prestige Sandwich Maker Silver,Home Appliances,Kitchen,Prestige,2134.53,1532.27,4.89,2022-10-30
+129,Tata Salt 1kg Black,Grocery,Staples,Prestige,879.21,560.76,3.78,2024-04-06
+130,Ergonomic Executive Office Chair V2,Furniture,Office,LG,7348.9,5947.49,4.4,2022-06-17
+131,Samsung Galaxy S23 FE Black,Mobiles,Smartphones,Samsung,26403.44,21892.93,4.57,2022-06-09
+132,Puma Casual Tee Edition,Fashion,Women Apparel,Puma,2548.46,2024.88,4.84,2023-02-20
+133,Puma Women Leggings 128GB,Fashion,Women Apparel,Puma,2306.36,1891.03,4.12,2023-01-23
+134,Ergonomic Executive Office Chair Silver,Furniture,Office,LG,11908.53,9308.24,3.44,2023-11-16
+135,Noise Pulse 2 Max Pack of 2,Electronics,Wearables,Noise,2028.61,1329.54,3.3,2023-06-08
+136,Nivea Body Lotion 400ml Pro,Beauty,Skincare,Nivea,646.44,532.87,2.55,2024-03-01
+137,boAt Power Bank 10000mAh Silver,Mobiles,Accessories,boAt,1739.85,1375.44,4.99,2023-09-23
+138,Aashirvaad Atta 10kg 256GB,Grocery,Staples,Prestige,350.95,272.67,3.08,2022-07-22
+139,Philips Hair Straightener XL,Beauty,Personal Care,Philips,1485.23,1072.63,4.19,2024-01-13
+140,Noise ColorFit Pulse 128GB,Electronics,Audio,Noise,2580.55,1683.57,3.64,2023-08-18
+141,boAt Car Charger V2,Mobiles,Accessories,boAt,1702.25,1282.89,4.95,2023-10-02
+142,Puma Running Shoes Black,Fashion,Men Footwear,Puma,1981.3,1335.04,4.96,2023-09-13
+143,Puma Casual Tee Black,Fashion,Women Apparel,Puma,2617.21,1783.58,4.03,2022-04-26
+144,boAt Rockerz 255,Electronics,Audio,boAt,2699.16,1726.95,3.87,2023-03-08
+145,Nivea Body Lotion 400ml Black,Beauty,Skincare,Nivea,274.73,189.86,2.78,2022-05-03
+146,HP Victus 15 Edition,Laptops,Gaming Laptops,HP,80324.28,67136.95,3.83,2022-02-21
+147,Puma Running Shoes Pack of 2,Fashion,Men Footwear,Puma,3458.77,2828.15,3.55,2023-03-26
+148,Apple iPhone 13 Blue,Mobiles,Smartphones,Apple,60801.41,46758.71,2.94,2022-08-08
+149,Prestige Pressure Cooker 5L V2,Home Appliances,Kitchen,Prestige,3820.3,2565.73,3.84,2022-07-14
+150,Apple iPhone 12 128GB,Mobiles,Smartphones,Apple,43135.57,37165.16,4.97,2022-06-21
+151,Puma Running Shoes Black,Fashion,Men Footwear,Puma,3701.2,2734.15,4.75,2022-09-02
+152,Apple iPhone 12 Edition,Mobiles,Smartphones,Apple,110450.49,90406.37,3.12,2023-07-24
+153,HP Laptop 15s 256GB,Laptops,Budget Laptops,HP,39307.26,28599.02,4.97,2023-04-25
+154,Prestige Induction Cooktop Silver,Home Appliances,Kitchen,Prestige,3811.09,2790.54,2.54,2022-04-08
+155,Philips Induction Cooktop V2,Home Appliances,Kitchen,Philips,6759.98,5212.7,3.44,2023-11-11
+156,Puma Track Pants Black,Fashion,Apparel,Puma,2305.14,1899.11,4.58,2023-11-26
+157,Samsung Galaxy A54,Mobiles,Smartphones,Samsung,39923.68,24352.86,4.02,2022-11-20
+158,Noise ColorFit Pro 4 Pro,Electronics,Wearables,Noise,2038.97,1560.34,3.09,2023-09-06
+159,Nivea Soft Cream 300ml 256GB,Beauty,Skincare,Nivea,332.72,248.41,3.68,2023-10-19
+160,Nivea Roll-On Deodorant Silver,Beauty,Skincare,Nivea,589.97,441.41,3.83,2022-10-02
+161,boAt Power Bank 10000mAh Pro,Mobiles,Accessories,boAt,1230.1,749.42,3.31,2022-07-15
+162,Puma Women Leggings V2,Fashion,Women Apparel,Puma,1247.4,759.86,2.59,2022-09-29
+163,HP 250 G8 XL,Laptops,Budget Laptops,HP,44768.27,28026.36,4.37,2022-08-21
+164,Ergonomic Executive Office Chair Pack of 2,Furniture,Office,LG,5969.19,5059.94,3.55,2023-12-26
+165,Puma Smash v2 Sneakers 256GB,Fashion,Men Footwear,Puma,4937.72,3173.39,3.87,2024-02-20
+166,LG Direct Cool Refrigerator Blue,Home Appliances,Cooling,LG,26144.85,22196.15,4.41,2024-03-15
+167,HP Victus 15 Pro,Laptops,Gaming Laptops,HP,90813.43,69540.63,4.01,2023-01-18
+168,LG 260L Double Door Refrigerator Pro,Home Appliances,Cooling,LG,24098.28,20751.32,3.01,2023-08-14
+169,Philips Air Fryer HD9200 Blue,Home Appliances,Kitchen,Philips,6619.4,4308.13,4.5,2023-12-24
+170,Apple iPhone 14 Blue,Mobiles,Smartphones,Apple,100878.51,72572.55,3.75,2023-05-16
+171,Prestige Induction Cooktop 128GB,Home Appliances,Kitchen,Prestige,2900.67,2134.98,2.57,2023-03-16
+172,Nivea Body Lotion 400ml Pro,Beauty,Skincare,Nivea,348.87,242.24,3.65,2022-06-02
+173,Puma Casual Tee Blue,Fashion,Women Apparel,Puma,1351.37,1032.53,4.82,2022-09-28
+174,HP 250 G8 V2,Laptops,Budget Laptops,HP,30123.15,20653.25,4.24,2022-04-25
+175,Fortune Sunflower Oil 5L Pro,Grocery,Staples,Prestige,579.09,414.71,2.63,2023-09-27
+176,Apple iPhone 12 V2,Mobiles,Smartphones,Apple,95686.66,81446.17,2.76,2022-06-11
+177,Philips Hair Straightener Black,Beauty,Personal Care,Philips,1395.34,1030.57,4.32,2022-03-27
+178,Apple MacBook Air M2 256GB,Laptops,Thin & Light,Apple,145568.91,95991.44,3.54,2023-11-26
+179,HP Omen 16 128GB,Laptops,Gaming Laptops,HP,71832.87,43131.65,2.78,2023-11-01
+180,Apple MacBook Air M1 Blue,Laptops,Thin & Light,Apple,112845.7,81631.17,4.86,2023-07-01
+181,Samsung Galaxy S23 FE Pack of 2,Mobiles,Smartphones,Samsung,40273.05,29075.74,2.73,2023-08-27
+182,Apple MacBook Air M2 Pro,Laptops,Thin & Light,Apple,143105.46,90615.8,3.4,2023-06-19
+183,Philips Beard Trimmer Series 3000,Beauty,Personal Care,Philips,2735.6,1703.55,4.81,2022-05-19
+184,Nivea Body Lotion 400ml 256GB,Beauty,Skincare,Nivea,392.62,251.57,3.53,2023-04-16
+185,Puma Casual Tee 128GB,Fashion,Women Apparel,Puma,987.57,780.62,4.8,2022-05-07
+186,Apple MacBook Pro M3 Pack of 2,Laptops,Thin & Light,Apple,118273.99,85129.25,3.72,2023-06-05
+187,Noise ColorFit Pulse Pro,Electronics,Audio,Noise,3239.79,2535.62,3.94,2023-03-12
+188,LG 260L Double Door Refrigerator 256GB,Home Appliances,Cooling,LG,43239.04,35493.61,3.23,2022-05-17
+189,Puma Sports Jacket XL,Fashion,Apparel,Puma,2123.95,1800.34,4.33,2022-10-31
+190,Philips Air Fryer HD9200 V2,Home Appliances,Kitchen,Philips,3339.03,2350.43,4.89,2024-01-01
+191,Philips Hair Straightener 128GB,Beauty,Personal Care,Philips,1689.13,1465.43,3.53,2022-03-31
+192,Samsung Galaxy M14 5G Edition,Mobiles,Smartphones,Samsung,32254.74,20537.69,3.46,2023-06-14
+193,Apple MacBook Air M2 128GB,Laptops,Thin & Light,Apple,129172.73,82196.17,2.82,2022-03-05
+194,Puma T-shirt Pack of 2,Fashion,Apparel,Puma,2698.45,1761.05,4.47,2022-03-19
+195,Samsung Galaxy S23 FE Edition,Mobiles,Smartphones,Samsung,31411.94,21393.13,3.63,2023-09-17
+196,HP Pavilion Gaming Edition,Laptops,Gaming Laptops,HP,61624.8,46044.25,4.95,2022-09-06
+197,Noise ColorFit Pro 4,Electronics,Wearables,Noise,4870.47,3118.64,3.65,2023-05-10
+198,Philips Beard Trimmer Series 3000 XL,Beauty,Personal Care,Philips,2056.64,1782.25,3.14,2022-03-18
+199,Samsung Galaxy M14 5G Pro,Mobiles,Smartphones,Samsung,26074.89,18647.23,4.99,2022-08-12
+200,Noise Buds VS102 Black,Electronics,Audio,Noise,3189.27,2131.74,3.23,2022-09-16
+201,Puma Track Pants Silver,Fashion,Apparel,Puma,1291.43,832.33,4.41,2022-03-19
+202,Apple iPhone 12 Silver,Mobiles,Smartphones,Apple,83953.83,57869.87,3.27,2022-03-30
+203,Nivea Roll-On Deodorant Pro,Beauty,Skincare,Nivea,543.78,366.49,3.92,2022-10-15
+204,Fortune Sunflower Oil 5L,Grocery,Staples,Prestige,443.43,326.02,4.94,2022-07-28
+205,Nivea Roll-On Deodorant Black,Beauty,Skincare,Nivea,400.88,266.97,3.67,2024-03-18
+206,Prestige Pressure Cooker 5L 128GB,Home Appliances,Kitchen,Prestige,1614.43,1294.59,4.49,2022-07-15
+207,Puma Women Leggings,Fashion,Women Apparel,Puma,796.08,620.22,4.42,2022-11-16
+208,Philips Air Fryer HD9200 256GB,Home Appliances,Kitchen,Philips,7944.3,6891.38,4.64,2023-02-22
+209,HP Laptop 15s Edition,Laptops,Budget Laptops,HP,44783.42,26915.46,3.52,2023-04-05
+210,Philips Hair Dryer,Beauty,Personal Care,Philips,1699.58,1066.29,4.47,2023-03-30
+211,Puma Track Pants Silver,Fashion,Apparel,Puma,1481.21,1091.73,4.62,2023-05-24
+212,Wooden Study Table XL,Furniture,Office,LG,9813.12,6515.76,3.35,2023-11-03
+213,LG 1.5 Ton 5 Star AI Dual Inverter Split AC XL,Home Appliances,Cooling,LG,25465.76,18936.68,3.05,2022-03-17
+214,LG 1.5 Ton 5 Star AI Dual Inverter Split AC XL,Home Appliances,Cooling,LG,16299.24,13187.62,2.62,2022-08-10
+215,Wooden Study Table 256GB,Furniture,Office,LG,8966.72,5640.99,3.22,2022-06-16
+216,boAt Rockerz 255 Silver,Electronics,Audio,boAt,3406.16,2429.78,2.87,2024-01-29
+217,Samsung Galaxy M34,Mobiles,Smartphones,Samsung,39439.67,31804.79,3.29,2023-10-21
+218,Philips Air Fryer HD9200 Pro,Home Appliances,Kitchen,Philips,6415.67,4867.98,3.71,2024-03-19
+219,Noise Ultra 2 128GB,Electronics,Wearables,Noise,4417.46,2859.92,3.55,2023-01-21
+220,Puma T-shirt Pro,Fashion,Apparel,Puma,3360.14,2643.69,2.76,2023-04-03
+221,boAt Power Bank 10000mAh Silver,Mobiles,Accessories,boAt,1862.88,1500.19,2.69,2022-11-03
+222,Apple iPhone 12,Mobiles,Smartphones,Apple,129577.13,110981.59,3.13,2023-10-07
+223,Fortune Sunflower Oil 5L Pack of 2,Grocery,Staples,Prestige,986.9,840.47,3.3,2022-11-28
+224,boAt Type-C Cable Pro,Mobiles,Accessories,boAt,1977.53,1330.72,3.47,2024-01-04
+225,Puma Casual Tee,Fashion,Women Apparel,Puma,1280.27,985.6,3.41,2023-09-25
+226,LG 260L Double Door Refrigerator V2,Home Appliances,Cooling,LG,44766.35,32570.21,3.13,2023-03-10
+227,Samsung Galaxy S23 FE Edition,Mobiles,Smartphones,Samsung,54300.88,46367.38,4.69,2022-09-21
+228,Puma T-shirt Silver,Fashion,Apparel,Puma,1579.03,978.34,4.12,2023-05-06
+229,Prestige Sandwich Maker Black,Home Appliances,Kitchen,Prestige,3924.91,2603.19,3.62,2023-06-12
+230,HP Chromebook 14,Laptops,Budget Laptops,HP,32147.34,22637.92,4.56,2024-03-30
+231,Puma Running Shoes,Fashion,Men Footwear,Puma,3736.97,2663.86,3.94,2022-11-21
+232,Samsung Galaxy A54 Edition,Mobiles,Smartphones,Samsung,38831.08,32996.55,4.43,2023-08-10
+233,Philips Hair Dryer Pro,Beauty,Personal Care,Philips,2640.21,2122.25,3.21,2023-12-06
+234,LG Direct Cool Refrigerator Black,Home Appliances,Cooling,LG,47459.41,30729.85,3.39,2024-04-20
+235,Philips Beard Trimmer Series 3000 128GB,Beauty,Personal Care,Philips,1536.81,1114.1,2.54,2022-07-12
+236,Philips Air Fryer HD9200 Silver,Home Appliances,Kitchen,Philips,4589.61,2885.94,2.83,2022-11-14
+237,Puma Track Pants XL,Fashion,Apparel,Puma,1747.18,1299.44,3.68,2022-06-26
+238,Puma Track Pants,Fashion,Apparel,Puma,1757.87,1387.5,4.67,2023-01-13
+239,Puma Casual Tee Edition,Fashion,Women Apparel,Puma,2760.99,2168.0,3.71,2022-05-25
+240,Apple MacBook Air M1 Silver,Laptops,Thin & Light,Apple,138590.82,111233.26,2.81,2022-08-31
+241,Philips Hair Dryer V2,Beauty,Personal Care,Philips,1647.81,1360.34,4.15,2023-01-30
+242,Philips Hair Dryer,Beauty,Personal Care,Philips,1239.27,1002.24,2.96,2022-02-22
+243,HP Omen 16 Blue,Laptops,Gaming Laptops,HP,67752.1,47823.6,3.32,2023-09-09
+244,Prestige Sandwich Maker Black,Home Appliances,Kitchen,Prestige,3669.05,2901.4,4.53,2024-01-17
+245,Philips Induction Cooktop XL,Home Appliances,Kitchen,Philips,3184.05,2473.56,2.65,2023-07-04
+246,Philips Beard Trimmer Series 3000 Edition,Beauty,Personal Care,Philips,1755.56,1139.74,4.0,2024-02-09
+247,Philips Hair Dryer XL,Beauty,Personal Care,Philips,2539.27,1714.66,2.92,2022-09-06
+248,Puma Softride Rift,Fashion,Men Footwear,Puma,1908.15,1203.75,4.17,2022-05-24
+249,Puma Women Leggings XL,Fashion,Women Apparel,Puma,2119.28,1617.61,4.22,2023-02-15
+250,Samsung Galaxy A54 Pro,Mobiles,Smartphones,Samsung,47627.73,30230.8,4.53,2022-10-11
+251,Noise ColorFit Pulse Pack of 2,Electronics,Audio,Noise,2367.88,1625.95,3.49,2023-02-05
+252,Philips Hair Dryer 128GB,Beauty,Personal Care,Philips,2068.04,1620.97,3.0,2023-08-01
+253,Wooden Study Table Black,Furniture,Office,LG,13060.79,9623.64,4.51,2022-03-15
+254,boAt Power Bank 10000mAh Pro,Mobiles,Accessories,boAt,1161.26,819.58,3.96,2023-06-19
+255,Apple iPhone 14 256GB,Mobiles,Smartphones,Apple,109573.83,67629.82,4.86,2022-02-19
+256,boAt Nirvana Ion Pro,Electronics,Audio,boAt,1894.02,1270.03,3.93,2022-08-19
+257,boAt Airdopes 141 128GB,Electronics,Audio,boAt,3692.66,2634.0,4.2,2023-12-16
+258,boAt Type-C Cable,Mobiles,Accessories,boAt,1648.24,1353.25,3.66,2022-03-27
+259,Philips Hair Dryer 256GB,Beauty,Personal Care,Philips,1980.52,1606.65,4.4,2023-06-17
+260,Nivea Body Lotion 400ml Silver,Beauty,Skincare,Nivea,631.42,530.54,2.91,2022-08-29
+261,Samsung Galaxy A54 Edition,Mobiles,Smartphones,Samsung,38676.18,25676.84,2.82,2023-05-03
+262,Noise Pure Pods Pack of 2,Electronics,Audio,Noise,2826.04,2303.78,4.57,2023-12-03
+263,Noise Ultra 2 128GB,Electronics,Wearables,Noise,4480.11,3314.21,3.0,2022-05-15
+264,Puma Casual Tee V2,Fashion,Women Apparel,Puma,1134.64,740.99,3.93,2022-04-25
+265,Puma T-shirt 128GB,Fashion,Apparel,Puma,1326.78,1130.46,4.12,2023-01-13
+266,Philips Hair Dryer XL,Beauty,Personal Care,Philips,2692.51,2281.6,3.16,2024-01-03
+267,Puma Sports Jacket XL,Fashion,Apparel,Puma,825.8,720.02,4.68,2022-06-04
+268,Apple iPhone 12 Edition,Mobiles,Smartphones,Apple,112481.7,68330.96,3.92,2024-01-18
+269,Apple MacBook Air M2 Pack of 2,Laptops,Thin & Light,Apple,130385.87,85684.79,3.12,2023-10-30
+270,Puma Running Shoes 256GB,Fashion,Men Footwear,Puma,3203.45,2405.66,4.0,2022-08-19
+271,Ergonomic Executive Office Chair Black,Furniture,Office,LG,9634.51,7586.71,3.5,2023-03-23
+272,Ergonomic Executive Office Chair,Furniture,Office,LG,8822.9,7354.13,3.81,2024-01-29
+273,Puma Softride Rift,Fashion,Men Footwear,Puma,5210.97,3882.75,2.9,2023-07-27
+274,Apple iPhone 15 Pro V2,Mobiles,Smartphones,Apple,61941.5,47309.77,3.21,2023-06-28
+275,HP Chromebook 14 Black,Laptops,Budget Laptops,HP,33185.93,23975.73,4.08,2023-06-28
+276,HP Victus 15 Pack of 2,Laptops,Gaming Laptops,HP,64431.04,39769.12,3.67,2023-10-15
+277,boAt Rockerz 255 V2,Electronics,Audio,boAt,2384.34,1980.99,2.83,2023-08-29
+278,LG 1.5 Ton 5 Star AI Dual Inverter Split AC Edition,Home Appliances,Cooling,LG,28596.87,18636.16,3.32,2023-04-20
+279,LG 260L Double Door Refrigerator Pro,Home Appliances,Cooling,LG,41417.49,31875.52,3.9,2024-03-11
+280,LG 1.5 Ton 5 Star AI Dual Inverter Split AC Silver,Home Appliances,Cooling,LG,30594.49,20895.96,2.8,2023-08-14
+281,Puma Track Pants Pro,Fashion,Apparel,Puma,1372.61,1157.94,2.58,2023-05-01
+282,boAt Nirvana Ion 256GB,Electronics,Audio,boAt,2944.8,2345.86,3.56,2023-04-06
+283,Puma Running Shoes,Fashion,Men Footwear,Puma,4572.45,3300.92,3.92,2022-06-13
+284,Puma Women Sports Bra XL,Fashion,Women Apparel,Puma,1532.5,1304.06,4.35,2023-12-25
+285,Puma Track Pants Edition,Fashion,Apparel,Puma,3301.99,2599.59,4.31,2024-03-04
+286,Puma T-shirt Pack of 2,Fashion,Apparel,Puma,2792.23,1884.31,3.26,2023-03-25
+287,Puma Softride Rift Black,Fashion,Men Footwear,Puma,5144.9,3492.19,3.57,2023-07-26
+288,Ergonomic Executive Office Chair Silver,Furniture,Office,LG,6762.4,4381.29,3.16,2024-04-19
+289,Puma Sports Jacket Blue,Fashion,Apparel,Puma,2410.54,1688.84,4.27,2022-06-10
+290,HP Chromebook 14,Laptops,Budget Laptops,HP,32947.49,22810.44,3.48,2022-09-09
+291,Samsung Galaxy M34 Silver,Mobiles,Smartphones,Samsung,21975.24,14216.16,3.73,2023-06-30
+292,HP Laptop 15s Black,Laptops,Budget Laptops,HP,42595.72,36290.94,2.76,2024-02-25
+293,LG 1.5 Ton 5 Star AI Dual Inverter Split AC Edition,Home Appliances,Cooling,LG,40759.07,34177.88,2.89,2022-06-16
+294,HP 250 G8 Pack of 2,Laptops,Budget Laptops,HP,41961.75,36561.22,4.07,2024-02-20
+295,Philips Hair Dryer V2,Beauty,Personal Care,Philips,2098.64,1571.92,4.33,2022-03-21
+296,Ergonomic Executive Office Chair,Furniture,Office,LG,13792.96,10189.67,2.54,2022-03-29
+297,Wooden Study Table XL,Furniture,Office,LG,10115.63,8345.21,4.03,2023-02-18
+298,HP Victus 15 Silver,Laptops,Gaming Laptops,HP,54274.29,39167.18,3.35,2024-02-17
+299,Puma Sports Jacket Blue,Fashion,Apparel,Puma,1512.24,1275.37,2.76,2023-06-30
+300,Apple MacBook Air M1 Pack of 2,Laptops,Thin & Light,Apple,180650.08,111887.34,3.14,2023-10-01
+301,boAt Airdopes 141 Pro,Electronics,Audio,boAt,3075.11,2641.11,4.1,2023-03-18
+302,LG 260L Double Door Refrigerator Pro,Home Appliances,Cooling,LG,16886.71,12924.64,4.21,2022-11-20
+303,Noise ColorFit Pro 4,Electronics,Wearables,Noise,3839.35,2725.65,4.9,2022-03-06
+304,Puma Casual Tee Pro,Fashion,Women Apparel,Puma,2314.39,1461.76,2.86,2022-11-06
+305,Puma Sports Jacket Black,Fashion,Apparel,Puma,3492.14,2870.83,4.36,2023-02-27
+306,Nivea Soft Cream 300ml Edition,Beauty,Skincare,Nivea,223.24,186.24,3.72,2023-04-08
+307,Noise Ultra 2 Pro,Electronics,Wearables,Noise,4585.11,4027.89,4.48,2023-01-27
+308,HP Victus 15 256GB,Laptops,Gaming Laptops,HP,93084.78,70439.26,2.53,2022-11-06
+309,LG 260L Double Door Refrigerator,Home Appliances,Cooling,LG,47983.47,35791.64,4.02,2023-10-26
+310,Puma Softride Rift Edition,Fashion,Men Footwear,Puma,4017.89,2966.11,3.27,2023-11-01
+311,Puma Softride Rift Pro,Fashion,Men Footwear,Puma,5092.96,3345.28,3.79,2023-04-05
+312,boAt Rockerz 255 Blue,Electronics,Audio,boAt,1612.79,1326.67,3.1,2023-01-14
+313,Puma Softride Rift V2,Fashion,Men Footwear,Puma,4982.63,3431.5,3.25,2022-10-21
+314,Puma Casual Tee 256GB,Fashion,Women Apparel,Puma,1524.32,1193.29,2.88,2023-04-06
+315,HP Chromebook 14 Black,Laptops,Budget Laptops,HP,29996.05,23129.72,3.57,2023-12-13
+316,Noise Ultra 2 128GB,Electronics,Wearables,Noise,4284.75,3408.93,2.78,2023-05-09
+317,Philips Air Fryer HD9200 Edition,Home Appliances,Kitchen,Philips,5082.23,4316.17,3.39,2023-06-30
+318,Apple MacBook Air M1 Blue,Laptops,Thin & Light,Apple,151206.66,100559.87,3.57,2022-04-19
+319,Wooden Study Table Pro,Furniture,Office,LG,6678.03,4633.51,3.01,2022-04-04
+320,boAt Type-C Cable XL,Mobiles,Accessories,boAt,1023.82,780.41,3.05,2022-05-25
+321,Samsung Galaxy A54 256GB,Mobiles,Smartphones,Samsung,14713.75,10785.9,3.97,2023-09-23
+322,Philips Air Fryer HD9200 256GB,Home Appliances,Kitchen,Philips,8789.14,7264.7,4.23,2024-01-13
+323,HP Pavilion Gaming XL,Laptops,Gaming Laptops,HP,87171.31,73713.05,3.43,2024-01-08
+324,Apple iPhone 15 Pro XL,Mobiles,Smartphones,Apple,112608.37,80715.15,2.61,2023-10-29
+325,boAt Type-C Cable Silver,Mobiles,Accessories,boAt,1424.65,1200.83,3.64,2024-02-19
+326,Puma Women Leggings Edition,Fashion,Women Apparel,Puma,1199.33,958.47,3.07,2022-12-07
+327,LG 260L Double Door Refrigerator XL,Home Appliances,Cooling,LG,29823.32,22356.43,2.93,2023-12-06
+328,Puma Track Pants V2,Fashion,Apparel,Puma,1446.76,1190.69,3.22,2023-08-19
+329,Apple MacBook Pro M3 Blue,Laptops,Thin & Light,Apple,110700.38,80490.21,3.25,2022-11-15
+330,Puma Running Shoes,Fashion,Men Footwear,Puma,4170.82,2944.15,2.51,2022-08-31
+331,HP Chromebook 14 128GB,Laptops,Budget Laptops,HP,24483.71,20601.78,4.66,2024-01-24
+332,Noise Ultra 2 XL,Electronics,Wearables,Noise,1578.22,1204.73,4.58,2023-04-02
+333,HP Omen 16 128GB,Laptops,Gaming Laptops,HP,71887.84,61417.0,4.52,2022-11-11
+334,boAt Type-C Cable Blue,Mobiles,Accessories,boAt,1881.36,1617.6,2.63,2022-08-02
+335,Noise ColorFit Pulse Pro,Electronics,Audio,Noise,3243.97,2789.52,4.34,2022-06-14
+336,HP Laptop 15s Pro,Laptops,Budget Laptops,HP,31831.67,20008.13,2.61,2023-01-08
+337,Puma Smash v2 Sneakers Silver,Fashion,Men Footwear,Puma,4173.88,3470.32,4.82,2023-06-25
+338,boAt Power Bank 10000mAh Edition,Mobiles,Accessories,boAt,991.94,611.69,4.13,2022-10-02
+339,Puma Casual Tee Blue,Fashion,Women Apparel,Puma,706.67,440.99,2.73,2023-03-28
+340,Fortune Sunflower Oil 5L 128GB,Grocery,Staples,Prestige,652.5,453.17,3.55,2023-11-21
+341,Apple iPhone 13 Pro,Mobiles,Smartphones,Apple,48560.82,30852.13,4.44,2023-12-30
+342,Noise Pulse 2 Max Silver,Electronics,Wearables,Noise,4315.91,3604.53,3.26,2023-02-27
+343,HP Omen 16,Laptops,Gaming Laptops,HP,62248.1,53096.04,4.75,2023-03-25
+344,Fortune Sunflower Oil 5L 256GB,Grocery,Staples,Prestige,1068.92,768.14,3.97,2022-12-25
+345,Noise Pure Pods,Electronics,Audio,Noise,1234.99,953.0,4.9,2023-03-21
+346,boAt Type-C Cable Blue,Mobiles,Accessories,boAt,1214.52,917.96,4.1,2023-12-05
+347,HP Laptop 15s 128GB,Laptops,Budget Laptops,HP,38655.66,23999.21,3.75,2022-09-21
+348,Tata Salt 1kg XL,Grocery,Staples,Prestige,162.1,123.69,3.86,2022-10-25
+349,Prestige Pressure Cooker 5L Black,Home Appliances,Kitchen,Prestige,1459.37,911.71,3.7,2023-06-28
+350,Nivea Roll-On Deodorant Black,Beauty,Skincare,Nivea,667.72,448.44,3.86,2023-10-15
+351,Aashirvaad Atta 10kg Pro,Grocery,Staples,Prestige,1015.46,691.37,3.06,2023-07-18
+352,HP Omen 16,Laptops,Gaming Laptops,HP,93433.5,80225.58,3.86,2023-06-06
+353,Puma Softride Rift XL,Fashion,Men Footwear,Puma,2714.1,1828.85,4.64,2023-12-14
+354,Noise ColorFit Pulse Edition,Electronics,Audio,Noise,2738.94,1682.07,2.6,2023-03-25
+355,Puma Running Shoes XL,Fashion,Men Footwear,Puma,2452.28,2082.82,4.68,2023-09-06
+356,Puma Smash v2 Sneakers Edition,Fashion,Men Footwear,Puma,5467.85,4643.09,3.6,2023-03-08
+357,HP Pavilion Gaming V2,Laptops,Gaming Laptops,HP,94442.75,71361.46,4.18,2023-10-03
+358,Puma Track Pants XL,Fashion,Apparel,Puma,1436.42,955.25,3.36,2022-07-23
+359,HP Chromebook 14 Black,Laptops,Budget Laptops,HP,35865.56,30961.9,4.25,2023-12-21
+360,HP 250 G8 Pack of 2,Laptops,Budget Laptops,HP,32907.0,28668.31,3.66,2022-11-03
+361,Fortune Sunflower Oil 5L 128GB,Grocery,Staples,Prestige,670.56,428.84,2.94,2024-02-10
+362,Apple MacBook Pro M3 Blue,Laptops,Thin & Light,Apple,122309.51,93521.75,3.07,2023-12-27
+363,Noise Buds VS102 Edition,Electronics,Audio,Noise,3377.19,2412.45,3.7,2022-11-07
+364,Philips Beard Trimmer Series 3000 128GB,Beauty,Personal Care,Philips,996.71,828.23,3.83,2022-08-26
+365,Prestige Sandwich Maker Silver,Home Appliances,Kitchen,Prestige,4019.88,3005.18,4.56,2024-01-06
+366,Prestige Induction Cooktop 128GB,Home Appliances,Kitchen,Prestige,1689.79,1155.6,4.35,2022-02-19
+367,HP Chromebook 14 Black,Laptops,Budget Laptops,HP,39011.03,34025.93,3.8,2023-02-19
+368,HP Victus 15 Pro,Laptops,Gaming Laptops,HP,53610.72,44621.87,4.0,2024-02-06
+369,Apple MacBook Air M1 256GB,Laptops,Thin & Light,Apple,124766.67,97613.93,3.58,2023-07-22
+370,Nivea Body Lotion 400ml,Beauty,Skincare,Nivea,659.72,418.47,2.76,2023-04-20
+371,Wooden Study Table,Furniture,Office,LG,8486.38,5786.76,3.63,2023-02-20
+372,Apple MacBook Pro M3 Pro,Laptops,Thin & Light,Apple,174277.93,150901.85,3.35,2023-12-05
+373,boAt Stone 352 Speaker Blue,Electronics,Audio,boAt,2258.78,1910.51,4.2,2023-03-13
+374,Noise Buds VS102 XL,Electronics,Audio,Noise,3079.52,2303.29,3.26,2022-03-01
+375,boAt Car Charger V2,Mobiles,Accessories,boAt,1217.82,793.76,2.75,2024-02-27
+376,Puma Track Pants Blue,Fashion,Apparel,Puma,1921.2,1286.11,3.98,2022-04-29
+377,HP Omen 16 XL,Laptops,Gaming Laptops,HP,53405.16,45300.04,3.68,2023-08-29
+378,Philips 750W Mixer Grinder V2,Home Appliances,Kitchen,Philips,8651.16,5440.27,4.63,2022-02-18
+379,Aashirvaad Atta 10kg Silver,Grocery,Staples,Prestige,231.54,195.98,4.46,2023-02-15
+380,Noise Ultra 2 Edition,Electronics,Wearables,Noise,2644.48,1785.39,4.6,2022-12-19
+381,Aashirvaad Atta 10kg Blue,Grocery,Staples,Prestige,1083.08,815.22,3.4,2022-11-01
+382,HP Victus 15 128GB,Laptops,Gaming Laptops,HP,65460.34,53510.94,3.28,2023-02-17
+383,boAt Stone 352 Speaker Silver,Electronics,Audio,boAt,1151.25,745.77,4.47,2022-09-14
+384,Philips Induction Cooktop Pro,Home Appliances,Kitchen,Philips,4128.03,3042.49,3.56,2023-11-15
+385,Puma Sports Jacket Black,Fashion,Apparel,Puma,1018.09,743.54,4.97,2022-03-19
+386,Philips Air Fryer HD9200 256GB,Home Appliances,Kitchen,Philips,5216.92,4239.53,4.7,2023-07-12
+387,Nivea Roll-On Deodorant Pack of 2,Beauty,Skincare,Nivea,538.52,468.61,2.8,2023-04-29
+388,boAt Airdopes 141 V2,Electronics,Audio,boAt,3732.52,2469.3,4.16,2022-07-04
+389,Fortune Sunflower Oil 5L V2,Grocery,Staples,Prestige,1198.04,823.51,4.37,2023-01-30
+390,Samsung Galaxy M34 XL,Mobiles,Smartphones,Samsung,48086.5,31103.6,2.66,2022-10-12
+391,Tata Salt 1kg XL,Grocery,Staples,Prestige,134.99,95.5,4.65,2023-02-26
+392,Philips 750W Mixer Grinder XL,Home Appliances,Kitchen,Philips,3400.93,2870.64,3.47,2023-10-02
+393,Samsung Galaxy M34 Pack of 2,Mobiles,Smartphones,Samsung,28510.23,23252.46,4.24,2022-12-15
+394,Philips Beard Trimmer Series 3000 V2,Beauty,Personal Care,Philips,2706.99,2035.06,3.31,2022-12-05
+395,Puma T-shirt 128GB,Fashion,Apparel,Puma,2765.23,2247.77,2.99,2024-03-11
+396,Philips Induction Cooktop XL,Home Appliances,Kitchen,Philips,2865.73,2214.6,4.58,2022-12-22
+397,HP 250 G8 V2,Laptops,Budget Laptops,HP,31159.3,24501.21,3.95,2024-02-26
+398,Puma Softride Rift V2,Fashion,Men Footwear,Puma,2421.46,1544.63,3.64,2023-09-16
+399,boAt Nirvana Ion Edition,Electronics,Audio,boAt,2809.7,1880.25,4.97,2023-08-03
+400,Nivea Soft Cream 300ml Blue,Beauty,Skincare,Nivea,767.7,615.41,3.08,2022-02-28
+401,Puma Casual Tee Black,Fashion,Women Apparel,Puma,1312.43,841.56,3.98,2023-12-07
+402,Noise Pulse 2 Max Black,Electronics,Wearables,Noise,1513.62,1031.15,3.45,2024-03-02
+403,Apple MacBook Air M2,Laptops,Thin & Light,Apple,170966.64,129924.66,3.33,2022-10-18
+404,LG 260L Double Door Refrigerator Black,Home Appliances,Cooling,LG,47358.62,33491.3,4.69,2022-07-04
+405,HP Pavilion Gaming 256GB,Laptops,Gaming Laptops,HP,56478.15,48803.66,4.62,2024-02-29
+406,Noise Ultra 2 XL,Electronics,Wearables,Noise,4920.1,4094.11,4.53,2022-08-28
+407,Puma Track Pants 128GB,Fashion,Apparel,Puma,2254.94,1638.6,4.38,2023-06-26
+408,Puma Women Sports Bra Edition,Fashion,Women Apparel,Puma,1535.98,1176.03,3.67,2024-02-13
+409,boAt Nirvana Ion Blue,Electronics,Audio,boAt,1326.94,1112.01,4.56,2023-01-01
+410,Puma Track Pants Edition,Fashion,Apparel,Puma,3297.12,2399.84,2.91,2023-08-23
+411,Noise ColorFit Pro 4,Electronics,Wearables,Noise,2910.53,2421.79,2.85,2023-04-03
+412,Philips Air Fryer HD9200 Pack of 2,Home Appliances,Kitchen,Philips,5380.91,4337.57,4.86,2022-02-23
+413,boAt Stone 352 Speaker,Electronics,Audio,boAt,2455.33,1589.64,4.55,2023-12-25
+414,Wooden Study Table Silver,Furniture,Office,LG,6207.38,4106.97,4.09,2023-11-27
+415,Tata Salt 1kg,Grocery,Staples,Prestige,663.18,517.16,4.67,2022-07-05
+416,Prestige Sandwich Maker Black,Home Appliances,Kitchen,Prestige,2498.44,1539.73,3.15,2022-12-17
+417,Puma Running Shoes,Fashion,Men Footwear,Puma,2364.31,2018.87,2.7,2023-12-04
+418,Noise Ultra 2 256GB,Electronics,Wearables,Noise,1715.75,1254.65,4.32,2023-01-31
+419,Philips 750W Mixer Grinder Pro,Home Appliances,Kitchen,Philips,4089.03,3110.8,3.17,2024-01-06
+420,Samsung Galaxy A54 XL,Mobiles,Smartphones,Samsung,39796.63,34556.71,4.23,2023-10-08
+421,Nivea Roll-On Deodorant Black,Beauty,Skincare,Nivea,468.23,411.92,4.91,2023-10-19
+422,Nivea Roll-On Deodorant V2,Beauty,Skincare,Nivea,477.95,333.61,4.04,2022-05-16
+423,boAt Rockerz 255,Electronics,Audio,boAt,2704.23,2192.72,3.1,2022-09-01
+424,Noise Pure Pods 128GB,Electronics,Audio,Noise,2557.15,2243.83,2.89,2023-05-07
+425,Puma Softride Rift 128GB,Fashion,Men Footwear,Puma,4814.38,3172.87,4.52,2023-10-05
+426,boAt Power Bank 10000mAh XL,Mobiles,Accessories,boAt,804.21,686.55,3.01,2024-03-09
+427,Samsung Galaxy M14 5G Pack of 2,Mobiles,Smartphones,Samsung,51715.55,41605.44,4.82,2022-11-09
+428,Ergonomic Executive Office Chair Black,Furniture,Office,LG,13300.7,10570.5,4.05,2023-03-19
+429,Apple iPhone 14,Mobiles,Smartphones,Apple,121237.34,92552.6,2.97,2024-03-14
+430,Noise Pure Pods Edition,Electronics,Audio,Noise,2897.39,1774.21,3.2,2022-02-13
+431,Puma Track Pants 256GB,Fashion,Apparel,Puma,2733.95,2215.75,4.16,2022-11-01
+432,Samsung Galaxy M34 Pro,Mobiles,Smartphones,Samsung,13694.16,10677.83,3.17,2023-01-08
+433,HP Pavilion Gaming Edition,Laptops,Gaming Laptops,HP,93895.84,71606.53,3.34,2023-01-18
+434,Noise Ultra 2 Pack of 2,Electronics,Wearables,Noise,3512.59,2285.92,3.37,2022-08-23
+435,Puma Casual Tee 128GB,Fashion,Women Apparel,Puma,1009.65,849.14,2.98,2023-02-16
+436,Apple MacBook Pro M3 128GB,Laptops,Thin & Light,Apple,147796.0,110317.32,2.71,2023-12-11
+437,Puma Smash v2 Sneakers 128GB,Fashion,Men Footwear,Puma,2583.87,1627.68,4.94,2022-12-12
+438,Noise ColorFit Pro 4 Pro,Electronics,Wearables,Noise,4222.79,3498.9,3.81,2022-12-09
+439,Puma Women Sports Bra Black,Fashion,Women Apparel,Puma,1595.52,1218.19,4.8,2023-03-30
+440,Philips Hair Straightener Silver,Beauty,Personal Care,Philips,1285.35,1070.62,2.97,2022-03-11
+441,Puma Running Shoes Blue,Fashion,Men Footwear,Puma,3621.08,3007.63,4.25,2022-06-02
+442,Philips Beard Trimmer Series 3000 128GB,Beauty,Personal Care,Philips,1278.0,1050.31,2.64,2022-10-09
+443,Samsung Galaxy A54 Pack of 2,Mobiles,Smartphones,Samsung,20303.01,12392.4,4.52,2023-04-20
+444,Prestige Sandwich Maker V2,Home Appliances,Kitchen,Prestige,3621.4,2341.23,4.96,2023-01-03
+445,Nivea Body Lotion 400ml 128GB,Beauty,Skincare,Nivea,550.01,351.23,3.49,2022-04-28
+446,Noise Buds VS102,Electronics,Audio,Noise,2938.62,2085.23,2.55,2022-11-13
+447,Philips Hair Dryer 256GB,Beauty,Personal Care,Philips,2160.35,1900.18,2.58,2023-07-01
+448,boAt Car Charger Edition,Mobiles,Accessories,boAt,1698.53,1041.24,4.14,2024-02-10
+449,Samsung Galaxy A54,Mobiles,Smartphones,Samsung,35199.45,28428.87,2.52,2024-04-06
+450,Apple MacBook Pro M3 128GB,Laptops,Thin & Light,Apple,162867.91,131800.32,3.45,2023-10-09
+451,Nivea Soft Cream 300ml XL,Beauty,Skincare,Nivea,767.82,602.86,2.63,2024-01-16
+452,Ergonomic Executive Office Chair V2,Furniture,Office,LG,8006.2,6353.34,4.41,2023-07-16
+453,Philips Beard Trimmer Series 3000 Blue,Beauty,Personal Care,Philips,2582.33,1887.17,4.91,2024-03-28
+454,Apple iPhone 12 Edition,Mobiles,Smartphones,Apple,79042.42,61141.81,3.07,2024-02-22
+455,Apple MacBook Air M2 V2,Laptops,Thin & Light,Apple,133508.92,116894.68,2.77,2023-02-07
+456,Puma Softride Rift Pro,Fashion,Men Footwear,Puma,3419.83,2356.29,2.74,2023-08-06
+457,Puma T-shirt XL,Fashion,Apparel,Puma,805.01,536.91,2.89,2022-11-10
+458,Philips Induction Cooktop XL,Home Appliances,Kitchen,Philips,8217.39,5330.86,4.07,2024-03-28
+459,Philips Hair Dryer,Beauty,Personal Care,Philips,2056.03,1248.02,4.86,2023-12-13
+460,HP Chromebook 14 128GB,Laptops,Budget Laptops,HP,25787.51,22307.84,4.56,2022-04-26
+461,Puma Casual Tee Silver,Fashion,Women Apparel,Puma,2133.9,1282.62,4.74,2022-06-18
+462,HP Omen 16 Blue,Laptops,Gaming Laptops,HP,80667.3,70187.67,4.26,2022-08-18
+463,boAt Stone 352 Speaker Pack of 2,Electronics,Audio,boAt,3827.3,2976.67,3.55,2024-01-07
+464,HP Pavilion Gaming Silver,Laptops,Gaming Laptops,HP,92357.26,73860.38,2.71,2022-08-26
+465,Prestige Induction Cooktop V2,Home Appliances,Kitchen,Prestige,3059.86,1945.15,3.12,2023-10-20
+466,Apple MacBook Air M1,Laptops,Thin & Light,Apple,92637.16,58144.75,4.57,2022-03-15
+467,HP 250 G8,Laptops,Budget Laptops,HP,34229.7,28560.86,2.88,2023-08-13
+468,Samsung Galaxy M34 Blue,Mobiles,Smartphones,Samsung,22472.15,13660.41,4.44,2022-08-14
+469,Puma Women Sports Bra,Fashion,Women Apparel,Puma,1668.67,1235.64,4.48,2022-07-19
+470,Noise Buds VS102 Silver,Electronics,Audio,Noise,2088.11,1293.38,3.33,2024-03-03
+471,Puma T-shirt 256GB,Fashion,Apparel,Puma,1279.56,991.02,3.92,2022-05-07
+472,Apple iPhone 15 Pro 128GB,Mobiles,Smartphones,Apple,46739.78,38729.98,4.06,2023-12-13
+473,boAt Nirvana Ion Blue,Electronics,Audio,boAt,2980.81,1942.76,4.25,2023-11-01
+474,Noise Pulse 2 Max Edition,Electronics,Wearables,Noise,2113.22,1681.68,4.67,2023-08-16
+475,boAt Rockerz 255,Electronics,Audio,boAt,1480.29,1065.46,2.88,2023-11-06
+476,Apple iPhone 14 XL,Mobiles,Smartphones,Apple,76487.54,54900.29,4.15,2024-01-21
+477,Philips Hair Straightener Black,Beauty,Personal Care,Philips,1565.23,1355.43,4.05,2023-01-17
+478,Apple MacBook Air M1 XL,Laptops,Thin & Light,Apple,108976.92,69615.93,3.96,2023-10-25
+479,Fortune Sunflower Oil 5L Blue,Grocery,Staples,Prestige,721.06,436.12,4.05,2022-06-18
+480,Puma Running Shoes Silver,Fashion,Men Footwear,Puma,3056.45,2151.08,3.53,2023-08-23
+481,Noise ColorFit Pulse Blue,Electronics,Audio,Noise,1789.37,1562.37,4.45,2022-07-08
+482,Ergonomic Executive Office Chair Pro,Furniture,Office,LG,7050.68,4947.19,3.29,2023-02-09
+483,Ergonomic Executive Office Chair Black,Furniture,Office,LG,14895.15,10173.82,3.55,2022-09-20
+484,boAt Stone 352 Speaker Black,Electronics,Audio,boAt,3780.52,2806.0,4.95,2022-05-25
+485,Ergonomic Executive Office Chair Pack of 2,Furniture,Office,LG,5877.6,4831.7,3.54,2023-11-12
+486,Puma Softride Rift Edition,Fashion,Men Footwear,Puma,2457.37,1495.79,3.41,2023-11-24
+487,HP 250 G8 128GB,Laptops,Budget Laptops,HP,30451.12,24627.58,3.23,2023-04-03
+488,Ergonomic Executive Office Chair 128GB,Furniture,Office,LG,7124.84,5879.89,2.77,2022-06-24
+489,Nivea Soft Cream 300ml Blue,Beauty,Skincare,Nivea,758.34,609.88,2.66,2023-06-18
+490,Apple MacBook Air M1 Pro,Laptops,Thin & Light,Apple,119759.19,79496.62,4.46,2023-04-18
+491,Tata Salt 1kg Edition,Grocery,Staples,Prestige,529.3,318.52,3.05,2023-04-15
+492,Fortune Sunflower Oil 5L Silver,Grocery,Staples,Prestige,705.8,428.0,3.86,2022-04-07
+493,Noise ColorFit Pulse 256GB,Electronics,Audio,Noise,3440.64,2603.8,4.43,2022-11-10
+494,Noise ColorFit Pulse Pack of 2,Electronics,Audio,Noise,2127.83,1836.44,3.5,2023-09-27
+495,HP Victus 15 256GB,Laptops,Gaming Laptops,HP,61768.34,37865.53,3.92,2022-09-05
+496,HP 250 G8 Silver,Laptops,Budget Laptops,HP,28606.14,21043.09,4.68,2022-10-11
+497,Puma Smash v2 Sneakers,Fashion,Men Footwear,Puma,3615.69,2361.37,3.12,2023-04-24
+498,Philips 750W Mixer Grinder Blue,Home Appliances,Kitchen,Philips,6323.41,5245.71,2.82,2023-02-11
+499,Puma Women Leggings V2,Fashion,Women Apparel,Puma,2538.2,1562.48,2.65,2022-06-07
+500,Noise ColorFit Pro 4 XL,Electronics,Wearables,Noise,4108.13,3245.89,3.62,2024-04-08
+501,Noise Pure Pods XL,Electronics,Audio,Noise,2459.62,2104.53,3.98,2022-10-16
+502,Ergonomic Executive Office Chair 128GB,Furniture,Office,LG,9519.47,6168.11,3.94,2023-02-24
+503,HP Chromebook 14 Black,Laptops,Budget Laptops,HP,44508.15,28933.44,4.16,2024-03-17
+504,Puma Casual Tee Pack of 2,Fashion,Women Apparel,Puma,1042.0,867.22,4.03,2023-06-22
+505,boAt Airdopes 141 Black,Electronics,Audio,boAt,2649.54,1816.36,3.9,2024-01-06
+506,Philips Hair Dryer XL,Beauty,Personal Care,Philips,1834.39,1593.73,3.16,2023-05-31
+507,HP Pavilion Gaming 256GB,Laptops,Gaming Laptops,HP,55812.59,36089.09,3.17,2024-04-18
+508,HP Victus 15 XL,Laptops,Gaming Laptops,HP,93055.46,77639.7,3.0,2023-05-20
+509,Apple MacBook Air M2 Pack of 2,Laptops,Thin & Light,Apple,131134.7,109490.68,4.3,2022-07-03
+510,Puma Track Pants Edition,Fashion,Apparel,Puma,2532.26,1967.14,2.82,2023-06-07
+511,Nivea Soft Cream 300ml Black,Beauty,Skincare,Nivea,621.58,373.42,3.09,2023-07-05
+512,Fortune Sunflower Oil 5L 256GB,Grocery,Staples,Prestige,741.25,619.8,4.93,2023-02-16
+513,HP Chromebook 14 Black,Laptops,Budget Laptops,HP,35628.09,23062.7,4.53,2022-07-11
+514,Fortune Sunflower Oil 5L Silver,Grocery,Staples,Prestige,417.37,339.63,4.42,2023-05-18
+515,Philips Beard Trimmer Series 3000 Pack of 2,Beauty,Personal Care,Philips,1652.18,1301.05,2.99,2023-04-13
+516,LG Direct Cool Refrigerator Pro,Home Appliances,Cooling,LG,27901.07,17402.29,3.27,2023-10-07
+517,Philips Hair Dryer Blue,Beauty,Personal Care,Philips,2456.82,2068.42,3.38,2024-01-17
+518,Noise Buds VS102 Silver,Electronics,Audio,Noise,2482.37,1656.67,4.6,2022-02-15
+519,HP 250 G8 Edition,Laptops,Budget Laptops,HP,35380.31,23487.63,4.13,2022-08-27
+520,Metal Bookshelf Blue,Furniture,Office,LG,4941.54,3191.08,4.12,2023-04-18
+521,Nivea Roll-On Deodorant Blue,Beauty,Skincare,Nivea,322.75,196.6,2.52,2023-10-27
+522,boAt Car Charger Pro,Mobiles,Accessories,boAt,664.42,412.64,3.65,2022-09-17
+523,Samsung Galaxy S23 FE 256GB,Mobiles,Smartphones,Samsung,53515.35,33826.7,2.84,2023-12-23
+524,HP 250 G8 V2,Laptops,Budget Laptops,HP,37908.59,28441.58,4.62,2024-04-02
+525,Puma Running Shoes,Fashion,Men Footwear,Puma,2675.87,1735.0,2.54,2022-07-22
+526,HP Pavilion Gaming 128GB,Laptops,Gaming Laptops,HP,69280.39,44776.8,3.97,2022-07-04
+527,Aashirvaad Atta 10kg Edition,Grocery,Staples,Prestige,1152.55,1008.84,2.95,2023-01-04
+528,boAt Car Charger Edition,Mobiles,Accessories,boAt,1071.66,672.85,4.19,2023-11-12
+529,Philips Beard Trimmer Series 3000 Silver,Beauty,Personal Care,Philips,2902.91,1759.3,4.85,2024-01-11
+530,Nivea Body Lotion 400ml 128GB,Beauty,Skincare,Nivea,318.6,230.63,3.33,2022-11-16
+531,HP Pavilion Gaming Silver,Laptops,Gaming Laptops,HP,58790.28,37926.23,2.65,2023-09-01
+532,Noise Pulse 2 Max,Electronics,Wearables,Noise,3702.86,3145.0,4.12,2022-12-12
+533,HP 250 G8 Pro,Laptops,Budget Laptops,HP,32637.56,19594.23,4.69,2022-09-28
+534,Aashirvaad Atta 10kg Black,Grocery,Staples,Prestige,1012.79,622.09,4.69,2024-03-23
+535,Philips Hair Dryer Blue,Beauty,Personal Care,Philips,1119.88,934.83,3.3,2023-10-12
+536,Puma Softride Rift Pack of 2,Fashion,Men Footwear,Puma,2418.45,1937.02,3.8,2024-02-19
+537,Apple MacBook Air M1 Pro,Laptops,Thin & Light,Apple,127206.42,107723.87,3.57,2022-02-17
+538,Nivea Soft Cream 300ml 256GB,Beauty,Skincare,Nivea,636.0,389.75,3.43,2022-03-16
+539,Noise ColorFit Pro 4 Pack of 2,Electronics,Wearables,Noise,3567.48,3059.92,4.06,2022-08-31
+540,Apple iPhone 14 Silver,Mobiles,Smartphones,Apple,107051.36,88621.86,4.5,2023-10-18
+541,LG Direct Cool Refrigerator Black,Home Appliances,Cooling,LG,43654.41,30494.93,4.21,2022-11-06
+542,Apple iPhone 14,Mobiles,Smartphones,Apple,62378.47,45629.99,2.51,2023-05-18
+543,HP Omen 16 Pro,Laptops,Gaming Laptops,HP,59778.75,39853.42,3.97,2022-05-24
+544,Samsung Galaxy A54 Edition,Mobiles,Smartphones,Samsung,28257.91,23650.21,3.47,2022-04-28
+545,Tata Salt 1kg 128GB,Grocery,Staples,Prestige,470.77,336.47,3.46,2023-01-31
+546,HP Victus 15 Blue,Laptops,Gaming Laptops,HP,90167.22,72659.2,3.79,2022-04-29
+547,Puma Track Pants Blue,Fashion,Apparel,Puma,1846.34,1234.98,2.63,2022-03-10
+548,Philips Hair Dryer Pack of 2,Beauty,Personal Care,Philips,1506.84,1161.51,3.22,2023-07-16
+549,HP 250 G8 Pro,Laptops,Budget Laptops,HP,36173.12,29809.16,3.09,2023-03-16
+550,boAt Rockerz 255 Black,Electronics,Audio,boAt,2021.43,1384.58,2.61,2024-01-27
+551,Puma Women Sports Bra Edition,Fashion,Women Apparel,Puma,2682.04,2031.64,2.86,2022-02-13
+552,Noise Buds VS102 Pro,Electronics,Audio,Noise,2589.95,1881.84,4.51,2022-12-28
+553,Nivea Body Lotion 400ml Blue,Beauty,Skincare,Nivea,620.66,408.31,4.44,2023-05-14
+554,Prestige Sandwich Maker Edition,Home Appliances,Kitchen,Prestige,1946.28,1275.7,4.8,2023-02-08
+555,Samsung Galaxy M34 Blue,Mobiles,Smartphones,Samsung,49699.72,32203.92,3.92,2024-02-23
+556,Fortune Sunflower Oil 5L Edition,Grocery,Staples,Prestige,959.6,580.92,3.2,2022-11-08
+557,HP 250 G8 256GB,Laptops,Budget Laptops,HP,40353.14,28396.23,3.53,2023-12-30
+558,boAt Power Bank 10000mAh 256GB,Mobiles,Accessories,boAt,1137.46,713.59,4.86,2023-12-18
+559,Philips Induction Cooktop Blue,Home Appliances,Kitchen,Philips,7185.86,4971.16,3.38,2022-09-15
+560,HP Chromebook 14 256GB,Laptops,Budget Laptops,HP,30947.74,25721.91,2.88,2022-06-05
+561,Samsung Galaxy S23 FE XL,Mobiles,Smartphones,Samsung,23226.57,16230.0,3.11,2023-02-17
+562,Puma Casual Tee 256GB,Fashion,Women Apparel,Puma,2288.25,1764.23,4.09,2023-05-04
+563,Puma Casual Tee Black,Fashion,Women Apparel,Puma,2298.67,1858.99,2.76,2023-06-24
+564,Puma Casual Tee 128GB,Fashion,Women Apparel,Puma,2777.89,1979.43,4.55,2022-10-20
+565,Tata Salt 1kg,Grocery,Staples,Prestige,823.08,555.54,4.02,2023-07-02
+566,Nivea Roll-On Deodorant V2,Beauty,Skincare,Nivea,601.7,524.22,3.12,2023-12-16
+567,Prestige Sandwich Maker 256GB,Home Appliances,Kitchen,Prestige,3731.6,2353.75,3.39,2023-04-04
+568,Apple MacBook Air M2 Pro,Laptops,Thin & Light,Apple,163028.84,127250.52,2.75,2024-02-23
+569,Puma Sports Jacket 256GB,Fashion,Apparel,Puma,1937.28,1541.67,3.31,2023-09-16
+570,LG 1.5 Ton 5 Star AI Dual Inverter Split AC Blue,Home Appliances,Cooling,LG,21654.56,18316.45,4.3,2024-02-02
+571,Apple MacBook Pro M3,Laptops,Thin & Light,Apple,136354.08,95227.65,4.87,2022-12-11
+572,Philips Beard Trimmer Series 3000 V2,Beauty,Personal Care,Philips,2920.51,2476.47,2.79,2022-08-20
+573,boAt Rockerz 255 Silver,Electronics,Audio,boAt,2677.84,2273.14,2.68,2022-06-12
+574,Noise Pure Pods,Electronics,Audio,Noise,2746.95,2183.23,4.88,2023-01-30
+575,Samsung Galaxy M14 5G Edition,Mobiles,Smartphones,Samsung,49336.95,38866.65,3.08,2023-12-07
+576,Apple MacBook Air M2 Pack of 2,Laptops,Thin & Light,Apple,152207.42,91959.89,2.79,2022-04-09
+577,Apple iPhone 13 Blue,Mobiles,Smartphones,Apple,44786.03,27585.4,3.15,2023-09-03
+578,Samsung Galaxy M14 5G,Mobiles,Smartphones,Samsung,41356.77,28255.0,3.11,2024-02-13
+579,Apple iPhone 15 Pro Edition,Mobiles,Smartphones,Apple,96143.92,70219.85,4.1,2023-06-25
+580,boAt Power Bank 10000mAh 128GB,Mobiles,Accessories,boAt,870.31,758.41,3.05,2024-02-06
+581,Philips 750W Mixer Grinder 128GB,Home Appliances,Kitchen,Philips,5438.01,3770.19,4.95,2023-11-29
+582,Puma Smash v2 Sneakers Blue,Fashion,Men Footwear,Puma,5287.79,4116.09,3.84,2024-03-03
+583,Apple MacBook Air M2 V2,Laptops,Thin & Light,Apple,129245.7,99955.47,3.96,2024-02-10
+584,Puma Women Leggings Black,Fashion,Women Apparel,Puma,2326.41,1905.1,4.97,2024-04-12
+585,Noise Pure Pods Blue,Electronics,Audio,Noise,1310.79,952.68,4.63,2022-12-09
+586,Prestige Induction Cooktop XL,Home Appliances,Kitchen,Prestige,1501.47,1169.97,3.31,2022-09-08
+587,Apple iPhone 12 Edition,Mobiles,Smartphones,Apple,108314.66,69722.43,3.51,2023-09-11
+588,Puma Track Pants 128GB,Fashion,Apparel,Puma,2898.84,1944.17,3.22,2024-02-21
+589,Philips Hair Straightener XL,Beauty,Personal Care,Philips,2374.59,1588.5,3.45,2022-10-05
+590,LG 1.5 Ton 5 Star AI Dual Inverter Split AC 128GB,Home Appliances,Cooling,LG,19908.38,15059.47,2.73,2023-01-05
+591,boAt Airdopes 141 V2,Electronics,Audio,boAt,1912.99,1570.84,3.89,2023-08-19
+592,Philips Hair Dryer XL,Beauty,Personal Care,Philips,1067.91,898.39,3.84,2023-04-21
+593,LG Direct Cool Refrigerator,Home Appliances,Cooling,LG,47231.85,29756.76,2.57,2022-06-11
+594,Noise Pure Pods Blue,Electronics,Audio,Noise,1492.9,1007.42,2.55,2022-10-22
+595,LG 1.5 Ton 5 Star AI Dual Inverter Split AC Pro,Home Appliances,Cooling,LG,42135.25,35449.71,3.42,2022-09-07
+596,boAt Type-C Cable Blue,Mobiles,Accessories,boAt,1371.16,1200.12,3.44,2023-09-22
+597,Noise ColorFit Pro 4 Edition,Electronics,Wearables,Noise,2650.0,1743.77,3.64,2022-10-13
+598,Noise Pure Pods Pro,Electronics,Audio,Noise,3271.1,2142.84,3.09,2024-02-01
+599,Apple MacBook Air M2 256GB,Laptops,Thin & Light,Apple,119654.07,98796.39,3.21,2022-11-05
+600,Philips Hair Straightener,Beauty,Personal Care,Philips,1808.13,1330.7,3.76,2022-07-01
+601,Apple MacBook Pro M3 Pack of 2,Laptops,Thin & Light,Apple,131194.89,96103.27,3.5,2023-04-02
+602,Prestige Sandwich Maker Silver,Home Appliances,Kitchen,Prestige,3153.82,2315.7,3.88,2023-07-22
+603,Prestige Induction Cooktop Pack of 2,Home Appliances,Kitchen,Prestige,1974.14,1229.06,3.7,2022-03-26
+604,HP Chromebook 14,Laptops,Budget Laptops,HP,31737.7,20545.4,3.47,2024-01-06
+605,Noise ColorFit Pro 4 XL,Electronics,Wearables,Noise,3237.95,2222.66,4.6,2024-02-29
+606,HP Pavilion Gaming Black,Laptops,Gaming Laptops,HP,87181.18,70718.76,4.46,2022-05-24
+607,Prestige Sandwich Maker Silver,Home Appliances,Kitchen,Prestige,3784.6,2376.71,3.59,2024-04-02
+608,Samsung Galaxy A54 Blue,Mobiles,Smartphones,Samsung,39712.41,33125.52,3.76,2022-08-07
+609,boAt Nirvana Ion Silver,Electronics,Audio,boAt,3352.06,2713.48,4.88,2022-12-23
+610,Puma Women Leggings 128GB,Fashion,Women Apparel,Puma,1489.26,1094.14,4.59,2022-07-08
+611,LG 1.5 Ton 5 Star AI Dual Inverter Split AC 256GB,Home Appliances,Cooling,LG,19135.21,14099.63,2.98,2023-03-15
+612,boAt Power Bank 10000mAh 256GB,Mobiles,Accessories,boAt,1008.02,851.32,3.03,2023-01-12
+613,boAt Airdopes 141 V2,Electronics,Audio,boAt,2400.73,1622.02,4.7,2023-01-01
+614,boAt Rockerz 255 V2,Electronics,Audio,boAt,1468.78,1196.6,4.67,2022-03-28
+615,Aashirvaad Atta 10kg XL,Grocery,Staples,Prestige,513.46,431.53,4.61,2023-09-15
+616,Apple iPhone 14 256GB,Mobiles,Smartphones,Apple,120778.74,72735.57,2.88,2023-03-10
+617,boAt Stone 352 Speaker V2,Electronics,Audio,boAt,3079.68,2307.47,4.77,2024-01-20
+618,Noise ColorFit Pulse Edition,Electronics,Audio,Noise,3480.15,2230.46,3.78,2022-03-25
+619,Samsung Galaxy M14 5G Pro,Mobiles,Smartphones,Samsung,33190.64,22428.09,4.1,2023-03-26
+620,Apple MacBook Pro M3 Black,Laptops,Thin & Light,Apple,172365.66,133444.87,3.31,2022-11-06
+621,Philips Hair Dryer Pack of 2,Beauty,Personal Care,Philips,2134.64,1595.14,2.72,2023-01-09
+622,Apple MacBook Air M2,Laptops,Thin & Light,Apple,135527.88,83279.49,3.39,2023-07-06
+623,Philips 750W Mixer Grinder V2,Home Appliances,Kitchen,Philips,4342.57,2681.59,4.6,2022-02-16
+624,Puma Smash v2 Sneakers V2,Fashion,Men Footwear,Puma,2799.12,2014.7,3.14,2023-05-10
+625,Tata Salt 1kg Edition,Grocery,Staples,Prestige,334.12,274.01,4.39,2024-03-14
+626,Puma Sports Jacket XL,Fashion,Apparel,Puma,2262.96,1618.91,3.79,2023-03-21
+627,Apple iPhone 13 V2,Mobiles,Smartphones,Apple,43230.9,30980.74,4.15,2022-03-23
+628,Apple MacBook Air M2 Silver,Laptops,Thin & Light,Apple,175107.4,115951.38,4.69,2022-10-04
+629,Philips Air Fryer HD9200 Black,Home Appliances,Kitchen,Philips,8978.53,6698.78,4.28,2023-08-07
+630,boAt Car Charger 256GB,Mobiles,Accessories,boAt,646.69,544.05,4.61,2024-03-17
+631,boAt Nirvana Ion 256GB,Electronics,Audio,boAt,1700.48,1491.23,4.94,2022-10-29
+632,Philips Hair Dryer,Beauty,Personal Care,Philips,2584.26,2119.38,4.46,2023-09-09
+633,Apple MacBook Air M1 Blue,Laptops,Thin & Light,Apple,131443.04,98056.31,3.4,2022-10-07
+634,Apple iPhone 13 256GB,Mobiles,Smartphones,Apple,128711.83,82656.48,2.55,2022-09-09
+635,Prestige Induction Cooktop Blue,Home Appliances,Kitchen,Prestige,3970.58,3272.59,4.32,2023-12-26
+636,boAt Type-C Cable V2,Mobiles,Accessories,boAt,915.13,744.7,3.83,2022-05-14
+637,Samsung Galaxy M14 5G Pack of 2,Mobiles,Smartphones,Samsung,24290.06,16777.06,3.78,2022-11-07
+638,Nivea Body Lotion 400ml Pro,Beauty,Skincare,Nivea,414.26,363.73,2.69,2022-02-28
+639,boAt Stone 352 Speaker Edition,Electronics,Audio,boAt,1460.92,921.43,4.51,2024-02-17
+640,Noise ColorFit Pulse Pack of 2,Electronics,Audio,Noise,3083.27,2449.12,4.8,2024-04-12
+641,boAt Rockerz 255 Pack of 2,Electronics,Audio,boAt,1430.27,1202.02,2.5,2022-07-10
+642,LG 260L Double Door Refrigerator 128GB,Home Appliances,Cooling,LG,42255.27,28855.96,3.4,2023-03-06
+643,Puma Sports Jacket Edition,Fashion,Apparel,Puma,3058.33,2464.75,4.95,2022-07-21
+644,Philips Beard Trimmer Series 3000 Blue,Beauty,Personal Care,Philips,2644.87,1737.24,4.49,2024-01-16
+645,Nivea Roll-On Deodorant XL,Beauty,Skincare,Nivea,754.4,610.46,3.45,2023-12-18
+646,boAt Car Charger Edition,Mobiles,Accessories,boAt,1812.4,1429.04,4.12,2023-05-26
+647,HP 250 G8 256GB,Laptops,Budget Laptops,HP,27236.09,23371.83,4.22,2023-11-29
+648,HP Chromebook 14 128GB,Laptops,Budget Laptops,HP,44986.01,39074.08,3.89,2023-08-11
+649,Puma Sports Jacket,Fashion,Apparel,Puma,975.94,708.2,4.24,2023-10-01
+650,Samsung Galaxy M14 5G Blue,Mobiles,Smartphones,Samsung,17350.56,12319.94,4.9,2022-10-05
+651,HP Omen 16 XL,Laptops,Gaming Laptops,HP,82264.94,65586.14,4.08,2022-07-20
+652,HP Chromebook 14 XL,Laptops,Budget Laptops,HP,40194.62,24507.63,3.47,2023-05-21
+653,boAt Power Bank 10000mAh 256GB,Mobiles,Accessories,boAt,818.29,692.83,3.43,2022-10-18
+654,Philips Hair Straightener Pack of 2,Beauty,Personal Care,Philips,1894.03,1567.22,4.9,2022-09-21
+655,Puma Track Pants Silver,Fashion,Apparel,Puma,1461.36,1230.25,4.51,2023-02-12
+656,Philips Beard Trimmer Series 3000 V2,Beauty,Personal Care,Philips,1650.33,1122.36,4.16,2023-09-21
+657,HP Omen 16 Pack of 2,Laptops,Gaming Laptops,HP,60338.17,46153.34,3.04,2022-05-24
+658,Puma Softride Rift Black,Fashion,Men Footwear,Puma,5224.75,3186.42,3.82,2024-01-03
+659,HP Pavilion Gaming Edition,Laptops,Gaming Laptops,HP,70554.19,53707.69,4.03,2022-08-01
+660,Samsung Galaxy M34 XL,Mobiles,Smartphones,Samsung,41679.89,34808.57,4.24,2023-09-10
+661,HP Laptop 15s Silver,Laptops,Budget Laptops,HP,31896.24,20167.0,3.11,2023-07-27
+662,boAt Airdopes 141 Pack of 2,Electronics,Audio,boAt,1180.85,773.57,4.96,2022-02-27
+663,Noise Pulse 2 Max,Electronics,Wearables,Noise,4145.53,2713.39,4.19,2022-03-06
+664,boAt Type-C Cable V2,Mobiles,Accessories,boAt,1666.41,1147.25,3.0,2023-07-02
+665,Noise Buds VS102 V2,Electronics,Audio,Noise,2040.79,1253.47,4.97,2024-01-12
+666,boAt Car Charger Blue,Mobiles,Accessories,boAt,996.62,722.09,2.77,2022-04-14
+667,Puma Women Sports Bra Pro,Fashion,Women Apparel,Puma,2282.98,1997.13,4.59,2024-04-16
+668,boAt Power Bank 10000mAh Silver,Mobiles,Accessories,boAt,734.86,530.6,4.12,2023-07-16
+669,LG 260L Double Door Refrigerator Black,Home Appliances,Cooling,LG,22639.24,18411.92,4.89,2022-11-23
+670,Puma Women Leggings XL,Fashion,Women Apparel,Puma,1896.46,1285.62,3.69,2022-12-29
+671,HP Chromebook 14,Laptops,Budget Laptops,HP,24780.62,21148.79,2.83,2023-01-25
+672,Puma Casual Tee Black,Fashion,Women Apparel,Puma,2275.78,1887.08,4.82,2023-07-25
+673,Apple iPhone 13 V2,Mobiles,Smartphones,Apple,94567.66,66447.54,2.92,2023-09-29
+674,Puma Casual Tee XL,Fashion,Women Apparel,Puma,2535.97,1930.01,2.53,2024-02-25
+675,Noise Pure Pods V2,Electronics,Audio,Noise,1350.25,813.55,3.4,2022-10-14
+676,Puma Softride Rift Black,Fashion,Men Footwear,Puma,2284.87,1699.37,2.59,2023-10-09
+677,Philips Hair Dryer Silver,Beauty,Personal Care,Philips,1113.35,737.24,4.42,2024-04-09
+678,Puma Sports Jacket Edition,Fashion,Apparel,Puma,2482.88,1914.71,4.03,2022-02-25
+679,Puma Smash v2 Sneakers XL,Fashion,Men Footwear,Puma,3603.31,2386.29,4.94,2022-09-18
+680,Nivea Roll-On Deodorant Edition,Beauty,Skincare,Nivea,237.17,161.01,2.8,2023-08-16
+681,Nivea Soft Cream 300ml V2,Beauty,Skincare,Nivea,766.31,571.98,3.42,2023-12-16
+682,boAt Type-C Cable Pro,Mobiles,Accessories,boAt,1436.09,1040.3,4.11,2023-07-03
+683,Apple MacBook Air M2 V2,Laptops,Thin & Light,Apple,142391.0,123505.35,4.01,2022-10-02
+684,Philips Beard Trimmer Series 3000 Pro,Beauty,Personal Care,Philips,2183.03,1591.01,3.3,2024-04-07
+685,Noise Buds VS102 V2,Electronics,Audio,Noise,2479.15,2108.81,3.97,2022-11-24
+686,Puma Sports Jacket 256GB,Fashion,Apparel,Puma,1482.12,1123.47,3.23,2022-03-05
+687,Puma Casual Tee 256GB,Fashion,Women Apparel,Puma,1968.64,1471.09,4.62,2022-10-19
+688,Philips Air Fryer HD9200 Pack of 2,Home Appliances,Kitchen,Philips,8747.72,6537.05,4.66,2022-04-07
+689,HP Chromebook 14 Blue,Laptops,Budget Laptops,HP,41378.36,28695.92,3.84,2022-04-23
+690,Puma Women Sports Bra Pack of 2,Fashion,Women Apparel,Puma,2245.24,1896.32,4.5,2024-03-02
+691,Prestige Sandwich Maker Silver,Home Appliances,Kitchen,Prestige,1776.03,1122.24,2.81,2022-12-22
+692,Puma Casual Tee Blue,Fashion,Women Apparel,Puma,2423.69,1513.38,2.99,2023-03-21
+693,boAt Power Bank 10000mAh V2,Mobiles,Accessories,boAt,1188.09,922.64,2.75,2023-04-02
+694,LG Direct Cool Refrigerator V2,Home Appliances,Cooling,LG,16383.26,11881.39,3.88,2022-06-01
+695,Puma Sports Jacket Silver,Fashion,Apparel,Puma,887.94,704.39,2.89,2023-02-20
+696,Apple iPhone 14 Silver,Mobiles,Smartphones,Apple,74127.77,51207.36,4.36,2024-04-05
+697,Nivea Soft Cream 300ml,Beauty,Skincare,Nivea,415.23,266.06,4.32,2024-02-09
+698,LG Direct Cool Refrigerator Edition,Home Appliances,Cooling,LG,38785.26,27860.6,3.39,2024-04-03
+699,Puma T-shirt XL,Fashion,Apparel,Puma,3048.78,1960.06,3.73,2022-12-18
+700,Philips Induction Cooktop Silver,Home Appliances,Kitchen,Philips,7717.28,6314.94,4.54,2023-06-12
+701,Samsung Galaxy M34 Blue,Mobiles,Smartphones,Samsung,47197.58,29831.61,4.45,2022-09-02
+702,Prestige Induction Cooktop Pack of 2,Home Appliances,Kitchen,Prestige,2389.45,1657.51,3.77,2024-02-26
+703,Puma Softride Rift 256GB,Fashion,Men Footwear,Puma,2132.29,1294.14,4.29,2022-02-12
+704,Puma Sports Jacket Black,Fashion,Apparel,Puma,2086.13,1711.61,3.43,2023-06-08
+705,HP Laptop 15s 128GB,Laptops,Budget Laptops,HP,34487.91,22433.88,3.14,2023-01-07
+706,Philips Hair Dryer Edition,Beauty,Personal Care,Philips,2585.08,2071.69,3.13,2022-03-16
+707,Philips Hair Dryer V2,Beauty,Personal Care,Philips,2710.38,1796.32,3.87,2022-12-22
+708,HP Victus 15 Pro,Laptops,Gaming Laptops,HP,71148.88,43529.15,3.3,2023-05-18
+709,Noise Buds VS102 V2,Electronics,Audio,Noise,2013.15,1626.9,2.93,2024-03-07
+710,HP Chromebook 14 XL,Laptops,Budget Laptops,HP,32724.34,24108.22,4.59,2023-07-27
+711,HP Laptop 15s V2,Laptops,Budget Laptops,HP,26621.13,18337.91,3.04,2022-05-13
+712,Ergonomic Executive Office Chair XL,Furniture,Office,LG,14513.0,11865.68,4.23,2023-10-28
+713,Noise Buds VS102 Silver,Electronics,Audio,Noise,1957.25,1619.44,3.95,2023-12-22
+714,Noise Ultra 2 Pro,Electronics,Wearables,Noise,2767.25,1775.42,3.64,2022-02-28
+715,Apple MacBook Air M2 Pro,Laptops,Thin & Light,Apple,114670.41,80007.68,4.99,2023-12-26
+716,Puma Women Leggings Blue,Fashion,Women Apparel,Puma,710.73,480.9,2.98,2022-07-10
+717,HP 250 G8 Edition,Laptops,Budget Laptops,HP,30043.14,24696.12,4.51,2023-03-09
+718,Philips Air Fryer HD9200 Edition,Home Appliances,Kitchen,Philips,7664.54,4980.48,3.04,2023-03-28
+719,Samsung Galaxy S23 FE XL,Mobiles,Smartphones,Samsung,17225.88,11533.05,2.57,2022-05-31
+720,Nivea Roll-On Deodorant Silver,Beauty,Skincare,Nivea,342.29,235.4,4.62,2023-06-25
+721,Philips Beard Trimmer Series 3000 128GB,Beauty,Personal Care,Philips,1671.74,1170.7,2.7,2023-03-01
+722,Puma Track Pants XL,Fashion,Apparel,Puma,844.52,627.48,4.06,2023-12-22
+723,Apple MacBook Air M1 256GB,Laptops,Thin & Light,Apple,161396.12,97115.36,3.07,2022-04-07
+724,boAt Car Charger Blue,Mobiles,Accessories,boAt,625.35,530.0,4.16,2023-12-23
+725,LG Direct Cool Refrigerator,Home Appliances,Cooling,LG,38653.89,25336.02,2.83,2023-10-11
+726,Apple iPhone 12 Pack of 2,Mobiles,Smartphones,Apple,117534.69,88194.21,2.65,2023-09-05
+727,Ergonomic Executive Office Chair XL,Furniture,Office,LG,12540.84,10380.46,4.77,2022-08-07
+728,Samsung Galaxy A54 128GB,Mobiles,Smartphones,Samsung,36071.09,25433.14,4.07,2023-07-03
+729,HP Pavilion Gaming Black,Laptops,Gaming Laptops,HP,68134.25,46346.7,3.53,2022-06-03
+730,Noise Buds VS102 Black,Electronics,Audio,Noise,1980.08,1736.84,3.9,2023-10-03
+731,boAt Stone 352 Speaker Pro,Electronics,Audio,boAt,3899.67,3061.15,4.77,2023-03-10
+732,Samsung Galaxy S23 FE Pack of 2,Mobiles,Smartphones,Samsung,29208.99,18644.03,3.66,2022-12-09
+733,Metal Bookshelf Pack of 2,Furniture,Office,LG,9342.39,7258.61,3.35,2023-10-14
+734,LG 260L Double Door Refrigerator 256GB,Home Appliances,Cooling,LG,43727.49,35399.83,3.78,2024-02-14
+735,Apple iPhone 15 Pro XL,Mobiles,Smartphones,Apple,70211.49,49006.25,3.74,2023-11-07
+736,Fortune Sunflower Oil 5L Blue,Grocery,Staples,Prestige,784.34,616.96,3.55,2022-02-20
+737,LG 1.5 Ton 5 Star AI Dual Inverter Split AC Edition,Home Appliances,Cooling,LG,25069.29,21756.75,4.08,2023-08-26
+738,Samsung Galaxy M14 5G Silver,Mobiles,Smartphones,Samsung,47701.21,32645.73,4.49,2023-02-15
+739,HP Victus 15 V2,Laptops,Gaming Laptops,HP,79788.12,65246.6,3.14,2022-06-15
+740,Puma Running Shoes,Fashion,Men Footwear,Puma,4537.97,3659.22,2.68,2022-11-10
+741,Puma Sports Jacket Edition,Fashion,Apparel,Puma,2631.03,2090.25,2.73,2024-02-13
+742,boAt Rockerz 255 Edition,Electronics,Audio,boAt,3902.24,2382.6,4.4,2022-08-11
+743,Philips Beard Trimmer Series 3000 Pro,Beauty,Personal Care,Philips,2269.05,1391.03,4.47,2022-02-20
+744,Prestige Sandwich Maker XL,Home Appliances,Kitchen,Prestige,2778.95,1990.25,2.56,2023-10-15
+745,HP Victus 15 Blue,Laptops,Gaming Laptops,HP,64361.62,42805.16,3.75,2022-03-07
+746,Apple MacBook Air M2 Pack of 2,Laptops,Thin & Light,Apple,118090.14,73346.53,4.47,2023-11-08
+747,Metal Bookshelf Edition,Furniture,Office,LG,8474.0,5873.15,4.3,2023-04-09
+748,Puma T-shirt XL,Fashion,Apparel,Puma,1603.07,1023.84,2.97,2022-11-06
+749,Philips Air Fryer HD9200 Black,Home Appliances,Kitchen,Philips,5523.77,4703.26,2.81,2022-02-19
+750,Noise ColorFit Pro 4 V2,Electronics,Wearables,Noise,4599.92,2776.66,3.01,2023-12-30
+751,Fortune Sunflower Oil 5L Pro,Grocery,Staples,Prestige,808.3,557.62,4.27,2022-03-08
+752,Ergonomic Executive Office Chair Pack of 2,Furniture,Office,LG,9440.91,6182.1,2.98,2023-12-14
+753,Philips Hair Straightener Pro,Beauty,Personal Care,Philips,1238.31,912.68,4.17,2022-10-21
+754,Noise Buds VS102 256GB,Electronics,Audio,Noise,2211.94,1944.46,2.89,2023-07-14
+755,Apple MacBook Air M2 XL,Laptops,Thin & Light,Apple,118973.39,76163.73,4.66,2023-08-28
+756,Puma Softride Rift XL,Fashion,Men Footwear,Puma,3804.36,2743.94,4.05,2022-05-07
+757,Puma Women Sports Bra Pack of 2,Fashion,Women Apparel,Puma,2559.79,1956.98,2.51,2023-03-18
+758,Apple MacBook Air M2 Black,Laptops,Thin & Light,Apple,122743.75,106916.33,3.68,2023-12-22
+759,Puma Casual Tee Black,Fashion,Women Apparel,Puma,2014.33,1262.93,4.29,2023-02-08
+760,Noise Pulse 2 Max Edition,Electronics,Wearables,Noise,3059.27,2214.48,3.01,2023-03-03
+761,Wooden Study Table Edition,Furniture,Office,LG,11092.68,8506.74,4.76,2023-09-08
+762,Puma Women Leggings Edition,Fashion,Women Apparel,Puma,1588.39,1163.44,4.88,2023-04-23
+763,Puma Track Pants 256GB,Fashion,Apparel,Puma,3187.33,2534.89,3.79,2023-05-17
+764,Puma Casual Tee XL,Fashion,Women Apparel,Puma,2664.12,1969.25,3.13,2023-06-09
+765,Noise Pulse 2 Max Black,Electronics,Wearables,Noise,4477.1,2687.88,2.93,2022-08-17
+766,Apple iPhone 15 Pro V2,Mobiles,Smartphones,Apple,77346.82,54362.16,2.52,2024-02-18
+767,Prestige Pressure Cooker 5L Silver,Home Appliances,Kitchen,Prestige,2061.1,1561.19,3.96,2022-11-17
+768,Apple iPhone 15 Pro Blue,Mobiles,Smartphones,Apple,50561.03,37154.16,4.98,2023-01-09
+769,Philips 750W Mixer Grinder 128GB,Home Appliances,Kitchen,Philips,4790.79,3381.57,2.59,2022-08-19
+770,HP Victus 15 XL,Laptops,Gaming Laptops,HP,86438.74,74661.3,4.7,2022-10-10
+771,Puma T-shirt Blue,Fashion,Apparel,Puma,2630.46,1625.28,4.54,2022-05-25
+772,Prestige Pressure Cooker 5L XL,Home Appliances,Kitchen,Prestige,1518.07,1156.47,4.57,2024-01-04
+773,boAt Car Charger 128GB,Mobiles,Accessories,boAt,1553.01,1277.33,3.76,2023-12-17
+774,HP Omen 16 Pack of 2,Laptops,Gaming Laptops,HP,91105.66,72233.23,2.51,2022-10-16
+775,Puma Women Sports Bra Black,Fashion,Women Apparel,Puma,1623.11,1117.35,3.81,2022-12-21
+776,Prestige Pressure Cooker 5L Silver,Home Appliances,Kitchen,Prestige,1435.82,1175.11,2.81,2022-07-28
+777,boAt Stone 352 Speaker 256GB,Electronics,Audio,boAt,1619.93,1241.67,4.99,2023-09-30
+778,Prestige Sandwich Maker Blue,Home Appliances,Kitchen,Prestige,1267.98,952.68,2.74,2023-08-28
+779,Prestige Pressure Cooker 5L Pro,Home Appliances,Kitchen,Prestige,1855.31,1364.02,4.47,2024-01-27
+780,boAt Airdopes 141 128GB,Electronics,Audio,boAt,3912.69,3185.27,4.55,2022-06-22
+781,HP Pavilion Gaming V2,Laptops,Gaming Laptops,HP,78876.75,56936.24,4.68,2022-09-02
+782,Samsung Galaxy M14 5G Edition,Mobiles,Smartphones,Samsung,32396.84,25779.1,2.93,2023-10-28
+783,LG Direct Cool Refrigerator XL,Home Appliances,Cooling,LG,37099.58,27286.44,4.46,2023-06-09
+784,Philips Hair Dryer,Beauty,Personal Care,Philips,2840.63,1953.99,3.46,2024-01-18
+785,Aashirvaad Atta 10kg,Grocery,Staples,Prestige,703.23,520.23,3.39,2023-01-26
+786,Tata Salt 1kg Edition,Grocery,Staples,Prestige,521.58,391.26,4.51,2023-08-04
+787,Prestige Pressure Cooker 5L 256GB,Home Appliances,Kitchen,Prestige,2387.75,2027.86,3.14,2022-06-30
+788,Puma Running Shoes,Fashion,Men Footwear,Puma,3542.11,2816.55,3.08,2024-03-01
+789,Apple iPhone 13 Pack of 2,Mobiles,Smartphones,Apple,83642.73,53391.0,2.61,2023-11-12
+790,Apple iPhone 14 Black,Mobiles,Smartphones,Apple,88440.69,60929.31,2.58,2022-09-06
+791,Noise ColorFit Pulse 128GB,Electronics,Audio,Noise,1322.37,978.71,4.82,2024-03-30
+792,Prestige Pressure Cooker 5L 128GB,Home Appliances,Kitchen,Prestige,3233.42,2115.08,2.66,2022-09-22
+793,HP Omen 16 Edition,Laptops,Gaming Laptops,HP,78038.07,63883.94,3.54,2024-02-20
+794,Philips Hair Straightener Pack of 2,Beauty,Personal Care,Philips,2509.16,1747.54,2.78,2023-08-17
+795,Ergonomic Executive Office Chair 128GB,Furniture,Office,LG,14011.76,8727.16,3.54,2023-06-04
+796,boAt Car Charger Pack of 2,Mobiles,Accessories,boAt,1566.44,991.61,4.55,2022-04-06
+797,HP Laptop 15s Black,Laptops,Budget Laptops,HP,40285.16,26697.61,4.72,2022-12-26
+798,Puma Smash v2 Sneakers Pro,Fashion,Men Footwear,Puma,3718.85,2301.57,3.66,2022-09-08
+799,Apple iPhone 12 Blue,Mobiles,Smartphones,Apple,45775.71,35323.89,4.27,2023-08-10
+800,Nivea Roll-On Deodorant Pack of 2,Beauty,Skincare,Nivea,308.13,197.79,2.75,2022-10-01
+801,Wooden Study Table Edition,Furniture,Office,LG,13055.24,9288.16,4.44,2023-09-22
+802,Noise Buds VS102 V2,Electronics,Audio,Noise,2548.8,1791.14,2.77,2024-02-08
+803,Puma Softride Rift Edition,Fashion,Men Footwear,Puma,3375.08,2350.23,4.44,2022-07-14
+804,Noise Ultra 2 128GB,Electronics,Wearables,Noise,3599.24,2424.51,4.89,2024-01-16
+805,Philips Hair Straightener 256GB,Beauty,Personal Care,Philips,1899.4,1566.33,4.57,2022-08-22
+806,Apple MacBook Air M1 XL,Laptops,Thin & Light,Apple,147721.74,105391.99,2.92,2023-12-12
+807,Samsung Galaxy A54 Black,Mobiles,Smartphones,Samsung,39492.14,26385.67,3.43,2022-03-29
+808,Apple iPhone 15 Pro Pack of 2,Mobiles,Smartphones,Apple,124999.97,85311.36,4.08,2022-11-12
+809,HP Chromebook 14 Blue,Laptops,Budget Laptops,HP,36231.4,28186.83,4.64,2022-06-08
+810,HP 250 G8,Laptops,Budget Laptops,HP,26333.87,21163.78,3.73,2023-08-01
+811,Prestige Pressure Cooker 5L 256GB,Home Appliances,Kitchen,Prestige,1385.81,842.38,3.17,2022-03-13
+812,HP Chromebook 14,Laptops,Budget Laptops,HP,24603.28,15943.65,4.27,2024-04-10
+813,Samsung Galaxy M14 5G Silver,Mobiles,Smartphones,Samsung,46231.71,32597.67,2.69,2023-07-31
+814,Puma T-shirt Edition,Fashion,Apparel,Puma,1391.2,921.06,3.52,2022-11-16
+815,Samsung Galaxy M34 Edition,Mobiles,Smartphones,Samsung,30194.05,21738.45,4.3,2023-08-26
+816,Noise ColorFit Pulse 128GB,Electronics,Audio,Noise,3330.84,2480.2,4.88,2022-10-13
+817,Noise Buds VS102 Edition,Electronics,Audio,Noise,2091.51,1268.98,2.9,2023-06-04
+818,Philips Hair Dryer Pro,Beauty,Personal Care,Philips,1924.73,1624.99,2.77,2022-09-19
+819,Metal Bookshelf V2,Furniture,Office,LG,5857.66,5128.54,3.24,2023-12-04
+820,Ergonomic Executive Office Chair XL,Furniture,Office,LG,5798.58,4219.63,4.49,2023-08-09
+821,HP Pavilion Gaming Edition,Laptops,Gaming Laptops,HP,81761.55,68101.76,4.42,2023-02-14
+822,Samsung Galaxy M14 5G Edition,Mobiles,Smartphones,Samsung,28372.98,22273.81,3.11,2023-12-28
+823,HP 250 G8 Black,Laptops,Budget Laptops,HP,24569.14,15528.6,2.54,2023-03-26
+824,Philips Air Fryer HD9200 V2,Home Appliances,Kitchen,Philips,7090.32,4885.02,3.56,2022-09-17
+825,LG 260L Double Door Refrigerator Edition,Home Appliances,Cooling,LG,25418.66,21801.25,2.65,2022-12-15
+826,Puma Women Leggings 256GB,Fashion,Women Apparel,Puma,1971.53,1614.2,4.55,2023-01-09
+827,Puma Women Leggings Black,Fashion,Women Apparel,Puma,1826.44,1498.93,2.95,2023-06-05
+828,Aashirvaad Atta 10kg Pack of 2,Grocery,Staples,Prestige,957.7,783.39,2.56,2024-04-18
+829,Puma Running Shoes Silver,Fashion,Men Footwear,Puma,5385.17,3619.45,3.36,2023-11-03
+830,Samsung Galaxy M14 5G Pro,Mobiles,Smartphones,Samsung,37463.22,29177.04,4.29,2023-03-31
+831,Noise Buds VS102 XL,Electronics,Audio,Noise,3180.63,2569.82,4.03,2024-03-14
+832,Nivea Body Lotion 400ml Edition,Beauty,Skincare,Nivea,422.4,254.51,2.56,2024-04-16
+833,boAt Stone 352 Speaker 256GB,Electronics,Audio,boAt,3282.57,2489.23,4.78,2023-11-26
+834,Puma Softride Rift Edition,Fashion,Men Footwear,Puma,2103.24,1759.44,3.12,2023-11-08
+835,Nivea Body Lotion 400ml Pro,Beauty,Skincare,Nivea,522.2,440.07,3.58,2022-04-08
+836,Prestige Pressure Cooker 5L 256GB,Home Appliances,Kitchen,Prestige,2325.57,1850.34,4.88,2022-02-12
+837,Apple MacBook Air M2 Pack of 2,Laptops,Thin & Light,Apple,157966.42,101113.64,2.55,2022-10-16
+838,boAt Car Charger Edition,Mobiles,Accessories,boAt,1056.26,812.72,3.51,2022-03-13
+839,Tata Salt 1kg Edition,Grocery,Staples,Prestige,289.42,237.81,3.0,2022-11-08
+840,Apple MacBook Air M2 Pack of 2,Laptops,Thin & Light,Apple,162782.38,111630.4,2.6,2022-04-27
+841,Apple MacBook Air M1 Pack of 2,Laptops,Thin & Light,Apple,81685.68,58879.15,4.67,2023-01-23
+842,HP 250 G8 Pack of 2,Laptops,Budget Laptops,HP,44095.41,27997.57,2.7,2024-03-26
+843,boAt Nirvana Ion Edition,Electronics,Audio,boAt,1184.98,725.76,2.57,2023-05-30
+844,Puma Smash v2 Sneakers,Fashion,Men Footwear,Puma,3208.7,2799.51,3.36,2023-05-21
+845,Fortune Sunflower Oil 5L Black,Grocery,Staples,Prestige,746.19,573.27,4.54,2023-02-26
+846,boAt Airdopes 141 Black,Electronics,Audio,boAt,3823.36,2305.48,4.7,2022-06-24
+847,Puma Casual Tee Pack of 2,Fashion,Women Apparel,Puma,1450.17,986.04,3.7,2024-02-19
+848,Puma Women Sports Bra Edition,Fashion,Women Apparel,Puma,2664.89,2026.76,4.25,2023-05-22
+849,Samsung Galaxy M34 Black,Mobiles,Smartphones,Samsung,44704.26,39176.15,3.29,2023-07-09
+850,Philips Beard Trimmer Series 3000 Pack of 2,Beauty,Personal Care,Philips,2717.09,1673.27,4.05,2022-05-16
+851,Aashirvaad Atta 10kg 128GB,Grocery,Staples,Prestige,752.31,501.34,2.83,2024-03-12
+852,Puma Women Sports Bra Silver,Fashion,Women Apparel,Puma,2573.04,1600.59,2.64,2022-07-14
+853,Philips Beard Trimmer Series 3000 Pro,Beauty,Personal Care,Philips,2122.25,1614.26,3.38,2022-04-23
+854,HP Omen 16 Pack of 2,Laptops,Gaming Laptops,HP,70830.14,53858.41,3.76,2022-08-04
+855,Nivea Body Lotion 400ml 256GB,Beauty,Skincare,Nivea,440.43,311.85,2.88,2023-08-22
+856,HP Omen 16 256GB,Laptops,Gaming Laptops,HP,86092.17,69076.92,3.65,2023-03-12
+857,Apple MacBook Pro M3 128GB,Laptops,Thin & Light,Apple,119370.94,92734.1,4.93,2024-02-11
+858,Puma Running Shoes Edition,Fashion,Men Footwear,Puma,1887.65,1186.1,3.25,2023-08-03
+859,Puma Casual Tee Silver,Fashion,Women Apparel,Puma,1010.17,818.4,2.86,2022-10-25
+860,Puma Smash v2 Sneakers XL,Fashion,Men Footwear,Puma,3024.94,2597.23,3.06,2024-02-04
+861,HP Chromebook 14 Pro,Laptops,Budget Laptops,HP,36518.21,30014.48,2.61,2022-09-19
+862,Apple iPhone 12 256GB,Mobiles,Smartphones,Apple,68245.35,46481.93,2.79,2022-02-24
+863,Noise Pulse 2 Max 256GB,Electronics,Wearables,Noise,3692.9,3174.07,4.91,2023-05-16
+864,Prestige Sandwich Maker Silver,Home Appliances,Kitchen,Prestige,3913.42,3005.47,4.14,2022-06-27
+865,Samsung Galaxy S23 FE Silver,Mobiles,Smartphones,Samsung,22469.84,13687.18,4.93,2022-06-28
+866,LG 1.5 Ton 5 Star AI Dual Inverter Split AC Pro,Home Appliances,Cooling,LG,28151.71,21084.77,3.83,2022-04-26
+867,HP Chromebook 14 Blue,Laptops,Budget Laptops,HP,26390.91,22068.02,4.24,2022-02-24
+868,Noise Pure Pods Blue,Electronics,Audio,Noise,2801.32,2437.85,3.41,2022-09-14
+869,Puma Track Pants Blue,Fashion,Apparel,Puma,1297.86,942.01,2.68,2023-04-21
+870,Puma T-shirt Black,Fashion,Apparel,Puma,2862.61,1839.5,3.94,2023-01-06
+871,Puma Women Leggings,Fashion,Women Apparel,Puma,2192.25,1741.64,3.42,2022-12-06
+872,Nivea Roll-On Deodorant Pro,Beauty,Skincare,Nivea,369.78,309.84,3.87,2022-12-18
+873,Aashirvaad Atta 10kg Pro,Grocery,Staples,Prestige,1037.71,739.81,3.38,2022-12-08
+874,Nivea Body Lotion 400ml Silver,Beauty,Skincare,Nivea,331.29,277.06,4.8,2022-11-14
+875,HP Laptop 15s 128GB,Laptops,Budget Laptops,HP,28152.68,18899.01,2.97,2022-07-29
+876,Apple iPhone 14 128GB,Mobiles,Smartphones,Apple,99791.13,61981.6,3.43,2023-04-01
+877,Aashirvaad Atta 10kg,Grocery,Staples,Prestige,1082.87,845.98,4.28,2024-01-26
+878,HP 250 G8 Blue,Laptops,Budget Laptops,HP,26128.07,22405.51,3.97,2023-08-08
+879,Noise Ultra 2 Edition,Electronics,Wearables,Noise,1776.89,1100.85,4.18,2022-08-04
+880,Puma T-shirt 256GB,Fashion,Apparel,Puma,3054.09,1966.46,3.81,2023-06-25
+881,Noise Ultra 2 Silver,Electronics,Wearables,Noise,3117.76,2632.01,4.96,2022-09-08
+882,Fortune Sunflower Oil 5L Edition,Grocery,Staples,Prestige,151.22,103.17,2.91,2022-07-23
+883,Puma Smash v2 Sneakers V2,Fashion,Men Footwear,Puma,5242.7,3488.58,4.04,2023-08-24
+884,Apple MacBook Air M2 V2,Laptops,Thin & Light,Apple,82430.4,51521.67,4.38,2022-09-19
+885,Samsung Galaxy S23 FE V2,Mobiles,Smartphones,Samsung,51233.09,44779.38,4.91,2023-10-23
+886,Nivea Soft Cream 300ml V2,Beauty,Skincare,Nivea,293.19,230.1,3.41,2022-12-25
+887,HP Pavilion Gaming Blue,Laptops,Gaming Laptops,HP,91887.4,79125.4,4.31,2022-10-24
+888,Noise Buds VS102 V2,Electronics,Audio,Noise,3404.87,2855.1,4.92,2024-04-11
+889,Noise ColorFit Pro 4 Edition,Electronics,Wearables,Noise,3143.04,2231.11,4.24,2022-09-05
+890,boAt Type-C Cable Black,Mobiles,Accessories,boAt,930.52,700.31,4.24,2023-09-08
+891,Philips Hair Dryer Silver,Beauty,Personal Care,Philips,2855.61,2328.92,3.69,2022-07-31
+892,Noise ColorFit Pro 4 Silver,Electronics,Wearables,Noise,1931.15,1355.8,3.31,2023-12-07
+893,Puma Casual Tee XL,Fashion,Women Apparel,Puma,1487.95,1228.96,3.86,2022-07-14
+894,Noise Ultra 2 256GB,Electronics,Wearables,Noise,3863.24,3154.98,3.35,2023-06-12
+895,Philips Hair Straightener XL,Beauty,Personal Care,Philips,2219.6,1379.15,3.27,2024-03-28
+896,Noise ColorFit Pulse Edition,Electronics,Audio,Noise,1901.81,1542.53,4.11,2024-03-02
+897,Puma Women Sports Bra Blue,Fashion,Women Apparel,Puma,1844.43,1263.99,3.87,2023-10-22
+898,Puma Running Shoes 256GB,Fashion,Men Footwear,Puma,4375.33,3638.87,4.1,2024-01-14
+899,Aashirvaad Atta 10kg Pack of 2,Grocery,Staples,Prestige,401.48,292.37,2.75,2022-10-12
+900,boAt Car Charger Silver,Mobiles,Accessories,boAt,1911.43,1427.41,3.5,2023-11-08
+901,HP Pavilion Gaming Pro,Laptops,Gaming Laptops,HP,72792.1,59586.78,3.12,2023-01-16
+902,Noise Pulse 2 Max Blue,Electronics,Wearables,Noise,4514.4,3565.78,3.43,2022-07-27
+903,Samsung Galaxy S23 FE Pack of 2,Mobiles,Smartphones,Samsung,39591.52,34150.32,3.4,2022-06-19
+904,Noise Pure Pods Silver,Electronics,Audio,Noise,1779.5,1506.06,3.21,2024-02-16
+905,Philips 750W Mixer Grinder Black,Home Appliances,Kitchen,Philips,7124.42,6249.28,3.1,2023-01-03
+906,Apple iPhone 14 Blue,Mobiles,Smartphones,Apple,52750.88,34505.99,3.57,2022-11-22
+907,boAt Car Charger Pack of 2,Mobiles,Accessories,boAt,1423.0,943.88,4.25,2024-02-08
+908,Puma Smash v2 Sneakers,Fashion,Men Footwear,Puma,3981.14,2762.77,3.62,2024-03-14
+909,Philips 750W Mixer Grinder Black,Home Appliances,Kitchen,Philips,9271.61,5567.39,2.91,2022-03-16
+910,Apple iPhone 15 Pro Pack of 2,Mobiles,Smartphones,Apple,112070.62,76952.42,3.37,2022-10-24
+911,Apple iPhone 13 Pack of 2,Mobiles,Smartphones,Apple,108679.97,93246.47,2.69,2023-06-29
+912,Tata Salt 1kg Silver,Grocery,Staples,Prestige,767.48,509.23,2.72,2024-03-20
+913,Puma Women Sports Bra XL,Fashion,Women Apparel,Puma,1299.34,821.23,3.56,2022-11-18
+914,boAt Nirvana Ion Pro,Electronics,Audio,boAt,3732.26,3134.18,4.4,2022-11-06
+915,Samsung Galaxy M14 5G XL,Mobiles,Smartphones,Samsung,40160.77,31054.53,2.97,2022-10-06
+916,Nivea Roll-On Deodorant 256GB,Beauty,Skincare,Nivea,433.67,316.36,3.97,2022-03-02
+917,boAt Power Bank 10000mAh Pro,Mobiles,Accessories,boAt,974.63,728.0,4.38,2023-01-05
+918,boAt Rockerz 255 V2,Electronics,Audio,boAt,3505.07,3024.57,3.13,2024-03-06
+919,HP Pavilion Gaming Edition,Laptops,Gaming Laptops,HP,64205.31,50078.1,3.67,2024-02-05
+920,Samsung Galaxy A54 Edition,Mobiles,Smartphones,Samsung,44354.36,31935.02,4.42,2022-06-16
+921,Apple MacBook Pro M3 Silver,Laptops,Thin & Light,Apple,158189.7,102202.6,2.96,2023-04-20
+922,Philips Hair Dryer Black,Beauty,Personal Care,Philips,1939.57,1204.29,3.8,2024-04-09
+923,Apple iPhone 15 Pro Silver,Mobiles,Smartphones,Apple,79445.58,60691.09,4.93,2023-12-30
+924,boAt Rockerz 255 Silver,Electronics,Audio,boAt,3898.29,3280.67,3.74,2023-12-10
+925,Tata Salt 1kg 128GB,Grocery,Staples,Prestige,405.11,322.64,4.73,2022-11-19
+926,Philips Beard Trimmer Series 3000 Blue,Beauty,Personal Care,Philips,1593.68,1131.42,4.57,2022-08-24
+927,Apple MacBook Pro M3 Pro,Laptops,Thin & Light,Apple,181542.75,131275.83,4.02,2023-07-06
+928,Puma Track Pants Edition,Fashion,Apparel,Puma,2851.06,2290.54,4.48,2022-12-17
+929,Samsung Galaxy M34 256GB,Mobiles,Smartphones,Samsung,30089.57,23004.91,4.11,2022-05-17
+930,Aashirvaad Atta 10kg Edition,Grocery,Staples,Prestige,225.23,184.33,4.1,2024-01-23
+931,Puma Sports Jacket Pro,Fashion,Apparel,Puma,2958.87,2411.02,3.4,2023-05-25
+932,Apple iPhone 15 Pro Blue,Mobiles,Smartphones,Apple,66425.97,46722.22,4.7,2022-10-15
+933,Prestige Induction Cooktop Pro,Home Appliances,Kitchen,Prestige,1968.53,1608.8,3.85,2023-04-26
+934,Puma Track Pants Pro,Fashion,Apparel,Puma,3198.99,2669.36,4.38,2023-06-16
+935,Prestige Sandwich Maker 128GB,Home Appliances,Kitchen,Prestige,1851.82,1557.38,4.17,2023-11-07
+936,Samsung Galaxy S23 FE Edition,Mobiles,Smartphones,Samsung,30096.25,20483.75,3.43,2023-08-08
+937,Philips Air Fryer HD9200 Edition,Home Appliances,Kitchen,Philips,4363.89,2987.77,3.6,2023-05-01
+938,Philips Air Fryer HD9200 XL,Home Appliances,Kitchen,Philips,9347.84,7314.75,3.22,2023-09-21
+939,Puma Track Pants 128GB,Fashion,Apparel,Puma,2627.03,2115.7,4.76,2023-07-28
+940,LG 260L Double Door Refrigerator 128GB,Home Appliances,Cooling,LG,35187.89,24551.56,4.06,2023-01-14
+941,Noise Ultra 2 Pack of 2,Electronics,Wearables,Noise,2360.32,1426.99,3.19,2023-07-15
+942,Puma T-shirt,Fashion,Apparel,Puma,913.32,785.43,4.23,2023-02-03
+943,Puma Casual Tee V2,Fashion,Women Apparel,Puma,1254.75,1010.96,2.85,2022-03-15
+944,Philips 750W Mixer Grinder Silver,Home Appliances,Kitchen,Philips,9096.72,7409.83,4.96,2023-06-12
+945,boAt Airdopes 141,Electronics,Audio,boAt,1136.14,867.83,4.45,2024-04-13
+946,Apple iPhone 14,Mobiles,Smartphones,Apple,69896.98,53937.37,4.27,2022-03-02
+947,Prestige Sandwich Maker Black,Home Appliances,Kitchen,Prestige,3401.84,2465.0,4.53,2022-09-12
+948,Prestige Sandwich Maker Black,Home Appliances,Kitchen,Prestige,3718.48,2485.06,4.02,2023-06-12
+949,Noise Buds VS102 Black,Electronics,Audio,Noise,2388.11,1507.81,4.6,2023-09-03
+950,Puma Track Pants Pack of 2,Fashion,Apparel,Puma,2629.74,2102.68,2.58,2023-09-28
+951,Puma Sports Jacket 128GB,Fashion,Apparel,Puma,909.66,758.13,2.52,2023-10-31
+952,HP Laptop 15s V2,Laptops,Budget Laptops,HP,28872.88,18062.33,4.08,2023-08-22
+953,boAt Car Charger 256GB,Mobiles,Accessories,boAt,1650.81,1338.77,2.89,2024-01-13
+954,Wooden Study Table Pack of 2,Furniture,Office,LG,9901.09,8554.92,3.53,2023-09-23
+955,Prestige Induction Cooktop Pro,Home Appliances,Kitchen,Prestige,3121.71,2346.59,2.55,2023-10-23
+956,Noise Pure Pods 128GB,Electronics,Audio,Noise,2547.65,1947.09,3.85,2023-07-21
+957,Samsung Galaxy M14 5G Pack of 2,Mobiles,Smartphones,Samsung,20246.89,14731.86,4.82,2022-02-14
+958,boAt Type-C Cable Blue,Mobiles,Accessories,boAt,1318.24,1119.32,3.9,2022-11-14
+959,Prestige Pressure Cooker 5L Edition,Home Appliances,Kitchen,Prestige,2008.67,1625.96,3.49,2022-05-29
+960,Puma Women Leggings Edition,Fashion,Women Apparel,Puma,1955.05,1415.24,2.82,2023-06-25
+961,Apple iPhone 13 Black,Mobiles,Smartphones,Apple,89733.28,77805.66,4.79,2022-12-26
+962,Philips Hair Dryer 128GB,Beauty,Personal Care,Philips,1108.44,724.85,4.09,2022-05-12
+963,Apple iPhone 12 256GB,Mobiles,Smartphones,Apple,121884.72,92813.6,2.88,2023-02-24
+964,Puma Women Leggings Black,Fashion,Women Apparel,Puma,2212.96,1340.4,4.22,2022-08-08
+965,Puma Women Sports Bra Pack of 2,Fashion,Women Apparel,Puma,1353.94,986.82,4.5,2024-03-07
+966,Fortune Sunflower Oil 5L 128GB,Grocery,Staples,Prestige,411.04,300.84,3.98,2024-03-02
+967,HP Pavilion Gaming Silver,Laptops,Gaming Laptops,HP,87744.71,61040.36,2.77,2022-11-15
+968,Philips Air Fryer HD9200 Silver,Home Appliances,Kitchen,Philips,4831.61,3432.84,2.81,2024-01-26
+969,Apple iPhone 15 Pro,Mobiles,Smartphones,Apple,72166.51,54933.96,3.65,2024-01-03
+970,Tata Salt 1kg 128GB,Grocery,Staples,Prestige,120.23,94.76,3.25,2023-04-05
+971,Aashirvaad Atta 10kg V2,Grocery,Staples,Prestige,489.72,353.84,3.97,2024-02-02
+972,HP Pavilion Gaming,Laptops,Gaming Laptops,HP,58923.09,38245.04,3.75,2023-10-25
+973,HP Chromebook 14 XL,Laptops,Budget Laptops,HP,30788.48,24250.71,4.28,2023-08-23
+974,Prestige Induction Cooktop V2,Home Appliances,Kitchen,Prestige,1464.98,1169.04,3.46,2023-02-12
+975,Samsung Galaxy A54 Pack of 2,Mobiles,Smartphones,Samsung,17084.55,10579.12,2.66,2023-10-21
+976,boAt Airdopes 141 Edition,Electronics,Audio,boAt,2919.89,2108.94,4.16,2023-08-10
+977,boAt Airdopes 141 128GB,Electronics,Audio,boAt,1685.73,1375.21,4.33,2022-05-01
+978,Noise Ultra 2 Blue,Electronics,Wearables,Noise,2725.86,1991.23,3.4,2022-03-04
+979,Prestige Induction Cooktop 128GB,Home Appliances,Kitchen,Prestige,4138.39,3164.26,2.55,2022-07-03
+980,Noise ColorFit Pulse Silver,Electronics,Audio,Noise,1563.36,1225.57,4.58,2022-03-12
+981,Puma Women Sports Bra Pro,Fashion,Women Apparel,Puma,999.21,629.91,3.72,2022-05-15
+982,boAt Type-C Cable Blue,Mobiles,Accessories,boAt,1009.34,885.39,2.57,2022-11-17
+983,Apple iPhone 15 Pro Silver,Mobiles,Smartphones,Apple,125294.18,84464.49,2.56,2022-06-19
+984,Apple MacBook Air M1 256GB,Laptops,Thin & Light,Apple,79210.58,61725.53,2.93,2022-11-06
+985,Puma Softride Rift V2,Fashion,Men Footwear,Puma,3261.61,2798.21,2.61,2022-10-22
+986,HP Victus 15 Pack of 2,Laptops,Gaming Laptops,HP,57564.41,49631.55,4.42,2022-08-14
+987,Nivea Soft Cream 300ml Pack of 2,Beauty,Skincare,Nivea,719.67,495.31,4.1,2024-01-03
+988,Noise Pure Pods V2,Electronics,Audio,Noise,2273.35,1703.06,4.16,2023-05-03
+989,boAt Type-C Cable,Mobiles,Accessories,boAt,673.12,514.42,4.73,2022-06-12
+990,Apple iPhone 12 Pro,Mobiles,Smartphones,Apple,79255.34,53923.92,2.71,2023-01-07
+991,Ergonomic Executive Office Chair,Furniture,Office,LG,6557.76,5561.09,3.32,2022-11-21
+992,boAt Power Bank 10000mAh Black,Mobiles,Accessories,boAt,768.3,591.16,2.74,2023-08-23
+993,LG 1.5 Ton 5 Star AI Dual Inverter Split AC Edition,Home Appliances,Cooling,LG,17976.7,12152.11,4.75,2023-01-14
+994,Aashirvaad Atta 10kg Silver,Grocery,Staples,Prestige,526.86,454.62,2.84,2023-11-24
+995,Noise ColorFit Pro 4,Electronics,Wearables,Noise,3973.98,2701.09,2.88,2024-03-10
+996,Philips Induction Cooktop 128GB,Home Appliances,Kitchen,Philips,7148.19,4830.05,4.51,2024-01-31
+997,Nivea Soft Cream 300ml Edition,Beauty,Skincare,Nivea,389.19,309.26,3.57,2022-02-25
+998,Puma Sports Jacket Silver,Fashion,Apparel,Puma,2566.35,1646.52,4.12,2023-05-25
+999,boAt Nirvana Ion Pack of 2,Electronics,Audio,boAt,3833.28,2442.26,3.07,2023-07-29
+1000,Apple iPhone 13 V2,Mobiles,Smartphones,Apple,116356.97,96502.39,4.86,2024-03-11
+1001,Samsung Galaxy M34 256GB,Mobiles,Smartphones,Samsung,47120.94,29044.21,3.08,2024-01-31
+1002,HP Victus 15 128GB,Laptops,Gaming Laptops,HP,67301.61,49771.66,4.64,2023-10-23
+1003,Noise ColorFit Pulse 256GB,Electronics,Audio,Noise,3138.55,2230.3,4.77,2022-08-07
+1004,Philips Hair Dryer Edition,Beauty,Personal Care,Philips,2995.17,2570.78,4.19,2023-06-01
+1005,Puma Smash v2 Sneakers Blue,Fashion,Men Footwear,Puma,5455.75,3995.77,3.13,2022-06-20
+1006,Prestige Sandwich Maker,Home Appliances,Kitchen,Prestige,2865.1,2126.1,3.22,2023-02-22
+1007,Metal Bookshelf Blue,Furniture,Office,LG,7088.49,5029.92,4.91,2024-02-14
+1008,Nivea Soft Cream 300ml 256GB,Beauty,Skincare,Nivea,237.87,190.05,3.33,2022-02-20
+1009,Puma Smash v2 Sneakers 128GB,Fashion,Men Footwear,Puma,3746.51,2899.75,3.36,2024-04-12
+1010,Apple iPhone 13 Pack of 2,Mobiles,Smartphones,Apple,51993.79,44222.27,4.69,2022-03-20
+1011,Apple MacBook Pro M3 Silver,Laptops,Thin & Light,Apple,105248.63,88368.54,2.73,2022-06-03
+1012,Prestige Pressure Cooker 5L 256GB,Home Appliances,Kitchen,Prestige,1697.86,1075.67,2.81,2022-07-14
+1013,Philips 750W Mixer Grinder Black,Home Appliances,Kitchen,Philips,2832.66,2188.58,4.06,2022-11-23
+1014,Philips Hair Dryer 128GB,Beauty,Personal Care,Philips,1806.34,1588.48,2.86,2023-02-08
+1015,Prestige Sandwich Maker XL,Home Appliances,Kitchen,Prestige,2376.2,1929.84,4.59,2024-01-20
+1016,HP Laptop 15s,Laptops,Budget Laptops,HP,36631.13,27828.98,4.76,2024-01-22
+1017,boAt Stone 352 Speaker Pack of 2,Electronics,Audio,boAt,2847.67,2265.91,4.05,2023-12-15
+1018,Nivea Soft Cream 300ml Silver,Beauty,Skincare,Nivea,376.18,300.12,4.7,2023-03-24
+1019,Nivea Roll-On Deodorant XL,Beauty,Skincare,Nivea,321.92,273.21,4.07,2023-08-11
+1020,boAt Type-C Cable Silver,Mobiles,Accessories,boAt,1546.51,955.64,3.19,2022-12-01
+1021,HP Pavilion Gaming 128GB,Laptops,Gaming Laptops,HP,77339.97,67248.69,4.14,2023-09-05
+1022,Philips Air Fryer HD9200 Pro,Home Appliances,Kitchen,Philips,7813.98,6713.94,3.61,2023-11-02
+1023,HP Chromebook 14 V2,Laptops,Budget Laptops,HP,36297.55,30728.45,4.55,2023-10-12
+1024,Prestige Sandwich Maker,Home Appliances,Kitchen,Prestige,2654.56,1830.89,3.71,2023-04-26
+1025,Philips Hair Straightener Pack of 2,Beauty,Personal Care,Philips,2450.74,2129.28,4.38,2022-03-29
+1026,Samsung Galaxy M34 Silver,Mobiles,Smartphones,Samsung,16347.09,13503.05,3.73,2023-10-27
+1027,HP Laptop 15s 256GB,Laptops,Budget Laptops,HP,37556.23,25029.46,4.64,2023-11-30
+1028,Apple iPhone 14 Edition,Mobiles,Smartphones,Apple,108995.56,88752.37,3.76,2023-04-07
+1029,Puma Smash v2 Sneakers 256GB,Fashion,Men Footwear,Puma,4067.39,3333.92,2.91,2023-05-23
+1030,Prestige Pressure Cooker 5L,Home Appliances,Kitchen,Prestige,4144.31,3305.76,3.78,2024-01-10
+1031,Nivea Roll-On Deodorant Silver,Beauty,Skincare,Nivea,356.88,303.4,3.69,2024-01-28
+1032,boAt Stone 352 Speaker 128GB,Electronics,Audio,boAt,3691.19,2244.54,4.15,2023-10-09
+1033,Philips Air Fryer HD9200,Home Appliances,Kitchen,Philips,6964.85,4454.82,3.51,2023-04-25
+1034,LG 1.5 Ton 5 Star AI Dual Inverter Split AC Pro,Home Appliances,Cooling,LG,32492.4,25669.8,3.58,2022-04-25
+1035,Puma T-shirt Blue,Fashion,Apparel,Puma,2051.19,1703.52,2.93,2022-08-29
+1036,Noise Pulse 2 Max XL,Electronics,Wearables,Noise,4064.58,3368.44,4.92,2022-09-17
+1037,Apple iPhone 14 XL,Mobiles,Smartphones,Apple,110609.66,78577.92,4.6,2022-12-12
+1038,Philips Hair Straightener Pack of 2,Beauty,Personal Care,Philips,2419.9,1668.05,4.9,2023-05-02
+1039,Prestige Sandwich Maker Blue,Home Appliances,Kitchen,Prestige,2221.48,1370.14,4.25,2024-02-28
+1040,Ergonomic Executive Office Chair Blue,Furniture,Office,LG,7278.08,5920.02,4.49,2023-09-21
+1041,Nivea Soft Cream 300ml 128GB,Beauty,Skincare,Nivea,441.29,330.5,5.0,2022-03-08
+1042,Apple iPhone 14 Pack of 2,Mobiles,Smartphones,Apple,90516.75,70988.01,3.41,2023-09-05
+1043,Puma T-shirt,Fashion,Apparel,Puma,1164.22,810.9,2.75,2023-02-28
+1044,Philips Induction Cooktop Blue,Home Appliances,Kitchen,Philips,9021.21,6766.11,3.77,2022-07-09
+1045,boAt Nirvana Ion Blue,Electronics,Audio,boAt,3767.71,2717.94,4.07,2024-03-27
+1046,Philips Induction Cooktop 128GB,Home Appliances,Kitchen,Philips,9087.52,7124.11,3.61,2022-06-26
+1047,Puma Women Leggings V2,Fashion,Women Apparel,Puma,1308.14,902.51,3.85,2022-06-18
+1048,HP Omen 16 Pack of 2,Laptops,Gaming Laptops,HP,71604.88,59569.08,4.56,2022-03-01
+1049,LG Direct Cool Refrigerator Black,Home Appliances,Cooling,LG,26000.8,20607.42,4.96,2023-04-03
+1050,Puma Women Sports Bra XL,Fashion,Women Apparel,Puma,2146.23,1771.42,2.91,2022-08-07
+1051,Samsung Galaxy S23 FE V2,Mobiles,Smartphones,Samsung,18311.46,15449.67,4.68,2023-05-29
+1052,Apple iPhone 13 Pro,Mobiles,Smartphones,Apple,96906.19,70120.82,3.07,2023-06-13
+1053,HP 250 G8 256GB,Laptops,Budget Laptops,HP,24845.69,17980.11,2.62,2022-03-22
+1054,boAt Car Charger V2,Mobiles,Accessories,boAt,1342.53,1144.1,3.57,2022-03-04
+1055,Apple iPhone 15 Pro XL,Mobiles,Smartphones,Apple,61678.24,44696.56,4.4,2022-06-15
+1056,Puma Running Shoes XL,Fashion,Men Footwear,Puma,2409.82,1614.21,4.42,2023-08-09
+1057,Noise ColorFit Pulse 256GB,Electronics,Audio,Noise,1611.27,1165.81,4.53,2023-06-04
+1058,Philips Hair Dryer 256GB,Beauty,Personal Care,Philips,1092.55,698.7,4.73,2022-07-17
+1059,Noise Pure Pods Pro,Electronics,Audio,Noise,3113.14,2334.9,3.74,2023-11-05
+1060,Noise Buds VS102 V2,Electronics,Audio,Noise,2050.27,1475.57,3.97,2022-12-30
+1061,Apple MacBook Air M1 Edition,Laptops,Thin & Light,Apple,182372.8,156712.19,3.21,2022-10-19
+1062,LG 260L Double Door Refrigerator,Home Appliances,Cooling,LG,29542.18,20964.29,3.79,2023-04-07
+1063,Philips Hair Straightener Blue,Beauty,Personal Care,Philips,2532.13,1819.58,4.6,2023-01-17
+1064,boAt Car Charger Pack of 2,Mobiles,Accessories,boAt,1731.13,1211.51,3.61,2022-09-03
+1065,Prestige Induction Cooktop Silver,Home Appliances,Kitchen,Prestige,3958.62,2604.99,2.56,2022-09-08
+1066,LG 1.5 Ton 5 Star AI Dual Inverter Split AC Black,Home Appliances,Cooling,LG,25768.02,16032.48,3.14,2022-02-26
+1067,Ergonomic Executive Office Chair Silver,Furniture,Office,LG,7456.19,4737.05,2.72,2024-02-05
+1068,Philips Hair Dryer,Beauty,Personal Care,Philips,2832.17,1984.07,2.65,2022-08-28
+1069,HP 250 G8 Black,Laptops,Budget Laptops,HP,40522.57,26530.43,2.98,2023-10-14
+1070,HP Victus 15 V2,Laptops,Gaming Laptops,HP,64942.02,43585.91,4.11,2022-08-10
+1071,Philips Induction Cooktop 256GB,Home Appliances,Kitchen,Philips,4682.43,3467.39,3.47,2022-02-23
+1072,LG 260L Double Door Refrigerator V2,Home Appliances,Cooling,LG,40911.57,31404.53,2.65,2022-07-29
+1073,boAt Power Bank 10000mAh Pro,Mobiles,Accessories,boAt,959.8,607.8,2.54,2023-06-20
+1074,Puma T-shirt Pro,Fashion,Apparel,Puma,3149.29,2475.94,2.96,2022-02-12
+1075,Nivea Soft Cream 300ml 128GB,Beauty,Skincare,Nivea,682.9,553.4,4.34,2022-03-10
+1076,Nivea Soft Cream 300ml Pack of 2,Beauty,Skincare,Nivea,439.99,368.39,3.46,2023-07-29
+1077,LG 1.5 Ton 5 Star AI Dual Inverter Split AC Black,Home Appliances,Cooling,LG,40938.16,35803.73,4.28,2022-07-16
+1078,Philips Beard Trimmer Series 3000 XL,Beauty,Personal Care,Philips,2235.87,1628.33,2.52,2022-05-07
+1079,Philips 750W Mixer Grinder Pro,Home Appliances,Kitchen,Philips,8886.97,5613.56,4.67,2022-10-09
+1080,boAt Airdopes 141 128GB,Electronics,Audio,boAt,2562.42,1819.74,4.94,2022-05-21
+1081,boAt Type-C Cable V2,Mobiles,Accessories,boAt,1654.73,1158.92,3.38,2022-08-25
+1082,Noise ColorFit Pulse 256GB,Electronics,Audio,Noise,3419.64,2735.5,3.81,2023-03-14
+1083,Nivea Soft Cream 300ml Pack of 2,Beauty,Skincare,Nivea,384.05,254.77,3.74,2023-03-20
+1084,HP Victus 15 Black,Laptops,Gaming Laptops,HP,70352.07,51715.56,2.96,2022-03-01
+1085,Philips 750W Mixer Grinder,Home Appliances,Kitchen,Philips,4236.56,2612.86,4.25,2022-07-14
+1086,boAt Stone 352 Speaker V2,Electronics,Audio,boAt,1518.57,1283.08,4.81,2023-09-01
+1087,Puma T-shirt Pack of 2,Fashion,Apparel,Puma,1167.58,780.94,2.58,2022-07-10
+1088,boAt Airdopes 141 Blue,Electronics,Audio,boAt,1367.68,1191.46,2.83,2023-03-13
+1089,Apple iPhone 12 Blue,Mobiles,Smartphones,Apple,76783.54,60503.14,3.95,2024-04-15
+1090,Apple MacBook Air M1 XL,Laptops,Thin & Light,Apple,117469.55,73214.91,4.16,2022-08-05
+1091,HP Victus 15 256GB,Laptops,Gaming Laptops,HP,88617.11,70274.66,3.64,2024-01-16
+1092,Samsung Galaxy S23 FE Silver,Mobiles,Smartphones,Samsung,48077.53,33172.99,3.36,2022-05-02
+1093,Samsung Galaxy S23 FE,Mobiles,Smartphones,Samsung,20431.66,14607.81,3.5,2023-01-02
+1094,LG Direct Cool Refrigerator XL,Home Appliances,Cooling,LG,24047.77,19515.88,4.67,2023-05-31
+1095,Noise Buds VS102 XL,Electronics,Audio,Noise,2693.75,2283.0,4.45,2023-03-24
+1096,Wooden Study Table Pro,Furniture,Office,LG,6155.76,4921.75,3.1,2023-06-04
+1097,HP Victus 15 128GB,Laptops,Gaming Laptops,HP,57166.17,37853.09,2.89,2022-06-01
+1098,Samsung Galaxy S23 FE Black,Mobiles,Smartphones,Samsung,48652.71,33996.86,3.48,2023-05-29
+1099,LG Direct Cool Refrigerator,Home Appliances,Cooling,LG,28507.26,18046.64,3.0,2022-09-19
+1100,Philips 750W Mixer Grinder Edition,Home Appliances,Kitchen,Philips,7209.62,5530.01,4.68,2022-05-23
+1101,Noise ColorFit Pro 4 Pack of 2,Electronics,Wearables,Noise,2240.73,1937.42,3.7,2022-08-15
+1102,Apple MacBook Pro M3 Pack of 2,Laptops,Thin & Light,Apple,124939.04,103331.44,3.93,2023-03-27
+1103,HP Pavilion Gaming Silver,Laptops,Gaming Laptops,HP,55216.49,43695.29,3.1,2023-08-16
+1104,Puma Women Sports Bra Silver,Fashion,Women Apparel,Puma,1846.11,1362.19,4.99,2024-03-15
+1105,Wooden Study Table Blue,Furniture,Office,LG,14005.91,10108.06,4.03,2024-03-23
+1106,Philips Air Fryer HD9200 Silver,Home Appliances,Kitchen,Philips,8946.99,5795.72,3.0,2023-03-11
+1107,Apple iPhone 15 Pro Edition,Mobiles,Smartphones,Apple,112320.64,81588.97,2.88,2022-03-21
+1108,Apple MacBook Pro M3 256GB,Laptops,Thin & Light,Apple,145328.64,126265.48,5.0,2022-10-12
+1109,Apple MacBook Air M1 Edition,Laptops,Thin & Light,Apple,84890.72,70443.44,2.63,2023-05-25
+1110,Puma Track Pants Pack of 2,Fashion,Apparel,Puma,1968.96,1612.58,3.42,2023-06-12
+1111,HP Victus 15 256GB,Laptops,Gaming Laptops,HP,92338.19,71839.89,2.86,2022-03-03
+1112,Apple MacBook Air M1 Blue,Laptops,Thin & Light,Apple,143069.74,86572.56,4.25,2022-07-09
+1113,Puma Smash v2 Sneakers Blue,Fashion,Men Footwear,Puma,4930.52,3478.98,4.67,2022-08-01
+1114,boAt Rockerz 255 Blue,Electronics,Audio,boAt,1971.55,1639.77,3.46,2022-11-28
+1115,Apple MacBook Air M2 Pack of 2,Laptops,Thin & Light,Apple,116186.43,74704.71,3.69,2022-05-02
+1116,Ergonomic Executive Office Chair V2,Furniture,Office,LG,9372.19,7692.81,4.89,2023-09-23
+1117,Fortune Sunflower Oil 5L V2,Grocery,Staples,Prestige,628.26,533.05,3.59,2024-02-29
+1118,Puma Softride Rift Pro,Fashion,Men Footwear,Puma,2926.02,2568.01,3.19,2022-10-21
+1119,Philips Air Fryer HD9200 Pack of 2,Home Appliances,Kitchen,Philips,7175.29,5359.2,2.53,2024-04-20
+1120,HP Omen 16 XL,Laptops,Gaming Laptops,HP,85415.3,55540.33,2.57,2022-10-20
+1121,Puma Smash v2 Sneakers V2,Fashion,Men Footwear,Puma,3804.86,3317.81,4.59,2023-01-27
+1122,Noise Pure Pods Blue,Electronics,Audio,Noise,3238.36,2475.93,2.53,2024-04-09
+1123,Puma T-shirt 128GB,Fashion,Apparel,Puma,3390.11,2580.14,3.31,2023-06-07
+1124,LG 260L Double Door Refrigerator 256GB,Home Appliances,Cooling,LG,28111.89,22755.34,3.56,2023-06-10
+1125,HP Laptop 15s Blue,Laptops,Budget Laptops,HP,38562.36,26397.78,2.87,2023-04-25
+1126,LG 260L Double Door Refrigerator XL,Home Appliances,Cooling,LG,44621.09,31598.94,4.18,2022-09-23
+1127,Puma Softride Rift Blue,Fashion,Men Footwear,Puma,4770.92,3359.52,3.44,2022-03-26
+1128,Prestige Pressure Cooker 5L,Home Appliances,Kitchen,Prestige,2674.52,1922.81,4.35,2024-04-21
+1129,LG 1.5 Ton 5 Star AI Dual Inverter Split AC Edition,Home Appliances,Cooling,LG,42340.3,34619.84,3.13,2023-04-12
+1130,Apple MacBook Air M1 XL,Laptops,Thin & Light,Apple,96459.24,62537.76,4.37,2022-05-27
+1131,boAt Stone 352 Speaker V2,Electronics,Audio,boAt,1576.54,1257.05,2.8,2022-12-03
+1132,Philips Induction Cooktop 128GB,Home Appliances,Kitchen,Philips,3635.19,3186.41,3.17,2023-08-08
+1133,Puma Casual Tee XL,Fashion,Women Apparel,Puma,750.52,599.02,2.99,2022-08-19
+1134,HP Victus 15 128GB,Laptops,Gaming Laptops,HP,79315.25,65833.89,2.77,2024-01-19
+1135,LG Direct Cool Refrigerator XL,Home Appliances,Cooling,LG,22063.27,14890.42,4.76,2022-10-07
+1136,Metal Bookshelf Black,Furniture,Office,LG,11889.97,9638.38,4.32,2024-02-11
+1137,boAt Car Charger Blue,Mobiles,Accessories,boAt,1817.59,1348.65,3.8,2023-03-19
+1138,Philips Induction Cooktop 256GB,Home Appliances,Kitchen,Philips,3203.49,2316.79,3.84,2023-11-07
+1139,Prestige Pressure Cooker 5L Black,Home Appliances,Kitchen,Prestige,1288.36,894.74,4.67,2023-04-19
+1140,Puma Women Sports Bra 128GB,Fashion,Women Apparel,Puma,913.89,803.59,3.03,2023-12-29
+1141,Puma Sports Jacket 256GB,Fashion,Apparel,Puma,2583.37,1940.34,4.87,2022-11-12
+1142,Tata Salt 1kg 128GB,Grocery,Staples,Prestige,99.91,83.26,4.73,2022-07-17
+1143,Fortune Sunflower Oil 5L Edition,Grocery,Staples,Prestige,761.45,547.58,3.65,2022-06-24
+1144,Puma Track Pants,Fashion,Apparel,Puma,1149.43,863.8,2.7,2023-01-05
+1145,Nivea Roll-On Deodorant Blue,Beauty,Skincare,Nivea,539.28,375.9,3.21,2023-07-29
+1146,Tata Salt 1kg 256GB,Grocery,Staples,Prestige,1018.85,873.28,2.62,2022-08-10
+1147,Metal Bookshelf Blue,Furniture,Office,LG,14582.77,12330.4,3.63,2022-11-29
+1148,HP 250 G8 Pro,Laptops,Budget Laptops,HP,35366.0,29972.77,3.42,2023-05-18
+1149,Apple iPhone 14 Silver,Mobiles,Smartphones,Apple,99668.46,85215.74,3.21,2022-07-21
+1150,Noise Pure Pods Blue,Electronics,Audio,Noise,2765.55,2005.27,3.18,2023-07-11
+1151,LG 260L Double Door Refrigerator Edition,Home Appliances,Cooling,LG,41119.53,26441.45,3.03,2023-03-13
+1152,Noise Pure Pods Blue,Electronics,Audio,Noise,1784.61,1560.67,3.38,2022-04-08
+1153,Apple MacBook Air M1 V2,Laptops,Thin & Light,Apple,145864.75,97119.24,2.66,2023-02-06
+1154,HP Omen 16 Black,Laptops,Gaming Laptops,HP,77226.75,65668.04,3.92,2023-11-10
+1155,boAt Car Charger Pro,Mobiles,Accessories,boAt,608.12,382.05,4.6,2022-09-28
+1156,Apple iPhone 14 Silver,Mobiles,Smartphones,Apple,96292.57,77712.58,3.54,2023-06-15
+1157,Philips Induction Cooktop Silver,Home Appliances,Kitchen,Philips,4990.11,3222.41,4.4,2024-04-18
+1158,Philips Hair Dryer XL,Beauty,Personal Care,Philips,973.98,703.67,4.73,2022-05-10
+1159,Nivea Soft Cream 300ml,Beauty,Skincare,Nivea,285.32,176.48,4.29,2022-09-08
+1160,Prestige Pressure Cooker 5L Pack of 2,Home Appliances,Kitchen,Prestige,3385.71,2534.86,4.09,2022-05-25
+1161,Apple MacBook Air M2 XL,Laptops,Thin & Light,Apple,165567.2,122127.69,4.48,2022-08-07
+1162,Puma Smash v2 Sneakers XL,Fashion,Men Footwear,Puma,5062.81,4069.28,4.2,2024-01-14
+1163,LG 1.5 Ton 5 Star AI Dual Inverter Split AC Pro,Home Appliances,Cooling,LG,46301.19,33245.53,4.51,2023-03-15
+1164,Noise Buds VS102 Silver,Electronics,Audio,Noise,1609.85,1119.31,4.05,2023-12-29
+1165,Fortune Sunflower Oil 5L Blue,Grocery,Staples,Prestige,452.74,298.08,2.63,2022-10-26
+1166,Philips Hair Straightener 128GB,Beauty,Personal Care,Philips,2881.52,2285.15,3.6,2022-12-05
+1167,Puma Softride Rift 256GB,Fashion,Men Footwear,Puma,3045.6,1918.91,3.33,2023-12-06
+1168,Puma Casual Tee Pack of 2,Fashion,Women Apparel,Puma,918.19,551.42,4.06,2022-10-26
+1169,Puma Softride Rift 256GB,Fashion,Men Footwear,Puma,2642.98,1700.59,4.96,2023-01-21
+1170,Philips Air Fryer HD9200 Silver,Home Appliances,Kitchen,Philips,4694.51,2930.15,4.0,2023-11-24
+1171,Wooden Study Table Blue,Furniture,Office,LG,14343.47,10982.71,2.79,2023-11-12
+1172,Puma Softride Rift,Fashion,Men Footwear,Puma,3297.12,2458.07,4.56,2023-11-30
+1173,HP 250 G8 Edition,Laptops,Budget Laptops,HP,33473.5,25295.02,4.83,2023-04-23
+1174,Metal Bookshelf 128GB,Furniture,Office,LG,14022.3,9513.71,3.23,2024-02-03
+1175,Noise Pure Pods 256GB,Electronics,Audio,Noise,1647.24,988.88,2.96,2022-05-30
+1176,Apple iPhone 15 Pro Pro,Mobiles,Smartphones,Apple,70122.26,50392.12,3.9,2022-11-12
+1177,Puma Sports Jacket V2,Fashion,Apparel,Puma,1318.54,912.54,2.68,2022-07-04
+1178,HP Omen 16 V2,Laptops,Gaming Laptops,HP,88183.51,73241.03,2.99,2023-10-16
+1179,Philips Hair Dryer Edition,Beauty,Personal Care,Philips,2777.87,2099.55,4.43,2022-05-29
+1180,HP Laptop 15s Pro,Laptops,Budget Laptops,HP,35748.61,22179.78,4.8,2022-06-07
+1181,Prestige Sandwich Maker 128GB,Home Appliances,Kitchen,Prestige,3639.55,2978.56,3.36,2023-05-18
+1182,Puma T-shirt Edition,Fashion,Apparel,Puma,2775.93,1804.26,4.4,2022-03-27
+1183,Nivea Soft Cream 300ml 256GB,Beauty,Skincare,Nivea,393.77,335.69,3.68,2023-12-30
+1184,boAt Nirvana Ion V2,Electronics,Audio,boAt,1670.78,1334.39,4.51,2023-01-22
+1185,Puma Smash v2 Sneakers XL,Fashion,Men Footwear,Puma,5187.12,3945.11,3.13,2023-06-14
+1186,Puma Running Shoes XL,Fashion,Men Footwear,Puma,2233.01,1860.9,4.47,2024-03-12
+1187,Apple MacBook Air M2 Pack of 2,Laptops,Thin & Light,Apple,175626.18,105940.04,3.06,2022-07-27
+1188,Apple MacBook Air M2 128GB,Laptops,Thin & Light,Apple,81653.1,70767.33,5.0,2023-07-21
+1189,Puma Softride Rift Edition,Fashion,Men Footwear,Puma,5385.89,4323.94,2.85,2022-04-14
+1190,Noise Pulse 2 Max Pro,Electronics,Wearables,Noise,2241.66,1965.82,4.25,2024-03-01
+1191,HP Chromebook 14 Pack of 2,Laptops,Budget Laptops,HP,37568.14,24013.9,4.6,2023-06-29
+1192,HP Omen 16 Pack of 2,Laptops,Gaming Laptops,HP,70917.05,62003.32,3.36,2023-04-15
+1193,Philips Induction Cooktop Edition,Home Appliances,Kitchen,Philips,7680.86,5211.9,3.31,2023-01-05
+1194,Prestige Pressure Cooker 5L Blue,Home Appliances,Kitchen,Prestige,1471.98,1140.5,2.55,2024-01-02
+1195,Apple MacBook Air M1 Blue,Laptops,Thin & Light,Apple,84848.75,70215.96,3.01,2024-02-07
+1196,Metal Bookshelf Black,Furniture,Office,LG,4357.76,3124.27,3.87,2024-03-13
+1197,Puma Sports Jacket XL,Fashion,Apparel,Puma,2785.23,2302.88,4.16,2022-08-15
+1198,Puma T-shirt Silver,Fashion,Apparel,Puma,2934.15,2503.61,3.57,2023-02-12
+1199,boAt Airdopes 141 XL,Electronics,Audio,boAt,1211.39,758.75,4.37,2023-03-30
+1200,Philips Hair Straightener Silver,Beauty,Personal Care,Philips,2190.69,1835.31,4.1,2022-09-30
+1201,HP Victus 15 256GB,Laptops,Gaming Laptops,HP,74263.81,59973.5,4.58,2022-04-13
+1202,Apple iPhone 14 128GB,Mobiles,Smartphones,Apple,54005.3,41599.97,3.24,2023-11-25
+1203,Philips Induction Cooktop V2,Home Appliances,Kitchen,Philips,3371.04,2066.32,3.63,2023-04-24
+1204,Apple iPhone 12 Blue,Mobiles,Smartphones,Apple,122881.84,81766.02,3.46,2022-12-14
+1205,Puma T-shirt Pro,Fashion,Apparel,Puma,1480.79,1122.19,2.77,2022-03-07
+1206,Puma Running Shoes Pack of 2,Fashion,Men Footwear,Puma,2044.94,1469.01,4.03,2022-09-18
+1207,Fortune Sunflower Oil 5L 256GB,Grocery,Staples,Prestige,144.94,120.17,4.31,2024-03-16
+1208,Apple iPhone 15 Pro 128GB,Mobiles,Smartphones,Apple,115536.04,69629.29,3.08,2024-01-20
+1209,Noise Pulse 2 Max 128GB,Electronics,Wearables,Noise,3547.28,2300.61,3.08,2022-10-29
+1210,Nivea Body Lotion 400ml Edition,Beauty,Skincare,Nivea,769.6,664.29,4.2,2023-10-17
+1211,Ergonomic Executive Office Chair Blue,Furniture,Office,LG,3864.77,2571.17,3.0,2024-01-09
+1212,Apple MacBook Pro M3 Black,Laptops,Thin & Light,Apple,157753.88,127127.16,3.42,2023-08-20
+1213,Apple iPhone 13 V2,Mobiles,Smartphones,Apple,56227.35,42696.68,3.92,2023-09-21
+1214,HP Victus 15,Laptops,Gaming Laptops,HP,84155.3,56092.09,3.46,2022-03-01
+1215,boAt Nirvana Ion Black,Electronics,Audio,boAt,3634.8,2317.9,4.94,2022-08-27
+1216,HP Pavilion Gaming XL,Laptops,Gaming Laptops,HP,82298.09,59001.69,4.22,2023-06-07
+1217,Philips Hair Straightener Blue,Beauty,Personal Care,Philips,2877.25,1984.16,3.88,2022-03-04
+1218,Apple MacBook Air M2 Silver,Laptops,Thin & Light,Apple,143821.79,102952.36,4.22,2022-04-15
+1219,Noise ColorFit Pulse Edition,Electronics,Audio,Noise,1611.72,1176.35,4.88,2024-01-16
+1220,HP Laptop 15s V2,Laptops,Budget Laptops,HP,37492.11,27113.53,4.84,2024-02-29
+1221,Aashirvaad Atta 10kg 256GB,Grocery,Staples,Prestige,979.8,665.53,4.91,2023-08-01
+1222,Puma Smash v2 Sneakers V2,Fashion,Men Footwear,Puma,5286.96,3814.16,4.18,2023-09-06
+1223,Metal Bookshelf XL,Furniture,Office,LG,11259.67,9700.7,5.0,2023-11-17
+1224,Noise ColorFit Pulse 128GB,Electronics,Audio,Noise,3160.05,1957.28,4.4,2022-12-03
+1225,Apple MacBook Pro M3 Pro,Laptops,Thin & Light,Apple,100562.21,68120.5,4.09,2024-02-05
+1226,HP Pavilion Gaming Blue,Laptops,Gaming Laptops,HP,55280.49,36726.84,3.69,2022-05-14
+1227,Puma Sports Jacket Pro,Fashion,Apparel,Puma,2155.48,1548.43,2.7,2024-01-07
+1228,Metal Bookshelf 256GB,Furniture,Office,LG,8753.11,7038.64,3.25,2022-09-09
+1229,Samsung Galaxy S23 FE Edition,Mobiles,Smartphones,Samsung,32064.71,20468.63,3.23,2023-01-01
+1230,Puma Women Leggings Edition,Fashion,Women Apparel,Puma,994.26,734.22,4.24,2022-03-14
+1231,Puma Women Sports Bra Edition,Fashion,Women Apparel,Puma,2323.31,1970.1,4.28,2023-11-20
+1232,boAt Airdopes 141 Blue,Electronics,Audio,boAt,2225.05,1505.81,4.14,2022-07-18
+1233,Puma T-shirt,Fashion,Apparel,Puma,3456.57,2140.77,3.25,2022-07-14
+1234,Apple MacBook Air M1 Silver,Laptops,Thin & Light,Apple,108776.14,83138.04,4.43,2024-04-04
+1235,Nivea Roll-On Deodorant Pack of 2,Beauty,Skincare,Nivea,553.98,465.01,2.98,2022-07-18
+1236,Tata Salt 1kg 128GB,Grocery,Staples,Prestige,529.36,327.51,4.71,2024-02-21
+1237,Apple iPhone 14 Pack of 2,Mobiles,Smartphones,Apple,94515.4,78586.17,3.03,2023-05-22
+1238,boAt Type-C Cable Silver,Mobiles,Accessories,boAt,916.17,768.76,4.05,2023-10-04
+1239,Philips Beard Trimmer Series 3000 Pro,Beauty,Personal Care,Philips,1812.2,1155.0,3.82,2022-10-10
+1240,Nivea Roll-On Deodorant Silver,Beauty,Skincare,Nivea,636.21,418.44,3.24,2022-04-27
+1241,Prestige Pressure Cooker 5L 256GB,Home Appliances,Kitchen,Prestige,1430.84,887.47,3.59,2023-11-26
+1242,Apple iPhone 13 256GB,Mobiles,Smartphones,Apple,120746.52,80507.79,3.8,2022-04-12
+1243,Puma Casual Tee Pack of 2,Fashion,Women Apparel,Puma,2783.2,2248.78,3.85,2022-12-27
+1244,Puma Running Shoes Edition,Fashion,Men Footwear,Puma,3810.15,3165.27,4.88,2022-12-28
+1245,Samsung Galaxy M14 5G 128GB,Mobiles,Smartphones,Samsung,40671.19,24660.96,4.82,2023-01-31
+1246,Prestige Pressure Cooker 5L 128GB,Home Appliances,Kitchen,Prestige,1880.46,1470.25,2.56,2022-05-09
+1247,Apple iPhone 13,Mobiles,Smartphones,Apple,90898.31,71416.01,4.86,2023-07-20
+1248,Puma Track Pants Silver,Fashion,Apparel,Puma,1795.23,1496.0,4.61,2022-05-11
+1249,Puma Running Shoes Black,Fashion,Men Footwear,Puma,2813.36,1809.65,2.61,2023-08-24
+1250,HP 250 G8 Blue,Laptops,Budget Laptops,HP,42939.79,30334.82,4.22,2024-01-26
+1251,Puma Smash v2 Sneakers XL,Fashion,Men Footwear,Puma,5415.24,4642.95,4.5,2022-04-22
+1252,Wooden Study Table Silver,Furniture,Office,LG,4619.51,2918.36,3.42,2022-03-22
+1253,Noise ColorFit Pulse Silver,Electronics,Audio,Noise,1517.66,1108.96,4.38,2022-05-16
+1254,HP Pavilion Gaming,Laptops,Gaming Laptops,HP,93864.59,57690.31,4.25,2023-12-12
+1255,Apple iPhone 13 Pack of 2,Mobiles,Smartphones,Apple,45338.1,28022.59,3.02,2023-08-07
+1256,Puma Softride Rift Black,Fashion,Men Footwear,Puma,3347.61,2122.04,3.67,2022-06-10
+1257,Nivea Roll-On Deodorant Pack of 2,Beauty,Skincare,Nivea,518.04,329.14,4.72,2022-02-23
+1258,Philips Induction Cooktop XL,Home Appliances,Kitchen,Philips,8683.79,5802.67,4.0,2022-10-30
+1259,Nivea Roll-On Deodorant,Beauty,Skincare,Nivea,420.62,262.76,3.6,2023-04-09
+1260,boAt Type-C Cable Black,Mobiles,Accessories,boAt,664.92,513.74,3.54,2023-12-28
+1261,Nivea Soft Cream 300ml Edition,Beauty,Skincare,Nivea,516.29,365.77,4.42,2022-09-05
+1262,Tata Salt 1kg 128GB,Grocery,Staples,Prestige,643.39,393.94,2.73,2023-10-20
+1263,Ergonomic Executive Office Chair Silver,Furniture,Office,LG,5431.26,4244.9,4.36,2022-02-16
+1264,boAt Rockerz 255 128GB,Electronics,Audio,boAt,2920.35,2428.32,4.98,2022-07-28
+1265,boAt Car Charger Black,Mobiles,Accessories,boAt,753.76,592.97,2.54,2024-03-29
+1266,Apple iPhone 14,Mobiles,Smartphones,Apple,60887.16,40798.51,3.46,2023-06-15
+1267,boAt Rockerz 255 Edition,Electronics,Audio,boAt,2049.76,1334.92,4.16,2022-12-02
+1268,Samsung Galaxy M34,Mobiles,Smartphones,Samsung,30703.2,23696.68,3.45,2024-01-08
+1269,Prestige Induction Cooktop V2,Home Appliances,Kitchen,Prestige,2326.75,1745.91,4.03,2024-02-01
+1270,Puma Running Shoes Silver,Fashion,Men Footwear,Puma,4276.25,2710.21,2.59,2023-08-10
+1271,Nivea Soft Cream 300ml Silver,Beauty,Skincare,Nivea,414.51,273.39,2.86,2023-06-16
+1272,Apple iPhone 14 Blue,Mobiles,Smartphones,Apple,126747.72,104769.95,4.2,2022-06-04
+1273,HP Pavilion Gaming Edition,Laptops,Gaming Laptops,HP,82929.26,65159.3,3.44,2022-12-21
+1274,Apple iPhone 12 Blue,Mobiles,Smartphones,Apple,118948.19,82859.03,4.12,2024-04-20
+1275,Nivea Soft Cream 300ml 256GB,Beauty,Skincare,Nivea,278.67,170.74,3.55,2023-10-03
+1276,Philips Induction Cooktop Edition,Home Appliances,Kitchen,Philips,5685.06,3832.58,3.35,2023-04-23
+1277,Samsung Galaxy M34 Black,Mobiles,Smartphones,Samsung,48882.84,31112.86,4.21,2022-10-09
+1278,Apple MacBook Air M1 Pro,Laptops,Thin & Light,Apple,110118.08,89133.74,4.45,2023-08-04
+1279,Noise Ultra 2 XL,Electronics,Wearables,Noise,4693.11,3911.43,3.51,2023-06-21
+1280,Philips Induction Cooktop Edition,Home Appliances,Kitchen,Philips,8871.08,5851.67,3.6,2022-03-27
+1281,LG 260L Double Door Refrigerator Blue,Home Appliances,Cooling,LG,25227.32,19544.29,3.67,2023-03-11
+1282,Samsung Galaxy M14 5G Blue,Mobiles,Smartphones,Samsung,41855.8,34441.16,4.08,2022-07-21
+1283,Puma Sports Jacket Blue,Fashion,Apparel,Puma,1043.73,897.88,2.93,2023-02-01
+1284,Apple MacBook Air M2 256GB,Laptops,Thin & Light,Apple,102271.11,77102.95,4.4,2022-06-15
+1285,Fortune Sunflower Oil 5L,Grocery,Staples,Prestige,571.66,470.04,4.94,2022-04-19
+1286,HP Chromebook 14 Black,Laptops,Budget Laptops,HP,41910.79,26497.37,2.52,2023-01-03
+1287,HP Omen 16 Black,Laptops,Gaming Laptops,HP,87310.61,66828.89,3.77,2022-10-22
+1288,Aashirvaad Atta 10kg 128GB,Grocery,Staples,Prestige,1110.07,882.33,4.96,2022-11-11
+1289,HP Omen 16 Silver,Laptops,Gaming Laptops,HP,84561.66,63593.98,3.52,2022-08-11
+1290,Aashirvaad Atta 10kg Black,Grocery,Staples,Prestige,485.49,389.16,4.4,2023-02-15
+1291,LG 260L Double Door Refrigerator,Home Appliances,Cooling,LG,45103.84,39094.15,4.32,2023-09-20
+1292,boAt Car Charger XL,Mobiles,Accessories,boAt,848.45,515.33,4.93,2022-12-17
+1293,Aashirvaad Atta 10kg Black,Grocery,Staples,Prestige,1046.89,664.37,3.44,2023-11-15
+1294,HP Chromebook 14 Blue,Laptops,Budget Laptops,HP,31639.3,27477.17,2.72,2023-09-11
+1295,Noise Ultra 2 XL,Electronics,Wearables,Noise,4110.18,2954.81,4.65,2022-09-12
+1296,boAt Airdopes 141 Blue,Electronics,Audio,boAt,1446.41,1251.87,4.1,2022-09-04
+1297,Fortune Sunflower Oil 5L 256GB,Grocery,Staples,Prestige,1036.51,884.01,4.54,2023-08-09
+1298,Puma Casual Tee Edition,Fashion,Women Apparel,Puma,2653.12,2114.01,3.17,2024-01-19
+1299,Puma Softride Rift Pro,Fashion,Men Footwear,Puma,3414.72,2709.83,2.81,2023-05-08
+1300,boAt Rockerz 255,Electronics,Audio,boAt,1951.79,1623.53,4.5,2022-04-11
+1301,Puma Running Shoes Silver,Fashion,Men Footwear,Puma,4881.31,2931.89,4.94,2023-07-21
+1302,HP Victus 15,Laptops,Gaming Laptops,HP,52798.3,34103.29,4.32,2023-03-04
+1303,Samsung Galaxy M34,Mobiles,Smartphones,Samsung,15195.95,11331.88,3.82,2023-09-15
+1304,Fortune Sunflower Oil 5L Edition,Grocery,Staples,Prestige,940.86,738.08,3.43,2022-12-14
+1305,Puma Casual Tee 128GB,Fashion,Women Apparel,Puma,2759.94,2199.83,2.77,2023-07-19
+1306,HP Omen 16 Black,Laptops,Gaming Laptops,HP,55531.46,45509.34,2.72,2022-07-14
+1307,Puma Softride Rift Silver,Fashion,Men Footwear,Puma,2847.02,1997.66,4.2,2023-05-14
+1308,boAt Type-C Cable Silver,Mobiles,Accessories,boAt,1123.17,716.72,2.61,2022-06-12
+1309,Puma Track Pants 256GB,Fashion,Apparel,Puma,1320.81,1046.5,4.14,2023-02-25
+1310,HP 250 G8 Pro,Laptops,Budget Laptops,HP,35413.03,24582.77,4.36,2022-11-30
+1311,Philips 750W Mixer Grinder 256GB,Home Appliances,Kitchen,Philips,5198.45,4488.9,4.45,2023-09-08
+1312,LG Direct Cool Refrigerator Pro,Home Appliances,Cooling,LG,45576.24,38001.04,4.93,2023-06-21
+1313,Puma T-shirt 256GB,Fashion,Apparel,Puma,1131.03,962.0,3.2,2023-01-24
+1314,Philips Hair Dryer Edition,Beauty,Personal Care,Philips,2752.88,1972.97,3.41,2022-04-07
+1315,Puma Track Pants V2,Fashion,Apparel,Puma,1184.81,774.05,4.03,2022-10-14
+1316,Aashirvaad Atta 10kg 128GB,Grocery,Staples,Prestige,343.7,211.99,2.51,2023-05-01
+1317,Philips Hair Straightener Edition,Beauty,Personal Care,Philips,2594.28,1862.6,3.77,2022-08-19
+1318,Noise Pure Pods Black,Electronics,Audio,Noise,2903.92,2065.96,4.34,2022-12-14
+1319,Apple MacBook Air M1 Pack of 2,Laptops,Thin & Light,Apple,143495.9,120966.25,3.12,2022-11-29
+1320,Apple iPhone 14 XL,Mobiles,Smartphones,Apple,44898.72,29069.2,4.96,2023-02-22
+1321,Ergonomic Executive Office Chair Edition,Furniture,Office,LG,10565.62,7713.12,4.18,2024-04-09
+1322,LG 260L Double Door Refrigerator Pro,Home Appliances,Cooling,LG,21785.34,17699.19,4.19,2023-07-13
+1323,Metal Bookshelf,Furniture,Office,LG,7044.95,5061.88,3.33,2022-05-10
+1324,HP Pavilion Gaming 128GB,Laptops,Gaming Laptops,HP,70919.44,52733.32,3.97,2022-07-17
+1325,HP Chromebook 14 Edition,Laptops,Budget Laptops,HP,33748.2,20388.33,2.52,2023-09-24
+1326,boAt Car Charger Black,Mobiles,Accessories,boAt,1936.13,1598.85,3.13,2022-08-17
+1327,LG Direct Cool Refrigerator Black,Home Appliances,Cooling,LG,26530.9,20432.16,3.16,2022-11-16
+1328,boAt Airdopes 141 V2,Electronics,Audio,boAt,2127.08,1488.69,3.62,2023-03-20
+1329,Noise Pure Pods XL,Electronics,Audio,Noise,2430.96,1781.27,3.87,2023-05-31
+1330,Samsung Galaxy M34 V2,Mobiles,Smartphones,Samsung,14735.58,11590.76,4.8,2023-02-05
+1331,Noise Buds VS102,Electronics,Audio,Noise,2122.62,1594.96,4.36,2022-02-15
+1332,Samsung Galaxy S23 FE Edition,Mobiles,Smartphones,Samsung,29617.39,19087.78,4.27,2022-10-14
+1333,Noise Pulse 2 Max,Electronics,Wearables,Noise,2421.09,1644.69,4.39,2022-07-25
+1334,Noise ColorFit Pro 4 XL,Electronics,Wearables,Noise,1811.5,1362.04,3.67,2022-08-17
+1335,HP Chromebook 14 Edition,Laptops,Budget Laptops,HP,33011.51,25847.52,3.04,2023-02-22
+1336,Prestige Induction Cooktop V2,Home Appliances,Kitchen,Prestige,4092.74,2550.48,4.46,2023-06-02
+1337,Nivea Soft Cream 300ml Silver,Beauty,Skincare,Nivea,618.42,439.74,3.57,2024-03-21
+1338,Noise Pulse 2 Max Pack of 2,Electronics,Wearables,Noise,2238.46,1486.47,4.45,2023-08-09
+1339,LG 1.5 Ton 5 Star AI Dual Inverter Split AC Black,Home Appliances,Cooling,LG,21281.34,15706.4,2.84,2024-03-25
+1340,Puma Smash v2 Sneakers Blue,Fashion,Men Footwear,Puma,4036.45,3379.05,3.34,2022-02-20
+1341,HP 250 G8 Silver,Laptops,Budget Laptops,HP,36074.93,24611.65,4.46,2024-03-19
+1342,Prestige Sandwich Maker 256GB,Home Appliances,Kitchen,Prestige,2246.14,1910.71,4.74,2022-04-15
+1343,Noise ColorFit Pro 4 XL,Electronics,Wearables,Noise,1805.81,1144.45,4.23,2023-05-31
+1344,Puma Women Leggings XL,Fashion,Women Apparel,Puma,765.13,586.18,4.94,2023-10-14
+1345,Apple MacBook Air M1 XL,Laptops,Thin & Light,Apple,100402.53,78694.97,3.19,2024-02-15
+1346,boAt Nirvana Ion XL,Electronics,Audio,boAt,3515.07,2982.56,4.89,2022-05-24
+1347,Noise Ultra 2 256GB,Electronics,Wearables,Noise,1641.29,1143.89,3.63,2023-07-27
+1348,Puma Softride Rift Black,Fashion,Men Footwear,Puma,3802.67,3288.56,2.99,2022-07-16
+1349,Philips Hair Straightener 256GB,Beauty,Personal Care,Philips,1367.29,1073.83,3.84,2022-10-05
+1350,boAt Rockerz 255 Black,Electronics,Audio,boAt,1796.88,1344.9,3.92,2022-08-12
+1351,Noise Buds VS102 Black,Electronics,Audio,Noise,1256.09,780.63,2.53,2022-04-19
+1352,Ergonomic Executive Office Chair Black,Furniture,Office,LG,10981.21,8661.02,3.9,2023-01-23
+1353,Philips Hair Straightener XL,Beauty,Personal Care,Philips,2813.37,1847.59,4.82,2022-04-20
+1354,Puma Running Shoes V2,Fashion,Men Footwear,Puma,2097.47,1579.57,2.89,2022-12-03
+1355,Philips 750W Mixer Grinder Pack of 2,Home Appliances,Kitchen,Philips,7004.87,5675.72,4.29,2024-03-11
+1356,Samsung Galaxy M34 Black,Mobiles,Smartphones,Samsung,19747.45,14648.78,3.75,2023-08-03
+1357,HP Chromebook 14 V2,Laptops,Budget Laptops,HP,30982.51,26654.79,3.31,2022-12-02
+1358,Wooden Study Table,Furniture,Office,LG,5886.45,4440.95,3.73,2022-03-10
+1359,boAt Stone 352 Speaker,Electronics,Audio,boAt,2874.86,2298.81,3.83,2024-04-20
+1360,Philips Hair Dryer,Beauty,Personal Care,Philips,2586.67,2152.13,4.95,2023-05-13
+1361,Noise ColorFit Pro 4 Pack of 2,Electronics,Wearables,Noise,4756.92,3884.07,2.56,2024-02-10
+1362,Nivea Soft Cream 300ml Pack of 2,Beauty,Skincare,Nivea,288.96,180.88,4.86,2023-04-06
+1363,Philips Air Fryer HD9200,Home Appliances,Kitchen,Philips,3136.2,2422.0,4.64,2023-09-20
+1364,Samsung Galaxy M34 V2,Mobiles,Smartphones,Samsung,23422.89,19877.55,3.48,2022-07-19
+1365,HP Omen 16 Black,Laptops,Gaming Laptops,HP,75380.11,58157.0,3.27,2022-03-04
+1366,Samsung Galaxy A54 V2,Mobiles,Smartphones,Samsung,40406.93,33317.19,3.13,2022-11-07
+1367,Aashirvaad Atta 10kg Pack of 2,Grocery,Staples,Prestige,1115.97,728.28,2.8,2023-07-25
+1368,Prestige Pressure Cooker 5L,Home Appliances,Kitchen,Prestige,2174.86,1494.58,3.97,2023-03-25
+1369,Puma T-shirt 128GB,Fashion,Apparel,Puma,1514.51,991.59,4.59,2022-09-09
+1370,HP Victus 15 Edition,Laptops,Gaming Laptops,HP,62115.24,37333.29,4.19,2022-02-21
+1371,Nivea Body Lotion 400ml XL,Beauty,Skincare,Nivea,316.58,219.65,4.16,2022-11-08
+1372,Metal Bookshelf Black,Furniture,Office,LG,5456.54,3502.55,2.58,2023-05-02
+1373,Samsung Galaxy M34,Mobiles,Smartphones,Samsung,21018.4,17837.37,3.31,2023-10-15
+1374,HP Laptop 15s 256GB,Laptops,Budget Laptops,HP,39316.48,27264.93,3.63,2023-01-30
+1375,Noise ColorFit Pro 4 Pro,Electronics,Wearables,Noise,3435.74,2243.88,4.88,2023-04-21
+1376,Puma Women Leggings,Fashion,Women Apparel,Puma,901.13,649.72,4.66,2023-02-19
+1377,HP Laptop 15s,Laptops,Budget Laptops,HP,24652.74,21180.29,3.52,2022-09-03
+1378,Philips Hair Straightener XL,Beauty,Personal Care,Philips,1742.34,1254.91,3.01,2023-07-18
+1379,HP Victus 15 Pack of 2,Laptops,Gaming Laptops,HP,78359.54,48462.01,2.58,2023-02-26
+1380,Samsung Galaxy S23 FE 128GB,Mobiles,Smartphones,Samsung,42520.46,27822.47,2.77,2022-04-28
+1381,HP Laptop 15s 128GB,Laptops,Budget Laptops,HP,41371.29,35867.54,2.88,2022-06-24
+1382,HP 250 G8 XL,Laptops,Budget Laptops,HP,42827.29,33136.64,4.14,2023-04-16
+1383,boAt Stone 352 Speaker 128GB,Electronics,Audio,boAt,1971.98,1667.27,3.68,2023-12-30
+1384,Philips Beard Trimmer Series 3000 XL,Beauty,Personal Care,Philips,2175.55,1567.45,4.15,2022-04-08
+1385,Samsung Galaxy M14 5G XL,Mobiles,Smartphones,Samsung,22894.15,18303.25,2.52,2024-01-14
+1386,Puma Women Sports Bra V2,Fashion,Women Apparel,Puma,932.68,574.21,4.32,2022-09-10
+1387,Fortune Sunflower Oil 5L Black,Grocery,Staples,Prestige,859.88,722.68,4.86,2022-08-24
+1388,LG Direct Cool Refrigerator Pack of 2,Home Appliances,Cooling,LG,44645.42,36958.84,4.21,2022-11-07
+1389,Philips Hair Straightener V2,Beauty,Personal Care,Philips,2657.25,1780.63,4.43,2023-01-07
+1390,LG 1.5 Ton 5 Star AI Dual Inverter Split AC XL,Home Appliances,Cooling,LG,32277.62,26829.17,2.89,2023-04-21
+1391,Philips Air Fryer HD9200 XL,Home Appliances,Kitchen,Philips,4780.43,2888.43,3.78,2023-06-27
+1392,Wooden Study Table,Furniture,Office,LG,14134.24,9003.64,2.8,2024-03-24
+1393,HP Laptop 15s,Laptops,Budget Laptops,HP,36343.46,21851.89,3.23,2022-10-01
+1394,Prestige Induction Cooktop Silver,Home Appliances,Kitchen,Prestige,2331.14,1740.44,3.02,2024-03-23
+1395,Philips Hair Dryer Pack of 2,Beauty,Personal Care,Philips,2489.72,2019.71,2.96,2024-01-28
+1396,Philips 750W Mixer Grinder Pack of 2,Home Appliances,Kitchen,Philips,4528.45,3853.08,4.16,2022-06-03
+1397,LG 1.5 Ton 5 Star AI Dual Inverter Split AC 256GB,Home Appliances,Cooling,LG,18699.32,13656.71,3.25,2022-05-25
+1398,Puma Sports Jacket Blue,Fashion,Apparel,Puma,2940.48,2429.95,4.38,2023-03-13
+1399,Nivea Body Lotion 400ml V2,Beauty,Skincare,Nivea,626.11,400.97,3.41,2022-02-24
+1400,HP Pavilion Gaming Pack of 2,Laptops,Gaming Laptops,HP,92951.15,79001.73,3.31,2024-01-14
+1401,Noise Buds VS102 Silver,Electronics,Audio,Noise,3069.45,2253.63,4.34,2022-05-16
+1402,HP Omen 16 Blue,Laptops,Gaming Laptops,HP,66573.21,46786.75,3.54,2023-06-24
+1403,Noise ColorFit Pulse 256GB,Electronics,Audio,Noise,2570.65,1846.33,4.23,2023-05-06
+1404,Apple MacBook Pro M3 Silver,Laptops,Thin & Light,Apple,172878.97,108550.88,2.82,2022-04-14
+1405,Prestige Induction Cooktop,Home Appliances,Kitchen,Prestige,2466.18,1841.74,3.47,2023-09-07
+1406,HP 250 G8 Pro,Laptops,Budget Laptops,HP,34181.12,29523.95,2.52,2022-06-24
+1407,LG Direct Cool Refrigerator,Home Appliances,Cooling,LG,43168.92,32299.21,3.49,2023-07-09
+1408,Philips Air Fryer HD9200 V2,Home Appliances,Kitchen,Philips,4470.06,3646.58,2.8,2022-08-15
+1409,Noise Ultra 2 Blue,Electronics,Wearables,Noise,4364.77,3486.43,3.01,2023-03-12
+1410,HP Laptop 15s V2,Laptops,Budget Laptops,HP,25912.99,18254.54,4.51,2023-05-18
+1411,Apple MacBook Air M1 Blue,Laptops,Thin & Light,Apple,114539.75,71915.85,3.0,2023-10-30
+1412,Philips Induction Cooktop Blue,Home Appliances,Kitchen,Philips,4726.92,3184.46,2.58,2023-10-28
+1413,Puma T-shirt,Fashion,Apparel,Puma,3338.33,2809.16,3.42,2022-12-12
+1414,Nivea Soft Cream 300ml XL,Beauty,Skincare,Nivea,605.84,504.65,3.52,2023-01-09
+1415,HP 250 G8 XL,Laptops,Budget Laptops,HP,36353.29,28881.26,4.63,2023-01-03
+1416,Apple MacBook Air M1 Pro,Laptops,Thin & Light,Apple,158592.95,105534.41,3.62,2023-02-19
+1417,Philips Hair Dryer Edition,Beauty,Personal Care,Philips,1306.26,815.13,2.84,2023-05-11
+1418,Puma Smash v2 Sneakers V2,Fashion,Men Footwear,Puma,4295.24,2588.38,4.39,2023-04-19
+1419,Puma Smash v2 Sneakers Edition,Fashion,Men Footwear,Puma,3847.52,3310.62,4.55,2022-06-17
+1420,Noise Buds VS102 128GB,Electronics,Audio,Noise,1349.54,884.38,4.76,2022-09-07
+1421,Aashirvaad Atta 10kg Edition,Grocery,Staples,Prestige,343.43,268.5,2.69,2022-07-04
+1422,Noise ColorFit Pulse 128GB,Electronics,Audio,Noise,1818.34,1326.24,4.05,2023-10-12
+1423,Fortune Sunflower Oil 5L Silver,Grocery,Staples,Prestige,183.64,128.38,4.91,2023-03-20
+1424,HP Pavilion Gaming V2,Laptops,Gaming Laptops,HP,63487.87,49971.25,3.54,2022-12-16
+1425,LG Direct Cool Refrigerator Pack of 2,Home Appliances,Cooling,LG,38118.15,27045.06,4.12,2024-01-02
+1426,Philips Air Fryer HD9200 XL,Home Appliances,Kitchen,Philips,2854.6,2239.42,4.14,2023-12-17
+1427,boAt Power Bank 10000mAh Blue,Mobiles,Accessories,boAt,1223.85,1045.61,4.78,2023-06-22
+1428,Puma Running Shoes 256GB,Fashion,Men Footwear,Puma,1939.56,1518.52,4.66,2022-02-21
+1429,Noise Pulse 2 Max Black,Electronics,Wearables,Noise,1720.96,1065.6,4.88,2022-04-20
+1430,Puma Sports Jacket Black,Fashion,Apparel,Puma,1397.61,1203.05,4.4,2022-12-05
+1431,boAt Type-C Cable Pro,Mobiles,Accessories,boAt,949.29,749.8,3.08,2022-09-24
+1432,Prestige Induction Cooktop Blue,Home Appliances,Kitchen,Prestige,1342.16,827.88,2.54,2022-05-02
+1433,Philips Air Fryer HD9200,Home Appliances,Kitchen,Philips,5322.5,4378.95,3.86,2023-10-01
+1434,Nivea Soft Cream 300ml Pro,Beauty,Skincare,Nivea,758.95,502.41,4.48,2023-06-28
+1435,Apple MacBook Pro M3 V2,Laptops,Thin & Light,Apple,155364.8,102101.22,3.16,2023-03-05
+1436,Tata Salt 1kg 256GB,Grocery,Staples,Prestige,415.76,312.31,3.86,2023-12-20
+1437,Puma Sports Jacket XL,Fashion,Apparel,Puma,889.31,605.94,3.83,2022-06-12
+1438,Prestige Sandwich Maker Edition,Home Appliances,Kitchen,Prestige,1797.41,1481.95,4.36,2022-12-24
+1439,Metal Bookshelf Black,Furniture,Office,LG,8502.05,5178.82,4.8,2023-11-22
+1440,Aashirvaad Atta 10kg Edition,Grocery,Staples,Prestige,357.51,311.17,4.32,2024-02-11
+1441,Apple MacBook Air M1 V2,Laptops,Thin & Light,Apple,119515.93,92815.66,2.99,2022-03-28
+1442,Nivea Roll-On Deodorant,Beauty,Skincare,Nivea,547.89,481.16,2.59,2023-09-24
+1443,Samsung Galaxy M34 Edition,Mobiles,Smartphones,Samsung,39621.43,29352.82,4.63,2022-06-25
+1444,boAt Rockerz 255 128GB,Electronics,Audio,boAt,1761.67,1390.91,3.81,2022-11-21
+1445,Noise ColorFit Pulse,Electronics,Audio,Noise,1339.23,862.75,4.35,2022-05-08
+1446,Philips Air Fryer HD9200 Silver,Home Appliances,Kitchen,Philips,9412.43,7733.22,2.99,2022-10-31
+1447,Prestige Pressure Cooker 5L Black,Home Appliances,Kitchen,Prestige,1595.48,1297.45,2.64,2023-10-03
+1448,HP Laptop 15s Edition,Laptops,Budget Laptops,HP,35381.82,27789.2,3.05,2023-05-20
+1449,Philips Beard Trimmer Series 3000 Silver,Beauty,Personal Care,Philips,1798.6,1412.88,4.58,2022-12-11
+1450,Noise Pulse 2 Max 128GB,Electronics,Wearables,Noise,2010.76,1358.66,2.91,2023-12-27
+1451,Nivea Body Lotion 400ml V2,Beauty,Skincare,Nivea,397.42,312.45,4.29,2023-05-30
+1452,HP Victus 15 Pack of 2,Laptops,Gaming Laptops,HP,71498.52,58681.52,4.85,2022-02-14
+1453,Samsung Galaxy A54,Mobiles,Smartphones,Samsung,35984.99,28925.45,4.71,2022-02-13
+1454,Puma T-shirt Black,Fashion,Apparel,Puma,2482.25,2141.68,3.01,2022-05-09
+1455,Philips Beard Trimmer Series 3000 Pro,Beauty,Personal Care,Philips,1924.18,1322.52,4.5,2023-03-14
+1456,HP Pavilion Gaming Blue,Laptops,Gaming Laptops,HP,63693.01,48222.67,4.81,2023-04-05
+1457,Apple iPhone 12 XL,Mobiles,Smartphones,Apple,60301.61,52091.2,2.91,2022-04-16
+1458,Prestige Induction Cooktop Black,Home Appliances,Kitchen,Prestige,3481.03,2298.65,3.12,2022-05-03
+1459,Puma Softride Rift V2,Fashion,Men Footwear,Puma,3227.95,2187.39,2.82,2023-05-01
+1460,Prestige Pressure Cooker 5L V2,Home Appliances,Kitchen,Prestige,2215.95,1759.76,3.85,2023-08-09
+1461,HP 250 G8 Pro,Laptops,Budget Laptops,HP,33088.65,20101.92,3.31,2023-02-15
+1462,Metal Bookshelf Silver,Furniture,Office,LG,8081.65,6046.27,3.3,2022-12-22
+1463,Apple iPhone 12 XL,Mobiles,Smartphones,Apple,77244.61,60045.89,3.21,2023-04-25
+1464,Ergonomic Executive Office Chair,Furniture,Office,LG,11752.88,10182.23,3.59,2022-05-10
+1465,Puma Smash v2 Sneakers Black,Fashion,Men Footwear,Puma,2247.01,1671.46,3.93,2022-04-24
+1466,Fortune Sunflower Oil 5L Silver,Grocery,Staples,Prestige,536.2,378.34,3.71,2024-01-03
+1467,Tata Salt 1kg Blue,Grocery,Staples,Prestige,74.8,61.11,4.3,2022-04-20
+1468,Metal Bookshelf Edition,Furniture,Office,LG,3913.73,3152.41,2.88,2023-06-23
+1469,Noise Pulse 2 Max 256GB,Electronics,Wearables,Noise,3359.54,2943.17,4.35,2022-07-07
+1470,Noise Pure Pods Pro,Electronics,Audio,Noise,1649.73,1125.94,3.21,2023-11-29
+1471,Puma Smash v2 Sneakers Black,Fashion,Men Footwear,Puma,3182.48,2219.13,3.78,2022-09-28
+1472,Puma Softride Rift V2,Fashion,Men Footwear,Puma,3429.31,2498.87,3.46,2023-01-07
+1473,boAt Rockerz 255 128GB,Electronics,Audio,boAt,1456.73,971.59,4.33,2023-10-20
+1474,HP Pavilion Gaming Black,Laptops,Gaming Laptops,HP,74873.86,48994.84,2.61,2022-07-30
+1475,Apple iPhone 15 Pro Pro,Mobiles,Smartphones,Apple,57952.35,35322.51,4.65,2022-05-17
+1476,HP Victus 15 256GB,Laptops,Gaming Laptops,HP,52371.93,41847.96,3.23,2023-01-06
+1477,Philips Hair Straightener XL,Beauty,Personal Care,Philips,1834.8,1583.18,3.01,2022-03-21
+1478,Puma Women Sports Bra V2,Fashion,Women Apparel,Puma,730.4,487.98,4.6,2023-09-15
+1479,boAt Power Bank 10000mAh XL,Mobiles,Accessories,boAt,948.68,723.02,3.75,2022-10-01
+1480,Wooden Study Table Black,Furniture,Office,LG,4188.58,3668.21,3.63,2022-03-03
+1481,LG 260L Double Door Refrigerator Edition,Home Appliances,Cooling,LG,22590.89,16397.58,4.69,2023-02-10
+1482,Noise Pure Pods Blue,Electronics,Audio,Noise,3329.89,2515.91,4.27,2022-11-07
+1483,Philips Air Fryer HD9200 256GB,Home Appliances,Kitchen,Philips,3832.7,2751.54,3.08,2022-09-26
+1484,HP Pavilion Gaming Black,Laptops,Gaming Laptops,HP,86983.02,64107.09,4.74,2022-05-07
+1485,Samsung Galaxy M34 Silver,Mobiles,Smartphones,Samsung,31524.8,24384.68,2.74,2023-06-15
+1486,Puma T-shirt Edition,Fashion,Apparel,Puma,828.48,608.28,3.94,2024-01-13
+1487,Puma Women Leggings XL,Fashion,Women Apparel,Puma,2520.21,1695.35,2.92,2022-08-23
+1488,HP Omen 16,Laptops,Gaming Laptops,HP,62639.65,41196.76,2.88,2024-04-05
+1489,Aashirvaad Atta 10kg Edition,Grocery,Staples,Prestige,877.0,689.14,3.18,2023-05-23
+1490,Nivea Soft Cream 300ml Black,Beauty,Skincare,Nivea,516.42,365.09,4.36,2023-09-19
+1491,Noise ColorFit Pulse Black,Electronics,Audio,Noise,2236.47,1755.58,3.01,2023-10-09
+1492,Philips Hair Straightener Black,Beauty,Personal Care,Philips,2438.62,2034.24,2.84,2022-12-10
+1493,Nivea Body Lotion 400ml Pro,Beauty,Skincare,Nivea,625.05,496.31,3.75,2022-10-13
+1494,LG 260L Double Door Refrigerator Pack of 2,Home Appliances,Cooling,LG,18167.06,13666.41,2.53,2022-03-19
+1495,HP Victus 15 Edition,Laptops,Gaming Laptops,HP,92165.84,55530.9,4.4,2023-11-26
+1496,Philips Hair Straightener Pro,Beauty,Personal Care,Philips,1656.55,1158.06,4.8,2022-09-24
+1497,Ergonomic Executive Office Chair Silver,Furniture,Office,LG,9582.92,6829.63,4.34,2022-09-21
+1498,Prestige Sandwich Maker Silver,Home Appliances,Kitchen,Prestige,2948.83,2391.6,4.65,2024-01-15
+1499,Samsung Galaxy M14 5G Pack of 2,Mobiles,Smartphones,Samsung,29009.65,19366.12,2.93,2022-10-10
+1500,Noise Pure Pods Pack of 2,Electronics,Audio,Noise,3078.22,2343.0,4.28,2024-04-08
+1501,HP Chromebook 14 128GB,Laptops,Budget Laptops,HP,31743.02,20277.19,3.76,2022-12-19
+1502,Noise Pure Pods Silver,Electronics,Audio,Noise,1302.32,863.86,3.88,2023-02-11
+1503,Samsung Galaxy A54 Pack of 2,Mobiles,Smartphones,Samsung,49950.6,36265.48,4.09,2023-09-17
+1504,boAt Nirvana Ion 128GB,Electronics,Audio,boAt,1103.31,752.74,4.79,2023-03-27
+1505,Samsung Galaxy A54 Blue,Mobiles,Smartphones,Samsung,43480.18,35849.13,2.81,2022-06-02
+1506,Puma Smash v2 Sneakers Pro,Fashion,Men Footwear,Puma,4761.53,4139.42,3.01,2023-04-18
+1507,Philips Beard Trimmer Series 3000 256GB,Beauty,Personal Care,Philips,1058.2,786.3,2.97,2023-02-04
+1508,boAt Rockerz 255 Blue,Electronics,Audio,boAt,2634.42,1797.14,4.52,2023-07-17
+1509,Samsung Galaxy A54 Black,Mobiles,Smartphones,Samsung,39314.87,29928.54,4.83,2022-12-03
+1510,Philips Air Fryer HD9200 Silver,Home Appliances,Kitchen,Philips,5438.97,3343.88,4.57,2024-03-10
+1511,LG Direct Cool Refrigerator 256GB,Home Appliances,Cooling,LG,26635.3,19092.78,4.09,2023-04-13
+1512,Metal Bookshelf 128GB,Furniture,Office,LG,10568.45,7958.99,3.81,2022-08-30
+1513,Noise ColorFit Pulse 128GB,Electronics,Audio,Noise,2099.25,1591.86,3.11,2023-06-23
+1514,Nivea Soft Cream 300ml 256GB,Beauty,Skincare,Nivea,411.96,325.37,4.47,2022-10-30
+1515,Noise Pulse 2 Max Blue,Electronics,Wearables,Noise,2940.55,2577.52,4.35,2022-08-16
+1516,HP Pavilion Gaming Black,Laptops,Gaming Laptops,HP,71517.42,46100.1,2.92,2023-06-15
+1517,boAt Nirvana Ion XL,Electronics,Audio,boAt,3093.55,2569.22,2.98,2023-04-26
+1518,Wooden Study Table 256GB,Furniture,Office,LG,13829.56,9263.78,3.32,2024-03-03
+1519,Noise Pulse 2 Max Pro,Electronics,Wearables,Noise,2297.98,1425.91,3.07,2022-12-05
+1520,Philips Beard Trimmer Series 3000 Pro,Beauty,Personal Care,Philips,2002.68,1205.54,3.08,2023-05-04
+1521,Puma Women Sports Bra,Fashion,Women Apparel,Puma,2652.67,1844.73,3.44,2022-09-07
+1522,boAt Type-C Cable 256GB,Mobiles,Accessories,boAt,1156.68,840.87,4.75,2022-09-11
+1523,Nivea Soft Cream 300ml Pack of 2,Beauty,Skincare,Nivea,398.9,290.39,3.41,2023-05-01
+1524,Puma Softride Rift Silver,Fashion,Men Footwear,Puma,4935.26,4091.15,4.91,2023-03-25
+1525,Nivea Roll-On Deodorant,Beauty,Skincare,Nivea,368.87,281.04,3.13,2023-08-16
+1526,Apple iPhone 12 256GB,Mobiles,Smartphones,Apple,111921.52,76864.39,4.95,2024-03-20
+1527,Philips Air Fryer HD9200,Home Appliances,Kitchen,Philips,6369.71,5262.03,4.58,2024-01-26
+1528,Philips Hair Dryer,Beauty,Personal Care,Philips,1302.21,989.73,3.81,2022-07-24
+1529,Apple iPhone 15 Pro Silver,Mobiles,Smartphones,Apple,90803.24,62329.04,4.32,2022-03-15
+1530,Noise ColorFit Pulse Black,Electronics,Audio,Noise,2958.0,2532.59,4.44,2022-03-22
+1531,Apple MacBook Air M2 XL,Laptops,Thin & Light,Apple,90650.62,69613.45,2.65,2022-09-23
+1532,HP Victus 15 256GB,Laptops,Gaming Laptops,HP,52783.97,40536.51,3.17,2023-03-16
+1533,Puma Sports Jacket Silver,Fashion,Apparel,Puma,2523.95,1989.08,3.74,2024-01-30
+1534,Wooden Study Table Black,Furniture,Office,LG,8395.14,5208.9,2.81,2022-02-28
+1535,Puma Smash v2 Sneakers Black,Fashion,Men Footwear,Puma,4110.59,3481.68,4.77,2022-03-03
+1536,LG Direct Cool Refrigerator 128GB,Home Appliances,Cooling,LG,26543.86,21188.74,4.56,2023-07-20
+1537,Puma Running Shoes V2,Fashion,Men Footwear,Puma,5378.14,3579.84,2.8,2022-05-09
+1538,Philips Hair Straightener Edition,Beauty,Personal Care,Philips,1905.21,1287.17,3.11,2023-06-13
+1539,Philips Beard Trimmer Series 3000 Silver,Beauty,Personal Care,Philips,1510.58,1122.9,3.36,2022-11-02
+1540,Apple iPhone 13 Pro,Mobiles,Smartphones,Apple,113226.73,89796.89,2.89,2023-12-10
+1541,Samsung Galaxy A54 V2,Mobiles,Smartphones,Samsung,22410.21,17107.44,4.41,2022-07-31
+1542,Noise Pulse 2 Max Pro,Electronics,Wearables,Noise,1880.53,1520.76,4.11,2024-03-23
+1543,Puma Sports Jacket 256GB,Fashion,Apparel,Puma,3269.88,2614.75,3.41,2022-11-06
+1544,Puma Running Shoes Silver,Fashion,Men Footwear,Puma,5232.67,3586.94,3.87,2023-09-10
+1545,Apple iPhone 13,Mobiles,Smartphones,Apple,82188.32,65357.45,4.98,2022-09-07
+1546,Ergonomic Executive Office Chair V2,Furniture,Office,LG,5167.64,3922.85,3.93,2023-11-21
+1547,Nivea Body Lotion 400ml Blue,Beauty,Skincare,Nivea,658.88,516.01,3.47,2023-03-31
+1548,Tata Salt 1kg,Grocery,Staples,Prestige,174.01,113.51,3.85,2023-11-26
+1549,Fortune Sunflower Oil 5L Silver,Grocery,Staples,Prestige,1129.63,931.86,4.26,2023-10-06
+1550,Noise Pure Pods Blue,Electronics,Audio,Noise,1412.93,1235.54,4.51,2024-03-22
+1551,Noise Buds VS102 128GB,Electronics,Audio,Noise,2108.02,1629.75,3.59,2023-12-02
+1552,Samsung Galaxy M34 XL,Mobiles,Smartphones,Samsung,34238.79,23077.03,3.58,2023-12-04
+1553,Puma Running Shoes,Fashion,Men Footwear,Puma,2742.09,1836.73,3.13,2022-04-06
+1554,Puma Running Shoes XL,Fashion,Men Footwear,Puma,2832.89,2290.25,3.67,2023-02-12
+1555,Philips Hair Dryer Pro,Beauty,Personal Care,Philips,2372.47,1614.37,4.3,2022-04-21
+1556,Samsung Galaxy A54 Blue,Mobiles,Smartphones,Samsung,53821.39,39763.79,3.39,2024-03-21
+1557,Noise Pulse 2 Max Pro,Electronics,Wearables,Noise,4550.75,3360.36,3.98,2022-10-25
+1558,boAt Airdopes 141 V2,Electronics,Audio,boAt,1952.71,1669.6,3.15,2023-07-08
+1559,Puma Track Pants Silver,Fashion,Apparel,Puma,2127.33,1673.82,4.01,2022-09-10
+1560,Apple MacBook Pro M3 Pro,Laptops,Thin & Light,Apple,77206.12,56938.08,4.4,2022-05-27
+1561,Philips Hair Straightener Black,Beauty,Personal Care,Philips,2387.8,1624.29,3.05,2023-05-10
+1562,Puma Casual Tee 128GB,Fashion,Women Apparel,Puma,1492.59,1281.7,2.55,2022-03-20
+1563,HP Laptop 15s Black,Laptops,Budget Laptops,HP,30864.11,21949.62,2.66,2023-12-24
+1564,HP Omen 16 256GB,Laptops,Gaming Laptops,HP,87286.27,73297.12,4.69,2023-12-21
+1565,boAt Airdopes 141 Silver,Electronics,Audio,boAt,3314.16,2603.73,3.19,2022-10-02
+1566,Puma Smash v2 Sneakers 256GB,Fashion,Men Footwear,Puma,2317.3,1433.73,4.88,2023-08-14
+1567,Apple iPhone 12 256GB,Mobiles,Smartphones,Apple,119671.35,83739.06,2.53,2023-04-22
+1568,Apple iPhone 14 Pack of 2,Mobiles,Smartphones,Apple,113591.21,87655.07,4.88,2022-12-31
+1569,Apple MacBook Pro M3,Laptops,Thin & Light,Apple,109637.89,79638.87,2.61,2022-08-18
+1570,HP Chromebook 14,Laptops,Budget Laptops,HP,40567.16,26826.7,4.67,2023-03-05
+1571,Nivea Body Lotion 400ml Blue,Beauty,Skincare,Nivea,365.21,259.47,4.1,2022-08-30
+1572,Prestige Sandwich Maker Blue,Home Appliances,Kitchen,Prestige,2427.87,1720.77,3.55,2023-02-06
+1573,Puma Sports Jacket Black,Fashion,Apparel,Puma,3177.29,1984.37,4.25,2023-07-02
+1574,Philips Hair Straightener XL,Beauty,Personal Care,Philips,969.18,721.15,3.56,2022-10-29
+1575,boAt Car Charger Pro,Mobiles,Accessories,boAt,1239.06,1030.41,4.19,2023-04-01
+1576,Noise ColorFit Pulse Pro,Electronics,Audio,Noise,2033.33,1279.48,4.53,2022-11-11
+1577,Nivea Body Lotion 400ml V2,Beauty,Skincare,Nivea,499.74,344.45,3.62,2023-06-18
+1578,Philips Air Fryer HD9200 XL,Home Appliances,Kitchen,Philips,6158.02,4188.2,3.72,2023-04-30
+1579,Puma T-shirt Edition,Fashion,Apparel,Puma,2698.3,2138.08,3.15,2022-04-04
+1580,LG Direct Cool Refrigerator Silver,Home Appliances,Cooling,LG,21552.31,17653.05,3.91,2023-04-01
+1581,Apple MacBook Air M2 Black,Laptops,Thin & Light,Apple,148976.59,116973.8,2.85,2023-07-12
+1582,boAt Airdopes 141 Pack of 2,Electronics,Audio,boAt,1221.76,839.1,4.41,2022-02-12
+1583,boAt Car Charger Silver,Mobiles,Accessories,boAt,1683.61,1221.33,3.41,2022-07-22
+1584,Aashirvaad Atta 10kg Silver,Grocery,Staples,Prestige,750.13,474.91,3.03,2023-02-19
+1585,Philips Beard Trimmer Series 3000,Beauty,Personal Care,Philips,1472.08,939.88,4.52,2023-04-16
+1586,Ergonomic Executive Office Chair 128GB,Furniture,Office,LG,4275.29,2695.77,2.8,2022-07-05
+1587,HP Victus 15 Edition,Laptops,Gaming Laptops,HP,67506.72,46119.6,4.34,2022-07-04
+1588,Noise Pulse 2 Max Black,Electronics,Wearables,Noise,3756.94,3197.76,4.65,2022-12-22
+1589,Apple iPhone 15 Pro Pack of 2,Mobiles,Smartphones,Apple,103645.76,73865.15,3.14,2023-05-17
+1590,Apple MacBook Pro M3 Silver,Laptops,Thin & Light,Apple,154961.7,94991.13,4.85,2023-06-28
+1591,HP Pavilion Gaming Black,Laptops,Gaming Laptops,HP,89157.48,54365.56,3.45,2022-03-31
+1592,HP Omen 16 Black,Laptops,Gaming Laptops,HP,91342.6,77163.47,2.65,2022-03-22
+1593,Samsung Galaxy M14 5G Black,Mobiles,Smartphones,Samsung,24336.09,18790.18,3.24,2022-12-10
+1594,boAt Car Charger,Mobiles,Accessories,boAt,1943.32,1494.9,4.0,2023-12-03
+1595,Samsung Galaxy A54 XL,Mobiles,Smartphones,Samsung,18497.48,12769.18,4.48,2022-03-08
+1596,Noise ColorFit Pro 4,Electronics,Wearables,Noise,4337.02,3422.87,3.11,2022-07-08
+1597,boAt Car Charger Edition,Mobiles,Accessories,boAt,1676.63,1152.85,4.86,2024-02-15
+1598,Philips Air Fryer HD9200 Pro,Home Appliances,Kitchen,Philips,3087.47,1915.4,3.92,2023-03-15
+1599,Noise Pulse 2 Max V2,Electronics,Wearables,Noise,4254.12,3313.59,4.33,2023-08-03
+1600,Noise Ultra 2,Electronics,Wearables,Noise,3483.91,2295.83,3.32,2024-03-19
