@@ -27,7 +27,7 @@ The project uses a relational, multi-table e-commerce dataset containing:
 | Shipments | 10,000 | Delivery operations, delays, attempts, and failure reasons |
 | Returns & Refunds | 5,493 | Return cases, refund status, amounts, and processing information |
 
-**Dataset Source:** [Kaggle]([PASTE_THE_CORRECT_KAGGLE_URL_HERE](https://www.kaggle.com/datasets/payelnandy/e-commerce-revenue-leakage-dataset))
+**Dataset Source:** [Kaggle](https://www.kaggle.com/datasets/payelnandy/e-commerce-revenue-leakage-dataset)
 
 ---
 
