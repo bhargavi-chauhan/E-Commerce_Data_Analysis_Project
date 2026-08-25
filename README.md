@@ -46,17 +46,40 @@ The final Power BI Report contains four interactive analytical pages:
 
 High-level view of the leakage problem. 10,000 orders, ₹555.82M total order value, ₹53.38M revenue loss, 9.60% leakage rate. 99.5% of revenue loss traces to Failed orders. Credit Card has the highest payment-method failure rate (10.48%) vs. COD, the lowest (8.87%).
 
-### 3. **Shipment & Courier Performance**
+### 2. **Shipment & Courier Performance**
 <img src="screenshots/2-shipment_courier_performance.png" alt="Shipment & Courier Performance Dashboard" width="50%" height="50%">
 
 Operational view of delivery performance. 61.37% overall delivery success rate, 6,000 late shipments. Courier Delay is by far the top failure reason (~1,000 shipments) vs. ~400 each for other causes. The failure-rate-vs-delay scatter shows courier performance is fairly tight-banded (10.2%–11.0% failure, 3.45–3.57 avg delay days) — no single courier is a dramatic outlier in either direction.
 
-### 4. **Returns & Refunds**
+### 3. **Returns & Refunds**
 <img src="screenshots/3-returns_refunds.png" alt="Returns & Refunds Dashboard" width="50%" height="50%">
 
 5,493 return cases, ₹133.85M in total refunds, of which 79.9% are already processed and 15.3% still pending. Customer Refused (2,308 cases, ₹61.1M) and Late Delivery (1,937 cases, ₹52.98M) together account for the large majority of both return volume and refund value — a clear signal that delivery reliability and last-mile communication, not product quality, are the primary return drivers.
 
-### 5. **Product & Customer Leakage**
-<img src="screenshots/4-product_customer_leakage.png" alt="Product & Customer Leakage Dashbboard" width="50%" height="50%"> 2,000 leakage orders, ₹26.51K average loss per leakage order. Laptops and Mobiles dominate product-level leakage — the top 10 loss-driving products are almost entirely laptops (Apple MacBook, HP Victus/Omen) plus one phone. Leakage is fairly evenly spread across churn-risk tiers (33–35% each in High/Medium/Low) rather than concentrated in high-churn customers, but High Value customers account for by far the largest share of leakage in absolute rupee terms (~₹40M vs. ~₹12M for At Risk and near-zero for New/Returning).
+### 4. **Product & Customer Leakage**
+<img src="screenshots/4-product_customer_leakage.png" alt="Product & Customer Leakage Dashbboard" width="50%" height="50%"> 
 
+2,000 leakage orders, ₹26.51K average loss per leakage order. Laptops and Mobiles dominate product-level leakage — the top 10 loss-driving products are almost entirely laptops (Apple MacBook, HP Victus/Omen) plus one phone. Leakage is fairly evenly spread across churn-risk tiers (33–35% each in High/Medium/Low) rather than concentrated in high-churn customers, but High Value customers account for by far the largest share of leakage in absolute rupee terms (~₹40M vs. ~₹12M for At Risk and near-zero for New/Returning).
+
+---
+
+## 💡 Key Insights
+
+1. Failed orders are the single biggest leakage source (99.5%) — prioritize root-causing order failures over optimizing returns/refunds, which are comparatively small in dollar impact.
+2. Courier Delay is the top shipment failure reason by a wide margin — investigate SLA terms with courier partners before diversifying carriers, since failure/delay rates are fairly uniform across all six couriers.
+3. "Customer Refused" and "Late Delivery" drive ~85% of return value — both point to delivery reliability rather than product-quality issues, suggesting operational (not merchandising) fixes will have the biggest impact on return rate.
+4. High Value customers carry the largest absolute leakage exposure — even a small percentage reduction in their leakage rate would recover more revenue than the same reduction applied to any other segment.
+
+---
+
+## 🚧 Limitations
+
+- The dataset is used for analytical and portfolio purposes.
+- Revenue leakage is based on the fields and business definitions available in the dataset.
+- Product-level leakage is allocated evenly across order items when an order contains multiple items.
+- Missing dates were not artificially reconstructed.
+- Customer behavior and operational causes are observational and should not automatically be interpreted as causal relationships.
+- The analysis does not include external factors such as seasonality, geographic delivery distance, warehouse capacity, or real-world courier SLA data.
+
+---
 
