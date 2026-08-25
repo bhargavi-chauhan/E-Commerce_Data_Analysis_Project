@@ -42,7 +42,7 @@ The project uses a multi-table e-commerce dataset containing:
 The final Power BI Report contains four interactive analytical pages:
 
 1. **Executive Overview**
-<img src="screenshots/1-executive_overview" alt="Alternative Text" width="50%" height="50%">
+<img src="screenshots/1-executive_overview.png" alt="Alternative Text" width="50%" height="50%">
 
 High-level view of the leakage problem. 10,000 orders, ₹555.82M total order value, ₹53.38M revenue loss, 9.60% leakage rate. 99.5% of revenue loss traces to Failed orders. Credit Card has the highest payment-method failure rate (10.48%) vs. COD, the lowest (8.87%).
 
