@@ -16,20 +16,22 @@ E-commerce businesses lose revenue silently across the order lifecycle — faile
 
 ## 🗂️ Dataset
 
-The project uses a multi-table e-commerce dataset containing:
+The project uses a relational, multi-table e-commerce dataset containing:
 
-| Table | Records |
-|---|---:|
-| Customers[Customer attributes — segment, repeat behavior, churn risk] | 10,500 |
-| Products[Product catalog and pricing] | 1,600 |
-| Orders[Core transactional data — order status, revenue, and leakage indicators] | 10,000 |
-| Order Items[Line-item mapping between orders and products] | 17,000 |
-| Shipments[Delivery operations — delays, attempts, failure reasons] | 10,000 |
-| Returns & Refunds[Post-delivery returns, refund status, and refund timelines] | 5,493 |
+| Table | Records | Description |
+|---|---:|---|
+| Customers | 10,500 | Customer attributes, segment, repeat behavior, and churn risk |
+| Products | 1,600 | Product catalog and pricing information |
+| Orders | 10,000 | Core transactional data, order status, revenue, and leakage indicators |
+| Order Items | 17,000 | Line-item mapping between orders and products |
+| Shipments | 10,000 | Delivery operations, delays, attempts, and failure reasons |
+| Returns & Refunds | 5,493 | Return cases, refund status, amounts, and processing information |
+
+**Dataset Source:** [Kaggle]([PASTE_THE_CORRECT_KAGGLE_URL_HERE](https://www.kaggle.com/datasets/payelnandy/e-commerce-revenue-leakage-dataset))
 
 ---
 
-# 🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 - Python (pandas) — data cleaning, validation, referential integrity checks
 - SQL (MySQL) — aggregation, joins, window functions, reusable views
