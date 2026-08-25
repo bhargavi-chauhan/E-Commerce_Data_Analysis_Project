@@ -1,0 +1,91 @@
+relationship e325fc90-121c-4053-a59e-09a590f391aa
+	joinOnDateBehavior: datePartOnly
+	fromColumn: shipments_revenue_leakage.shipment_date
+	toColumn: LocalDateTable_8fdd1191-4aeb-45d9-a66d-10a61055bb52.Date
+
+relationship 3f44e9bb-f496-49a7-b3e6-929ab605c6b5
+	joinOnDateBehavior: datePartOnly
+	fromColumn: shipments_revenue_leakage.expected_delivery_date
+	toColumn: LocalDateTable_b5732457-c08a-4940-a0a7-36b3f20332b6.Date
+
+relationship 20cc8190-4474-47ab-8481-bc23f67081b8
+	joinOnDateBehavior: datePartOnly
+	fromColumn: shipments_revenue_leakage.actual_delivery_date
+	toColumn: LocalDateTable_0a7f9866-c068-4824-b20e-4bcc1fdd0bf9.Date
+
+relationship 32985a32-c5d1-4301-b397-7f1a78f4eead
+	joinOnDateBehavior: datePartOnly
+	fromColumn: returns_refunds_revenue_leakage.return_request_date
+	toColumn: LocalDateTable_9bee4d6d-76f9-407c-8720-bd63fd918aaa.Date
+
+relationship 37d8019f-4029-496f-8f6d-5edea08931fe
+	joinOnDateBehavior: datePartOnly
+	fromColumn: returns_refunds_revenue_leakage.refund_request_date
+	toColumn: LocalDateTable_7ddabb4b-fec9-48df-acd9-c175986067fa.Date
+
+relationship e41b09b6-425d-48bf-bb56-b81a58780d5c
+	joinOnDateBehavior: datePartOnly
+	fromColumn: returns_refunds_revenue_leakage.refund_processed_date
+	toColumn: LocalDateTable_2f849cf6-3c49-4209-a182-c280eff24ce0.Date
+
+relationship 47407287-6a08-4053-86b1-8c9a2736d5ad
+	joinOnDateBehavior: datePartOnly
+	fromColumn: products_revenue_leakage.launch_date
+	toColumn: LocalDateTable_c0c4dfb3-fb6d-49f8-bc19-833c017a38c1.Date
+
+relationship 66b2527c-9ae5-4276-acd3-2ed93c4cf2e3
+	joinOnDateBehavior: datePartOnly
+	fromColumn: orders_revenue_leakage.order_date
+	toColumn: LocalDateTable_65d1db61-192d-487f-8640-f1c04978aac5.Date
+
+relationship cb315d7d-dc2d-42df-8850-4707c6a42418
+	joinOnDateBehavior: datePartOnly
+	fromColumn: customers_revenue_leakage.date_of_birth
+	toColumn: LocalDateTable_c7d1535c-dc4d-45e3-883d-19dfbef86829.Date
+
+relationship 72b78eb8-6855-4fdd-81e9-4494b6394c83
+	joinOnDateBehavior: datePartOnly
+	fromColumn: customers_revenue_leakage.registration_date
+	toColumn: LocalDateTable_219b5dfc-d9be-47f6-94bf-ec0b40f68d4e.Date
+
+relationship c50ca6d4-c5cc-46d0-8193-fc3a9eed926f
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: shipments_revenue_leakage.order_id
+	toColumn: orders_revenue_leakage.order_id
+
+	annotation PBI_IsFromSource = FS
+
+relationship 4e004349-653d-4170-91ee-6ffcb5aae5ef
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: returns_refunds_revenue_leakage.order_item_id
+	toColumn: order_items_revenue_leakage.order_item_id
+
+	annotation PBI_IsFromSource = FS
+
+relationship e193a27b-1045-492c-ba11-c1ee42667100
+	fromColumn: returns_refunds_revenue_leakage.order_id
+	toColumn: orders_revenue_leakage.order_id
+
+	annotation PBI_IsFromSource = FS
+
+relationship 995e6d6f-412d-4f38-bb59-1e63f93946c8
+	fromColumn: orders_revenue_leakage.customer_id
+	toColumn: customers_revenue_leakage.customer_id
+
+	annotation PBI_IsFromSource = FS
+
+relationship dc5869fb-286c-4bb2-a41c-70ea438b2026
+	fromColumn: order_items_revenue_leakage.product_id
+	toColumn: products_revenue_leakage.product_id
+
+	annotation PBI_IsFromSource = FS
+
+relationship 27246fce-c396-4ef4-9622-9d199ceda157
+	isActive: false
+	fromColumn: order_items_revenue_leakage.order_id
+	toColumn: orders_revenue_leakage.order_id
+
+	annotation PBI_IsFromSource = FS
+

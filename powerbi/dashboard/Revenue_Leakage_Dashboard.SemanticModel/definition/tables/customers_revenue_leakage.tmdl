@@ -1,0 +1,139 @@
+table customers_revenue_leakage
+	lineageTag: 8500eba3-219c-4a1f-8177-011b181ee920
+
+	column customer_id
+		dataType: int64
+		formatString: 0
+		lineageTag: 358d2d75-429d-4b1f-9547-f521617b2207
+		summarizeBy: none
+		sourceColumn: customer_id
+
+		annotation SummarizationSetBy = Automatic
+
+	column customer_name
+		dataType: string
+		lineageTag: 9c386db8-f09c-4377-91f5-06b57fad40da
+		summarizeBy: none
+		sourceColumn: customer_name
+
+		annotation SummarizationSetBy = Automatic
+
+	column gender
+		dataType: string
+		lineageTag: 35e0e5fe-459d-48c5-a351-6630f9d654a6
+		summarizeBy: none
+		sourceColumn: gender
+
+		annotation SummarizationSetBy = Automatic
+
+	column date_of_birth
+		dataType: dateTime
+		formatString: Long Date
+		lineageTag: 5f0c91f3-32f7-4d45-bee9-9fab9a18a79a
+		summarizeBy: none
+		sourceColumn: date_of_birth
+
+		variation Variation
+			isDefault
+			relationship: cb315d7d-dc2d-42df-8850-4707c6a42418
+			defaultHierarchy: LocalDateTable_c7d1535c-dc4d-45e3-883d-19dfbef86829.'Date Hierarchy'
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column city
+		dataType: string
+		lineageTag: 21b7f6a8-d07d-47dc-8653-c7ca70894c53
+		summarizeBy: none
+		sourceColumn: city
+
+		annotation SummarizationSetBy = Automatic
+
+	column state
+		dataType: string
+		lineageTag: 3c5c973b-b033-48c5-8f51-3da7e9007ad3
+		summarizeBy: none
+		sourceColumn: state
+
+		annotation SummarizationSetBy = Automatic
+
+	column pincode
+		dataType: int64
+		formatString: 0
+		lineageTag: dcc5c501-fc38-4c80-816a-e6feef2fa27c
+		summarizeBy: sum
+		sourceColumn: pincode
+
+		annotation SummarizationSetBy = Automatic
+
+	column registration_date
+		dataType: dateTime
+		formatString: Long Date
+		lineageTag: f51fcf91-ce38-42a1-8c9e-15c823aefbc5
+		summarizeBy: none
+		sourceColumn: registration_date
+
+		variation Variation
+			isDefault
+			relationship: 72b78eb8-6855-4fdd-81e9-4494b6394c83
+			defaultHierarchy: LocalDateTable_219b5dfc-d9be-47f6-94bf-ec0b40f68d4e.'Date Hierarchy'
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column acquisition_channel
+		dataType: string
+		lineageTag: c35c66d5-dbd9-4cdc-b412-17e5417f156b
+		summarizeBy: none
+		sourceColumn: acquisition_channel
+
+		annotation SummarizationSetBy = Automatic
+
+	column customer_segment
+		dataType: string
+		lineageTag: 3e6fd71b-85b3-44c7-b922-991763a531ff
+		summarizeBy: none
+		sourceColumn: customer_segment
+
+		annotation SummarizationSetBy = Automatic
+
+	column is_repeat_customer
+		dataType: string
+		lineageTag: 60571154-8298-497b-b677-deeb74c95704
+		summarizeBy: none
+		sourceColumn: is_repeat_customer
+
+		annotation SummarizationSetBy = Automatic
+
+	column churn_risk
+		dataType: string
+		lineageTag: 29022803-8586-46f6-a4bf-a8e359628233
+		summarizeBy: none
+		sourceColumn: churn_risk
+
+		annotation SummarizationSetBy = Automatic
+
+	column customer_lifetime_value
+		dataType: int64
+		formatString: 0
+		lineageTag: 625c8cce-b1f7-4dee-8b73-d00f6c8cc0ef
+		summarizeBy: sum
+		sourceColumn: customer_lifetime_value
+
+		annotation SummarizationSetBy = Automatic
+
+	partition customers_revenue_leakage = m
+		mode: import
+		source =
+				let
+				    Source = MySQL.Database("127.0.01:3306", "revenue_leakage", [ReturnSingleDatabase=true]),
+				    revenue_leakage_customers = Source{[Schema="revenue_leakage",Item="customers"]}[Data]
+				in
+				    revenue_leakage_customers
+
+	changedProperty = Name
+
+	annotation PBI_ResultType = Table
+

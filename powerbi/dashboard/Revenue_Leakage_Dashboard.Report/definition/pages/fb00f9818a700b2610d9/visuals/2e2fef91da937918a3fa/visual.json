@@ -1,0 +1,103 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.12.0/schema.json",
+  "name": "2e2fef91da937918a3fa",
+  "position": {
+    "x": 334,
+    "y": 172,
+    "z": 1000,
+    "height": 406,
+    "width": 748,
+    "tabOrder": 1000
+  },
+  "visual": {
+    "visualType": "donutChart",
+    "query": {
+      "queryState": {
+        "Category": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "returns_refunds_revenue_leakage"
+                    }
+                  },
+                  "Property": "refund_status"
+                }
+              },
+              "queryRef": "returns_refunds_revenue_leakage.refund_status",
+              "nativeQueryRef": "refund_status",
+              "active": true
+            }
+          ]
+        },
+        "Y": {
+          "projections": [
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "returns_refunds_revenue_leakage"
+                    }
+                  },
+                  "Property": "Total Refund Amount"
+                }
+              },
+              "queryRef": "returns_refunds_revenue_leakage.Total Refund Amount",
+              "nativeQueryRef": "Total Refund Amount"
+            }
+          ]
+        }
+      },
+      "sortDefinition": {
+        "sort": [
+          {
+            "field": {
+              "Measure": {
+                "Expression": {
+                  "SourceRef": {
+                    "Entity": "returns_refunds_revenue_leakage"
+                  }
+                },
+                "Property": "Total Refund Amount"
+              }
+            },
+            "direction": "Descending"
+          }
+        ],
+        "isDefaultSort": true
+      }
+    },
+    "visualContainerObjects": {
+      "subTitle": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "false"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "title": [
+        {
+          "properties": {
+            "text": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Refund Amount by Processing Status'"
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    "drillFilterOtherVisuals": true
+  }
+}

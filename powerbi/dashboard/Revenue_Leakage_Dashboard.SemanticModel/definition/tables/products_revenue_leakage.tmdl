@@ -1,0 +1,103 @@
+table products_revenue_leakage
+	lineageTag: c62ade1b-e5b8-414d-81a0-53f020a6bbec
+
+	column product_id
+		dataType: int64
+		formatString: 0
+		lineageTag: bec8ead0-0d95-4e7b-bf21-f7438800726c
+		summarizeBy: none
+		sourceColumn: product_id
+
+		annotation SummarizationSetBy = Automatic
+
+	column product_name
+		dataType: string
+		lineageTag: e8150008-8898-4a06-adc4-9d44d6d29068
+		summarizeBy: none
+		sourceColumn: product_name
+
+		annotation SummarizationSetBy = Automatic
+
+	column category
+		dataType: string
+		lineageTag: f3fd30eb-c2e2-4c65-882d-f9bbadc30789
+		summarizeBy: none
+		sourceColumn: category
+
+		annotation SummarizationSetBy = Automatic
+
+	column subcategory
+		dataType: string
+		lineageTag: 31c135f6-1c1d-476a-96b2-0d860e173571
+		summarizeBy: none
+		sourceColumn: subcategory
+
+		annotation SummarizationSetBy = Automatic
+
+	column brand
+		dataType: string
+		lineageTag: c20b91a4-9668-47cb-a88c-c89cfb2e0a6d
+		summarizeBy: none
+		sourceColumn: brand
+
+		annotation SummarizationSetBy = Automatic
+
+	column selling_price
+		dataType: double
+		lineageTag: 5f051124-13a3-4b4e-8483-1d4b2eb2b45c
+		summarizeBy: sum
+		sourceColumn: selling_price
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column product_cost
+		dataType: double
+		lineageTag: 009fe2a7-60f2-48c5-b5c0-d6a0f21bfcd1
+		summarizeBy: sum
+		sourceColumn: product_cost
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column product_rating
+		dataType: double
+		lineageTag: 00bf4441-f3b3-4d7d-bb39-bc6824ed7388
+		summarizeBy: sum
+		sourceColumn: product_rating
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column launch_date
+		dataType: dateTime
+		formatString: Long Date
+		lineageTag: 22b3e00a-2c51-4b77-aaba-6722ee537547
+		summarizeBy: none
+		sourceColumn: launch_date
+
+		variation Variation
+			isDefault
+			relationship: 47407287-6a08-4053-86b1-8c9a2736d5ad
+			defaultHierarchy: LocalDateTable_c0c4dfb3-fb6d-49f8-bc19-833c017a38c1.'Date Hierarchy'
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	partition products_revenue_leakage = m
+		mode: import
+		source =
+				let
+				    Source = MySQL.Database("127.0.01:3306", "revenue_leakage", [ReturnSingleDatabase=true]),
+				    revenue_leakage_products = Source{[Schema="revenue_leakage",Item="products"]}[Data]
+				in
+				    revenue_leakage_products
+
+	changedProperty = Name
+
+	annotation PBI_ResultType = Table
+

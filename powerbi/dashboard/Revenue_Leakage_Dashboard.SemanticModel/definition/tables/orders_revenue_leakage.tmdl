@@ -1,0 +1,284 @@
+table orders_revenue_leakage
+	lineageTag: bc49abed-d95a-4d44-85da-482a5d830949
+
+	measure 'Total Orders' = COUNTROWS(orders_revenue_leakage)
+		formatString: 0
+		lineageTag: b826f99e-a3fe-4b62-a266-bc0871a577f4
+
+	measure 'Total Order Value' = SUM(orders_revenue_leakage[total_order_value])
+		formatString: "₹"#,0.00;#,0.00\ -"₹";"₹"#,0.00
+		lineageTag: 160264d3-40b4-46bd-9d26-7eee70c8b029
+
+		annotation PBI_FormatHint = {"currencyCulture":"hi-IN"}
+
+	measure 'Revenue Loss' = SUM(orders_revenue_leakage[revenue_loss_amount])
+		formatString: "₹"#,0.00;#,0.00\ -"₹";"₹"#,0.00
+		lineageTag: 285f6eda-853f-4b5f-b118-029bc38b8fe0
+
+		annotation PBI_FormatHint = {"currencyCulture":"hi-IN"}
+
+	measure 'Net Revenue' = SUM(orders_revenue_leakage[net_revenue])
+		formatString: "₹"#,0.00;#,0.00\ -"₹";"₹"#,0.00
+		lineageTag: 096d4322-c7bc-4b12-b344-d37fa93aaf19
+
+		annotation PBI_FormatHint = {"currencyCulture":"hi-IN"}
+
+	measure 'Leakage Rate' =
+			DIVIDE(
+			    [Revenue Loss],
+			    [Total Order Value]
+			)
+		formatString: 0.00%;-0.00%;0.00%
+		lineageTag: 0fa05142-08f9-412f-a6c6-cb7344c1cb45
+
+	measure 'Failed Orders' =
+			CALCULATE(
+			    [Total Orders],
+			    orders_revenue_leakage[is_failed_order] = "Yes"
+			)
+		formatString: 0
+		lineageTag: 2e23dabd-be7d-4752-a99f-801781b6c883
+
+	measure 'Failure Rate' =
+			DIVIDE(
+			    [Failed Orders],
+			    [Total Orders]
+			)
+		formatString: 0.00%;-0.00%;0.00%
+		lineageTag: c3b46be1-9fc5-48d0-97f4-823e654e29b8
+
+	measure 'Leakage Orders' =
+			
+			CALCULATE(
+			    COUNTROWS(orders_revenue_leakage),
+			    orders_revenue_leakage[revenue_leakage_flag] = "Yes"
+			)
+		lineageTag: d322a9ea-2d20-418a-8f8e-f49feeb7bfb6
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	measure 'Avg Loss per Leakage Order' =
+			
+			DIVIDE(
+			    [Revenue Loss],
+			    [Leakage Orders]
+			)
+		formatString: "₹"#,0.00;#,0.00\ -"₹";"₹"#,0.00
+		lineageTag: 6e184982-be97-4285-af44-1b42d3564cd6
+
+		annotation PBI_FormatHint = {"currencyCulture":"hi-IN"}
+
+	measure 'Product Revenue Loss' =
+			
+			SUMX(
+			    VALUES(order_items_revenue_leakage[order_item_id]),
+			    VAR OrderID =
+			        CALCULATE(MAX(order_items_revenue_leakage[order_id]))
+			    VAR OrderLoss =
+			        CALCULATE(
+			            MAX(orders_revenue_leakage[revenue_loss_amount]),
+			            orders_revenue_leakage[order_id] = OrderID
+			        )
+			    VAR OrderItems =
+			        CALCULATE(
+			            COUNTROWS(order_items_revenue_leakage),
+			            ALL(order_items_revenue_leakage),
+			            order_items_revenue_leakage[order_id] = OrderID
+			        )
+			    RETURN
+			        DIVIDE(OrderLoss, OrderItems)
+			)
+		lineageTag: dae67ba7-bc6b-463b-b059-3e9ee8a7f1a4
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column order_id
+		dataType: int64
+		formatString: 0
+		lineageTag: fdb8015d-8723-4d03-9f6a-585523bdfff2
+		summarizeBy: none
+		sourceColumn: order_id
+
+		annotation SummarizationSetBy = Automatic
+
+	column customer_id
+		dataType: int64
+		formatString: 0
+		lineageTag: 4aeed1df-5a86-48cb-9cb2-3cf7f2cc8da2
+		summarizeBy: none
+		sourceColumn: customer_id
+
+		annotation SummarizationSetBy = Automatic
+
+	column order_date
+		dataType: dateTime
+		formatString: Long Date
+		lineageTag: 5012d9bc-7fea-4660-8e6c-5faeaaa0e5e9
+		summarizeBy: none
+		sourceColumn: order_date
+
+		variation Variation
+			isDefault
+			relationship: 66b2527c-9ae5-4276-acd3-2ed93c4cf2e3
+			defaultHierarchy: LocalDateTable_65d1db61-192d-487f-8640-f1c04978aac5.'Date Hierarchy'
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column order_status
+		dataType: string
+		lineageTag: bf2af950-44e2-479f-8867-97db7986ba34
+		summarizeBy: none
+		sourceColumn: order_status
+
+		annotation SummarizationSetBy = Automatic
+
+	column payment_method
+		dataType: string
+		lineageTag: 6cb153cd-2f18-4141-b5a5-524a66214489
+		summarizeBy: none
+		sourceColumn: payment_method
+
+		annotation SummarizationSetBy = Automatic
+
+	column subtotal
+		dataType: double
+		lineageTag: 9fb52f54-f845-44c8-b689-86c7594bbeba
+		summarizeBy: sum
+		sourceColumn: subtotal
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column discount_amount
+		dataType: double
+		lineageTag: 638ed606-bfc9-4481-8c85-18c08f7251b1
+		summarizeBy: sum
+		sourceColumn: discount_amount
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column shipping_fee
+		dataType: double
+		lineageTag: c3e12969-9c39-4215-8f24-c0e5d467c641
+		summarizeBy: sum
+		sourceColumn: shipping_fee
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column tax_amount
+		dataType: double
+		lineageTag: eadb3088-6d3a-4032-a5a5-026c4979fd8d
+		summarizeBy: sum
+		sourceColumn: tax_amount
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column total_order_value
+		dataType: double
+		lineageTag: 8bb138ec-dc6a-49ee-80eb-526152cc317f
+		summarizeBy: sum
+		sourceColumn: total_order_value
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column delivery_city
+		dataType: string
+		lineageTag: f4230761-9d8f-48a0-ba5e-b425767eda9c
+		summarizeBy: none
+		sourceColumn: delivery_city
+
+		annotation SummarizationSetBy = Automatic
+
+	column delivery_state
+		dataType: string
+		lineageTag: 344c5655-55b8-4e18-9511-8473045c8a93
+		summarizeBy: none
+		sourceColumn: delivery_state
+
+		annotation SummarizationSetBy = Automatic
+
+	column coupon_code
+		dataType: string
+		lineageTag: 3c784118-c4fc-4771-b89d-d16a343b9d87
+		summarizeBy: none
+		sourceColumn: coupon_code
+
+		annotation SummarizationSetBy = Automatic
+
+	column is_failed_order
+		dataType: string
+		lineageTag: d52a06d9-57e5-455e-9f38-8a35efc60ef0
+		summarizeBy: none
+		sourceColumn: is_failed_order
+
+		annotation SummarizationSetBy = Automatic
+
+	column is_returned
+		dataType: string
+		lineageTag: 90ed64f8-5c98-48b2-9fe9-333e5308f24a
+		summarizeBy: none
+		sourceColumn: is_returned
+
+		annotation SummarizationSetBy = Automatic
+
+	column revenue_leakage_flag
+		dataType: string
+		lineageTag: 61197b2c-4395-4ec5-884b-23386aa8df16
+		summarizeBy: none
+		sourceColumn: revenue_leakage_flag
+
+		annotation SummarizationSetBy = Automatic
+
+	column refund_amount
+		dataType: int64
+		formatString: 0
+		lineageTag: 551c0675-b6a9-4d55-a7ac-7aaaa7dab36b
+		summarizeBy: sum
+		sourceColumn: refund_amount
+
+		annotation SummarizationSetBy = Automatic
+
+	column revenue_loss_amount
+		dataType: double
+		lineageTag: 6fa3c735-b621-47f3-98cc-0544cf4d5591
+		summarizeBy: sum
+		sourceColumn: revenue_loss_amount
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column net_revenue
+		dataType: double
+		lineageTag: f3b0b7c1-ae8f-45e9-b78c-27f486e88f5d
+		summarizeBy: sum
+		sourceColumn: net_revenue
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	partition orders_revenue_leakage = m
+		mode: import
+		source =
+				let
+				    Source = MySQL.Database("127.0.01:3306", "revenue_leakage", [ReturnSingleDatabase=true]),
+				    revenue_leakage_orders = Source{[Schema="revenue_leakage",Item="orders"]}[Data]
+				in
+				    revenue_leakage_orders
+
+	changedProperty = Name
+
+	annotation PBI_ResultType = Table
+

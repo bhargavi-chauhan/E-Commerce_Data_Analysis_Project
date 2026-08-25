@@ -1,0 +1,103 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.12.0/schema.json",
+  "name": "8e63fbca9352bf09fb98",
+  "position": {
+    "x": 1098,
+    "y": 172,
+    "z": 3000,
+    "height": 510,
+    "width": 806,
+    "tabOrder": 3000
+  },
+  "visual": {
+    "visualType": "clusteredColumnChart",
+    "query": {
+      "queryState": {
+        "Category": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "returns_refunds_revenue_leakage"
+                    }
+                  },
+                  "Property": "return_reason"
+                }
+              },
+              "queryRef": "returns_refunds_revenue_leakage.return_reason",
+              "nativeQueryRef": "return_reason",
+              "active": true
+            }
+          ]
+        },
+        "Y": {
+          "projections": [
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "returns_refunds_revenue_leakage"
+                    }
+                  },
+                  "Property": "Total Refund Amount"
+                }
+              },
+              "queryRef": "returns_refunds_revenue_leakage.Total Refund Amount",
+              "nativeQueryRef": "Total Refund Amount"
+            }
+          ]
+        }
+      },
+      "sortDefinition": {
+        "sort": [
+          {
+            "field": {
+              "Measure": {
+                "Expression": {
+                  "SourceRef": {
+                    "Entity": "returns_refunds_revenue_leakage"
+                  }
+                },
+                "Property": "Total Refund Amount"
+              }
+            },
+            "direction": "Descending"
+          }
+        ],
+        "isDefaultSort": true
+      }
+    },
+    "visualContainerObjects": {
+      "subTitle": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "false"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "title": [
+        {
+          "properties": {
+            "text": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Refund Exposure by Return Reason'"
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    "drillFilterOtherVisuals": true
+  }
+}

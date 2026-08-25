@@ -1,0 +1,219 @@
+table shipments_revenue_leakage
+	lineageTag: 70260b68-7d11-469a-aa4d-fb314f5255a8
+
+	measure 'Total Shipments' = COUNTROWS(shipments_revenue_leakage)
+		formatString: 0
+		lineageTag: 71905c9f-2ad9-4ed2-8d9f-b0096c5ec4ad
+
+	measure 'Failed Shipments' =
+			
+			CALCULATE(
+			    [Total Shipments],
+			    shipments_revenue_leakage[delivery_status] = "Failed"
+			)
+		formatString: 0
+		lineageTag: 492f8a9a-2b1a-479f-85cf-be9fb49840fa
+
+	measure 'Late Shipments' =
+			
+			CALCULATE(
+			    [Total Shipments],
+			    shipments_revenue_leakage[is_late_delivery] = "Yes"
+			)
+		formatString: 0
+		lineageTag: a8c80b3b-6158-4f9b-91f8-c9d0ef2978a0
+
+	measure 'Delivery Success Rate' =
+			
+			DIVIDE(
+			    CALCULATE(
+			        [Total Shipments],
+			        shipments_revenue_leakage[delivery_status] = "Delivered"
+			    ),
+			    [Total Shipments]
+			)
+		formatString: 0.00%;-0.00%;0.00%
+		lineageTag: 8d206b2e-779c-4ccb-8746-9f6cff5a8231
+
+	measure 'Shipment Failure Rate' =
+			
+			DIVIDE(
+			    [Failed Shipments],
+			    [Total Shipments]
+			)
+		formatString: 0.00%;-0.00%;0.00%
+		lineageTag: e67036e1-a8bc-4692-a35b-cef174e9e147
+
+	measure 'Average Delay Days' =
+			
+			AVERAGE(shipments_revenue_leakage[delay_days_clean])
+		lineageTag: 6ce74c51-88c7-4e0c-b4fb-5ff183bfee26
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column shipment_id
+		dataType: int64
+		formatString: 0
+		lineageTag: b6915ede-0547-4ad7-8e4c-686b157dea8b
+		summarizeBy: sum
+		sourceColumn: shipment_id
+
+		annotation SummarizationSetBy = Automatic
+
+	column order_id
+		dataType: int64
+		formatString: 0
+		lineageTag: 72c6f497-a608-407a-944a-296b132594af
+		summarizeBy: none
+		sourceColumn: order_id
+
+		annotation SummarizationSetBy = Automatic
+
+	column shipment_date
+		dataType: dateTime
+		formatString: Long Date
+		lineageTag: a8b3428a-8fea-4df9-a355-ae5d7e217dc3
+		summarizeBy: none
+		sourceColumn: shipment_date
+
+		variation Variation
+			isDefault
+			relationship: e325fc90-121c-4053-a59e-09a590f391aa
+			defaultHierarchy: LocalDateTable_8fdd1191-4aeb-45d9-a66d-10a61055bb52.'Date Hierarchy'
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column expected_delivery_date
+		dataType: dateTime
+		formatString: Long Date
+		lineageTag: 84d02f23-d788-4c8a-a619-0e26dee9e874
+		summarizeBy: none
+		sourceColumn: expected_delivery_date
+
+		variation Variation
+			isDefault
+			relationship: 3f44e9bb-f496-49a7-b3e6-929ab605c6b5
+			defaultHierarchy: LocalDateTable_b5732457-c08a-4940-a0a7-36b3f20332b6.'Date Hierarchy'
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column actual_delivery_date
+		dataType: dateTime
+		formatString: Long Date
+		lineageTag: 93d245ae-9962-49f2-b3ae-7c0b6c25da78
+		summarizeBy: none
+		sourceColumn: actual_delivery_date
+
+		variation Variation
+			isDefault
+			relationship: 20cc8190-4474-47ab-8481-bc23f67081b8
+			defaultHierarchy: LocalDateTable_0a7f9866-c068-4824-b20e-4bcc1fdd0bf9.'Date Hierarchy'
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column courier_partner
+		dataType: string
+		lineageTag: a17f2e90-bcfc-49f3-8b55-f489591a5647
+		summarizeBy: none
+		sourceColumn: courier_partner
+
+		annotation SummarizationSetBy = Automatic
+
+	column warehouse_city
+		dataType: string
+		lineageTag: 7233ad86-75d1-41e6-a108-58e3a8d267f5
+		summarizeBy: none
+		sourceColumn: warehouse_city
+
+		annotation SummarizationSetBy = Automatic
+
+	column delivery_status
+		dataType: string
+		lineageTag: 50b8c5d4-1656-4939-9823-54b337600603
+		summarizeBy: none
+		sourceColumn: delivery_status
+
+		annotation SummarizationSetBy = Automatic
+
+	column delivery_attempts
+		dataType: int64
+		formatString: 0
+		lineageTag: 9661aeef-61ae-464d-b7b7-484728ca53e2
+		summarizeBy: sum
+		sourceColumn: delivery_attempts
+
+		annotation SummarizationSetBy = Automatic
+
+	column shipping_cost
+		dataType: double
+		lineageTag: 7c2e9220-f36f-4469-ad0b-c079ec425ba4
+		summarizeBy: sum
+		sourceColumn: shipping_cost
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column failure_reason
+		dataType: string
+		lineageTag: 7373515d-95dc-4cef-a32f-92f1ebe1294a
+		summarizeBy: none
+		sourceColumn: failure_reason
+
+		annotation SummarizationSetBy = Automatic
+
+	column delay_days
+		dataType: int64
+		formatString: 0
+		lineageTag: 1201591c-45a3-4c19-8dd9-b5da1a790f92
+		summarizeBy: sum
+		sourceColumn: delay_days
+
+		annotation SummarizationSetBy = Automatic
+
+	column is_late_delivery
+		dataType: string
+		lineageTag: 1e21c0c0-a20d-4943-a67e-757c0c4d6408
+		summarizeBy: none
+		sourceColumn: is_late_delivery
+
+		annotation SummarizationSetBy = Automatic
+
+	column delay_days_clean
+		dataType: double
+		lineageTag: 881b468f-3cc7-45e8-9b70-b8cbe07505fe
+		summarizeBy: sum
+		sourceColumn: delay_days_clean
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column delay_days_valid
+		dataType: boolean
+		formatString: """TRUE"";""TRUE"";""FALSE"""
+		lineageTag: 290e155a-afb6-4e21-bf4f-f36b6768550c
+		summarizeBy: none
+		sourceColumn: delay_days_valid
+
+		annotation SummarizationSetBy = Automatic
+
+	partition shipments_revenue_leakage = m
+		mode: import
+		source =
+				let
+				    Source = MySQL.Database("127.0.01:3306", "revenue_leakage", [ReturnSingleDatabase=true]),
+				    revenue_leakage_shipments = Source{[Schema="revenue_leakage",Item="shipments"]}[Data]
+				in
+				    revenue_leakage_shipments
+
+	changedProperty = Name
+
+	annotation PBI_ResultType = Table
+

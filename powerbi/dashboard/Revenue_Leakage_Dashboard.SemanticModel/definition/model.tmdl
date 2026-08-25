@@ -1,0 +1,35 @@
+model Model
+	culture: en-IN
+	defaultPowerBIDataSourceVersion: powerBI_V3
+	sourceQueryCulture: en-IN
+	valueFilterBehavior: independent
+	dataAccessOptions
+		legacyRedirects
+		returnErrorValuesAsNull
+
+annotation __PBI_TimeIntelligenceEnabled = 1
+
+annotation PBI_QueryOrder = ["shipments_revenue_leakage","returns_refunds_revenue_leakage","products_revenue_leakage","orders_revenue_leakage","order_items_revenue_leakage","customers_revenue_leakage"]
+
+annotation PBI_ProTooling = ["DevMode"]
+
+ref table shipments_revenue_leakage
+ref table DateTableTemplate_d3c2942f-66e7-4c7f-b838-4f85e3f6fec8
+ref table LocalDateTable_8fdd1191-4aeb-45d9-a66d-10a61055bb52
+ref table LocalDateTable_b5732457-c08a-4940-a0a7-36b3f20332b6
+ref table LocalDateTable_0a7f9866-c068-4824-b20e-4bcc1fdd0bf9
+ref table returns_refunds_revenue_leakage
+ref table LocalDateTable_9bee4d6d-76f9-407c-8720-bd63fd918aaa
+ref table LocalDateTable_7ddabb4b-fec9-48df-acd9-c175986067fa
+ref table LocalDateTable_2f849cf6-3c49-4209-a182-c280eff24ce0
+ref table products_revenue_leakage
+ref table LocalDateTable_c0c4dfb3-fb6d-49f8-bc19-833c017a38c1
+ref table orders_revenue_leakage
+ref table LocalDateTable_65d1db61-192d-487f-8640-f1c04978aac5
+ref table order_items_revenue_leakage
+ref table customers_revenue_leakage
+ref table LocalDateTable_c7d1535c-dc4d-45e3-883d-19dfbef86829
+ref table LocalDateTable_219b5dfc-d9be-47f6-94bf-ec0b40f68d4e
+
+ref cultureInfo en-IN
+

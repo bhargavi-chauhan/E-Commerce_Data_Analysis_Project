@@ -1,0 +1,140 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.12.0/schema.json",
+  "name": "be56d7bea25da2400095",
+  "position": {
+    "x": 1098,
+    "y": 696,
+    "z": 4000,
+    "height": 362,
+    "width": 806,
+    "tabOrder": 4000
+  },
+  "visual": {
+    "visualType": "tableEx",
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "returns_refunds_revenue_leakage"
+                    }
+                  },
+                  "Property": "return_reason"
+                }
+              },
+              "queryRef": "returns_refunds_revenue_leakage.return_reason",
+              "nativeQueryRef": "return_reason"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "returns_refunds_revenue_leakage"
+                    }
+                  },
+                  "Property": "Total Return Cases"
+                }
+              },
+              "queryRef": "returns_refunds_revenue_leakage.Total Return Cases",
+              "nativeQueryRef": "Total Return Cases"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "returns_refunds_revenue_leakage"
+                    }
+                  },
+                  "Property": "Total Refund Amount"
+                }
+              },
+              "queryRef": "returns_refunds_revenue_leakage.Total Refund Amount",
+              "nativeQueryRef": "Total Refund Amount"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "returns_refunds_revenue_leakage"
+                    }
+                  },
+                  "Property": "Total Operational Return Cost"
+                }
+              },
+              "queryRef": "returns_refunds_revenue_leakage.Total Return Cost",
+              "nativeQueryRef": "Total Return Cost"
+            }
+          ]
+        }
+      },
+      "sortDefinition": {
+        "sort": [
+          {
+            "field": {
+              "Column": {
+                "Expression": {
+                  "SourceRef": {
+                    "Entity": "returns_refunds_revenue_leakage"
+                  }
+                },
+                "Property": "return_reason"
+              }
+            },
+            "direction": "Ascending"
+          }
+        ]
+      }
+    },
+    "objects": {
+      "values": [
+        {
+          "properties": {
+            "fontSize": {
+              "expr": {
+                "Literal": {
+                  "Value": "14D"
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    "visualContainerObjects": {
+      "title": [
+        {
+          "properties": {
+            "text": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Return Reason Financial Impact'"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "subTitle": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "false"
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    "drillFilterOtherVisuals": true
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.12.0/schema.json",
+  "name": "f4111abfed598517a6b2",
+  "position": {
+    "x": 971,
+    "y": 705,
+    "z": 5000,
+    "height": 355,
+    "width": 932,
+    "tabOrder": 5000
+  },
+  "visual": {
+    "visualType": "pivotTable",
+    "query": {
+      "queryState": {
+        "Columns": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "customers_revenue_leakage"
+                    }
+                  },
+                  "Property": "churn_risk"
+                }
+              },
+              "queryRef": "customers_revenue_leakage.churn_risk",
+              "nativeQueryRef": "churn_risk",
+              "active": true
+            }
+          ]
+        },
+        "Rows": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "customers_revenue_leakage"
+                    }
+                  },
+                  "Property": "customer_segment"
+                }
+              },
+              "queryRef": "customers_revenue_leakage.customer_segment",
+              "nativeQueryRef": "customer_segment",
+              "active": true
+            }
+          ]
+        },
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "NativeVisualCalculation": {
+                  "Language": "dax",
+                  "Expression": "EXPANDALL(SUM([Revenue Loss_Base]), ROWS COLUMNS)",
+                  "Name": "Revenue Loss"
+                },
+                "Annotations": {
+                  "customTotalMetadata": {
+                    "baseQueryName": "orders_revenue_leakage.Revenue Loss"
+                  }
+                }
+              },
+              "queryRef": "select",
+              "nativeQueryRef": "Revenue Loss",
+              "format": "\"₹\"\\ #,0.00;#,0.00\\ -\"₹\";\"₹\"\\ #,0.00"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "orders_revenue_leakage"
+                    }
+                  },
+                  "Property": "Revenue Loss"
+                }
+              },
+              "queryRef": "orders_revenue_leakage.Revenue Loss",
+              "nativeQueryRef": "Revenue Loss_Base",
+              "hidden": true,
+              "displayName": "Revenue Loss_Base"
+            }
+          ]
+        }
+      }
+    },
+    "objects": {
+      "values": [
+        {
+          "properties": {
+            "fontSize": {
+              "expr": {
+                "Literal": {
+                  "Value": "15D"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "columnHeaders": [
+        {
+          "properties": {
+            "fontSize": {
+              "expr": {
+                "Literal": {
+                  "Value": "17D"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "rowHeaders": [
+        {
+          "properties": {
+            "fontSize": {
+              "expr": {
+                "Literal": {
+                  "Value": "17D"
+                }
+              }
+            },
+            "unfrozen": {
+              "expr": {
+                "Literal": {
+                  "Value": "false"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "grid": [
+        {
+          "properties": {
+            "gridHorizontal": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "gridHorizontalWeight": {
+              "expr": {
+                "Literal": {
+                  "Value": "3D"
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    "visualContainerObjects": {
+      "stylePreset": [
+        {
+          "properties": {
+            "name": {
+              "expr": {
+                "Literal": {
+                  "Value": "'None'"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "subTitle": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "false"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "title": [
+        {
+          "properties": {
+            "text": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Leakage by Customer Segment & Churn Risk'"
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    "drillFilterOtherVisuals": true
+  }
+}

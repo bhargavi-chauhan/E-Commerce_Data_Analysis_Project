@@ -1,0 +1,103 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.12.0/schema.json",
+  "name": "d1b6f254ef9b48ede24c",
+  "position": {
+    "x": 1271.4285714285716,
+    "y": 645.71428571428578,
+    "z": 1000,
+    "height": 414.28571428571433,
+    "width": 632.85714285714289,
+    "tabOrder": 1000
+  },
+  "visual": {
+    "visualType": "donutChart",
+    "query": {
+      "queryState": {
+        "Category": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "shipments_revenue_leakage"
+                    }
+                  },
+                  "Property": "delivery_status"
+                }
+              },
+              "queryRef": "shipments_revenue_leakage.delivery_status",
+              "nativeQueryRef": "delivery_status",
+              "active": true
+            }
+          ]
+        },
+        "Y": {
+          "projections": [
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "shipments_revenue_leakage"
+                    }
+                  },
+                  "Property": "Total Shipments"
+                }
+              },
+              "queryRef": "shipments_revenue_leakage.Total Shipments",
+              "nativeQueryRef": "Total Shipments"
+            }
+          ]
+        }
+      },
+      "sortDefinition": {
+        "sort": [
+          {
+            "field": {
+              "Measure": {
+                "Expression": {
+                  "SourceRef": {
+                    "Entity": "shipments_revenue_leakage"
+                  }
+                },
+                "Property": "Total Shipments"
+              }
+            },
+            "direction": "Descending"
+          }
+        ],
+        "isDefaultSort": true
+      }
+    },
+    "visualContainerObjects": {
+      "subTitle": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "false"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "title": [
+        {
+          "properties": {
+            "text": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Shipment Status Distribution'"
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    "drillFilterOtherVisuals": true
+  }
+}

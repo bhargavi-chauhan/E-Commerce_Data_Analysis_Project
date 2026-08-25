@@ -1,0 +1,103 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.12.0/schema.json",
+  "name": "1d3f65098bfa38f4ad1a",
+  "position": {
+    "x": 340,
+    "y": 646,
+    "z": 2000,
+    "height": 414,
+    "width": 916,
+    "tabOrder": 2000
+  },
+  "visual": {
+    "visualType": "areaChart",
+    "query": {
+      "queryState": {
+        "Category": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "shipments_revenue_leakage"
+                    }
+                  },
+                  "Property": "courier_partner"
+                }
+              },
+              "queryRef": "shipments_revenue_leakage.courier_partner",
+              "nativeQueryRef": "courier_partner",
+              "active": true
+            }
+          ]
+        },
+        "Y": {
+          "projections": [
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "shipments_revenue_leakage"
+                    }
+                  },
+                  "Property": "Delivery Success Rate"
+                }
+              },
+              "queryRef": "shipments_revenue_leakage.Delivery Success Rate",
+              "nativeQueryRef": "Delivery Success Rate"
+            }
+          ]
+        }
+      },
+      "sortDefinition": {
+        "sort": [
+          {
+            "field": {
+              "Measure": {
+                "Expression": {
+                  "SourceRef": {
+                    "Entity": "shipments_revenue_leakage"
+                  }
+                },
+                "Property": "Delivery Success Rate"
+              }
+            },
+            "direction": "Descending"
+          }
+        ],
+        "isDefaultSort": true
+      }
+    },
+    "visualContainerObjects": {
+      "subTitle": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "false"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "title": [
+        {
+          "properties": {
+            "text": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Courier Delivery Success Rate'"
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    "drillFilterOtherVisuals": true
+  }
+}

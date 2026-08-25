@@ -1,0 +1,101 @@
+table order_items_revenue_leakage
+	lineageTag: dc487bb8-fa82-435f-a759-1a567d26aba0
+
+	column order_item_id
+		dataType: int64
+		formatString: 0
+		lineageTag: 8037f82b-b728-4127-a3ea-eab045a82c9c
+		summarizeBy: none
+		sourceColumn: order_item_id
+
+		annotation SummarizationSetBy = Automatic
+
+	column order_id
+		dataType: int64
+		formatString: 0
+		lineageTag: 7a771584-f53e-417b-a526-6af09de2bcc9
+		summarizeBy: sum
+		sourceColumn: order_id
+
+		annotation SummarizationSetBy = Automatic
+
+	column product_id
+		dataType: int64
+		formatString: 0
+		lineageTag: 62eac855-8701-4f0a-bf05-8c52636ad25e
+		summarizeBy: none
+		sourceColumn: product_id
+
+		annotation SummarizationSetBy = Automatic
+
+	column quantity
+		dataType: int64
+		formatString: 0
+		lineageTag: 20bf1a9b-4689-4888-9c43-a2e08b96e1b8
+		summarizeBy: sum
+		sourceColumn: quantity
+
+		annotation SummarizationSetBy = Automatic
+
+	column unit_price
+		dataType: double
+		lineageTag: c1a119e9-40c7-4fbc-b309-3f2db7df9db9
+		summarizeBy: sum
+		sourceColumn: unit_price
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column discount_amount
+		dataType: double
+		lineageTag: b4495022-2b50-4c85-8a2b-9433aac5452a
+		summarizeBy: sum
+		sourceColumn: discount_amount
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column item_revenue
+		dataType: double
+		lineageTag: 508658d3-2306-4e3f-a055-5fdcecc9dd55
+		summarizeBy: sum
+		sourceColumn: item_revenue
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column discount_applied
+		dataType: int64
+		formatString: 0
+		lineageTag: bd8d01be-2629-41cc-985a-4de74acfa3f9
+		summarizeBy: sum
+		sourceColumn: discount_applied
+
+		annotation SummarizationSetBy = Automatic
+
+	column final_price
+		dataType: double
+		lineageTag: c54f1ce5-4bb3-4663-aeda-187e43eff1b9
+		summarizeBy: sum
+		sourceColumn: final_price
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	partition order_items_revenue_leakage = m
+		mode: import
+		source =
+				let
+				    Source = MySQL.Database("127.0.01:3306", "revenue_leakage", [ReturnSingleDatabase=true]),
+				    revenue_leakage_order_items = Source{[Schema="revenue_leakage",Item="order_items"]}[Data]
+				in
+				    revenue_leakage_order_items
+
+	changedProperty = Name
+
+	annotation PBI_ResultType = Table
+

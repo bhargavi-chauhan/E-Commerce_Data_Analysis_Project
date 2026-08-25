@@ -1,0 +1,139 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.12.0/schema.json",
+  "name": "13c0fb43c3afb5c19b31",
+  "position": {
+    "x": 340,
+    "y": 174.28571428571431,
+    "z": 3000,
+    "height": 460.00000000000006,
+    "width": 915.71428571428578,
+    "tabOrder": 3000
+  },
+  "visual": {
+    "visualType": "scatterChart",
+    "query": {
+      "queryState": {
+        "Series": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "shipments_revenue_leakage"
+                    }
+                  },
+                  "Property": "courier_partner"
+                }
+              },
+              "queryRef": "shipments_revenue_leakage.courier_partner",
+              "nativeQueryRef": "courier_partner"
+            }
+          ]
+        },
+        "Size": {
+          "projections": [
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "shipments_revenue_leakage"
+                    }
+                  },
+                  "Property": "Total Shipments"
+                }
+              },
+              "queryRef": "shipments_revenue_leakage.Total Shipments",
+              "nativeQueryRef": "Total Shipments"
+            }
+          ]
+        },
+        "X": {
+          "projections": [
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "shipments_revenue_leakage"
+                    }
+                  },
+                  "Property": "Shipment Failure Rate"
+                }
+              },
+              "queryRef": "shipments_revenue_leakage.Shipment Failure Rate",
+              "nativeQueryRef": "Shipment Failure Rate",
+              "active": true
+            }
+          ]
+        },
+        "Y": {
+          "projections": [
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "shipments_revenue_leakage"
+                    }
+                  },
+                  "Property": "Average Delay Days"
+                }
+              },
+              "queryRef": "shipments_revenue_leakage.Average Delay Days",
+              "nativeQueryRef": "Average Delay Days"
+            }
+          ]
+        }
+      },
+      "sortDefinition": {
+        "sort": [
+          {
+            "field": {
+              "Measure": {
+                "Expression": {
+                  "SourceRef": {
+                    "Entity": "shipments_revenue_leakage"
+                  }
+                },
+                "Property": "Shipment Failure Rate"
+              }
+            },
+            "direction": "Descending"
+          }
+        ],
+        "isDefaultSort": true
+      }
+    },
+    "visualContainerObjects": {
+      "subTitle": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "false"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "title": [
+        {
+          "properties": {
+            "text": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Average Delivery Delay by Courier'"
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    "drillFilterOtherVisuals": true
+  }
+}

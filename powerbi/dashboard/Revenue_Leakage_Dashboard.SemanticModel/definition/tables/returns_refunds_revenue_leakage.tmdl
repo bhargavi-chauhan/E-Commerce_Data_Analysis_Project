@@ -1,0 +1,212 @@
+table returns_refunds_revenue_leakage
+	lineageTag: 99698ffd-3880-47c8-aaaa-6ec12c4a4349
+
+	measure 'Total Return Cases' =
+			
+			COUNTROWS(returns_refunds_revenue_leakage)
+		formatString: 0
+		lineageTag: 7fe43ad3-ab92-4bd5-9632-85f0786c993b
+
+	measure 'Total Refund Amount' = SUM(returns_refunds_revenue_leakage[refund_amount])
+		formatString: "₹"#,0.00;#,0.00\ -"₹";"₹"#,0.00
+		lineageTag: bfe384b5-bc99-4e85-a9fa-1592c1594b3b
+
+		annotation PBI_FormatHint = {"currencyCulture":"hi-IN"}
+
+	measure 'Total Operational Return Cost' =
+			
+			SUM(returns_refunds_revenue_leakage[reverse_logistics_cost])
+			+
+			SUM(returns_refunds_revenue_leakage[restocking_cost])
+		formatString: "₹"#,0.00;#,0.00\ -"₹";"₹"#,0.00
+		lineageTag: 5c7d4659-84dc-4d15-a554-ce7151e19981
+
+		annotation PBI_FormatHint = {"currencyCulture":"hi-IN"}
+
+	measure 'Pending Refund Amount' =
+			
+			CALCULATE(
+			    [Total Refund Amount],
+			    returns_refunds_revenue_leakage[refund_status] = "Pending"
+			)
+		formatString: "₹"#,0.00;#,0.00\ -"₹";"₹"#,0.00
+		lineageTag: 9875923d-5639-4d37-92bf-bd6b378fd73b
+
+		annotation PBI_FormatHint = {"currencyCulture":"hi-IN"}
+
+	column return_refund_id
+		dataType: int64
+		formatString: 0
+		lineageTag: 0e6a8be0-cc20-40cb-9e11-f0811890f107
+		summarizeBy: sum
+		sourceColumn: return_refund_id
+
+		annotation SummarizationSetBy = Automatic
+
+	column order_id
+		dataType: int64
+		formatString: 0
+		lineageTag: 6fcc4301-ad12-47bf-b8d4-7a6a09dee7d0
+		summarizeBy: none
+		sourceColumn: order_id
+
+		annotation SummarizationSetBy = Automatic
+
+	column order_item_id
+		dataType: int64
+		formatString: 0
+		lineageTag: 5d3f268f-fbec-414c-b262-4f5d1a241ce0
+		summarizeBy: none
+		sourceColumn: order_item_id
+
+		annotation SummarizationSetBy = Automatic
+
+	column return_type
+		dataType: string
+		lineageTag: f57c8f94-67ac-4abb-9d11-e71bf16ce73f
+		summarizeBy: none
+		sourceColumn: return_type
+
+		annotation SummarizationSetBy = Automatic
+
+	column return_request_date
+		dataType: dateTime
+		formatString: Long Date
+		lineageTag: 14523429-c0dd-403d-adfe-71f820cfc922
+		summarizeBy: none
+		sourceColumn: return_request_date
+
+		variation Variation
+			isDefault
+			relationship: 32985a32-c5d1-4301-b397-7f1a78f4eead
+			defaultHierarchy: LocalDateTable_9bee4d6d-76f9-407c-8720-bd63fd918aaa.'Date Hierarchy'
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column return_reason
+		dataType: string
+		lineageTag: 4634884a-e0ad-4e22-971b-81f8e49b0383
+		summarizeBy: none
+		sourceColumn: return_reason
+
+		annotation SummarizationSetBy = Automatic
+
+	column returned_quantity
+		dataType: int64
+		formatString: 0
+		lineageTag: 2b29d334-1e60-4725-a49a-bf724d5d9ed4
+		summarizeBy: sum
+		sourceColumn: returned_quantity
+
+		annotation SummarizationSetBy = Automatic
+
+	column product_condition
+		dataType: string
+		lineageTag: 717f2336-4abf-41db-9740-1f6f20cab199
+		summarizeBy: none
+		sourceColumn: product_condition
+
+		annotation SummarizationSetBy = Automatic
+
+	column refund_status
+		dataType: string
+		lineageTag: 74247287-e129-4524-857b-6612b051352c
+		summarizeBy: none
+		sourceColumn: refund_status
+
+		annotation SummarizationSetBy = Automatic
+
+	column refund_request_date
+		dataType: dateTime
+		formatString: Long Date
+		lineageTag: a035e64d-e644-4cf6-ba66-7497155b2b29
+		summarizeBy: none
+		sourceColumn: refund_request_date
+
+		variation Variation
+			isDefault
+			relationship: 37d8019f-4029-496f-8f6d-5edea08931fe
+			defaultHierarchy: LocalDateTable_7ddabb4b-fec9-48df-acd9-c175986067fa.'Date Hierarchy'
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column refund_processed_date
+		dataType: dateTime
+		formatString: Long Date
+		lineageTag: 0d46fb02-c9e8-492e-81e1-a355150135a2
+		summarizeBy: none
+		sourceColumn: refund_processed_date
+
+		variation Variation
+			isDefault
+			relationship: e41b09b6-425d-48bf-bb56-b81a58780d5c
+			defaultHierarchy: LocalDateTable_2f849cf6-3c49-4209-a182-c280eff24ce0.'Date Hierarchy'
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column refund_amount
+		dataType: double
+		lineageTag: 1df989e0-16db-4158-bea0-b5389b960229
+		summarizeBy: sum
+		sourceColumn: refund_amount
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column reverse_logistics_cost
+		dataType: double
+		lineageTag: 0932f97d-3686-41fb-ab51-5a2c5ea7ec7a
+		summarizeBy: sum
+		sourceColumn: reverse_logistics_cost
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column restocking_cost
+		dataType: double
+		lineageTag: 9f852058-803f-4453-b218-7f475a7a4e5f
+		summarizeBy: sum
+		sourceColumn: restocking_cost
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column refund_delay_days
+		dataType: int64
+		formatString: 0
+		lineageTag: ad356fb0-516d-4973-a4bc-d94b407195e3
+		summarizeBy: sum
+		sourceColumn: refund_delay_days
+
+		annotation SummarizationSetBy = Automatic
+
+	column is_full_refund
+		dataType: string
+		lineageTag: 0da4c64c-e35a-4b75-a577-2afffa058e6a
+		summarizeBy: none
+		sourceColumn: is_full_refund
+
+		annotation SummarizationSetBy = Automatic
+
+	partition returns_refunds_revenue_leakage = m
+		mode: import
+		source =
+				let
+				    Source = MySQL.Database("127.0.01:3306", "revenue_leakage", [ReturnSingleDatabase=true]),
+				    revenue_leakage_returns_refunds = Source{[Schema="revenue_leakage",Item="returns_refunds"]}[Data]
+				in
+				    revenue_leakage_returns_refunds
+
+	changedProperty = Name
+
+	annotation PBI_ResultType = Table
+
