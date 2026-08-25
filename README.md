@@ -42,10 +42,10 @@ The project uses a multi-table e-commerce dataset containing:
 The final Power BI Report contains four interactive analytical pages:
 
 1. **Executive Overview**
-![Executive Overview](screenshot/1-executive_overview.png)
+![Executive Overview](../screenshot/1-executive_overview.png)
 High-level view of the leakage problem. 10,000 orders, ₹555.82M total order value, ₹53.38M revenue loss, 9.60% leakage rate. 99.5% of revenue loss traces to Failed orders. Credit Card has the highest payment-method failure rate (10.48%) vs. COD, the lowest (8.87%).
 2. **Shipment & Courier Performance**
-![Shipment & Courier Performance](screenshot/2-shipment_courier_performance.png)
+![Shipment & Courier Performance](../2-shipment_courier_performance.png)
 Operational view of delivery performance. 61.37% overall delivery success rate, 6,000 late shipments. Courier Delay is by far the top failure reason (~1,000 shipments) vs. ~400 each for other causes. The failure-rate-vs-delay scatter shows courier performance is fairly tight-banded (10.2%–11.0% failure, 3.45–3.57 avg delay days) — no single courier is a dramatic outlier in either direction.
 3. **Returns & Refunds**
 ![Returns & Refunds](screenshot/3-returns_refunds.png)
